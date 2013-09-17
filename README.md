@@ -136,7 +136,7 @@ Adding a conference involves the following steps:
        The name of each PC member must match the name and middle initials
        as they are used in DBLP (otherwise, get duplicate entries will
        appear in the UI). Note that special characters in people's names
-       need to be encoded (see (here)[http://www.w3schools.com/tags/ref_entities.asp]
+       need to be encoded (see [here](http://www.w3schools.com/tags/ref_entities.asp)
        for a list of HTML character codes).  For example, you'll need to
        encode a lowercase 'a' with an umlaut as '&auml' or '&#228'.
 
