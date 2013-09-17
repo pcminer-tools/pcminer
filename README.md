@@ -22,7 +22,7 @@ with the characters "Jan". When you select Jan Vitek's name from the
 resulting list, you'll see something that looks like the attached
  [screenshot](screenshot.jpg).
 The file [screenshot2.jpg](screenshot2.jpg) shows Jan's record after restricting
-the date range to 2009-2013 using the slider. 
+the date range to 2009-2014 using the slider. 
     
 Note that clicking on a co-author's name will result in navigating to the record
 for that co-author.    
