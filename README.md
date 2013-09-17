@@ -132,8 +132,8 @@ Adding a conference involves the following steps:
          
  5. Once your files are all in place, you can generate the UI by running PCMiner.java
  
- IV. Feedback, Suggestions, and Acknowledgements
- -----------------------------------------------
+III. Feedback, Suggestions, and Acknowledgements
+-----------------------------------------------
  
 PC-miner was developed by Frank Tip. Feedback, suggestions, and improvements 
 are most welcome, as is additional conference data.
