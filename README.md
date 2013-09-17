@@ -1,8 +1,6 @@
 pcminer
 =======
 
-PC-miner tool for program chairs
-
 PC-Miner is a tool that analyzes publications and program committee service in the top conferences 
 in Programming Languages and Software Engineering. Currently, the tool supports the following 
 conferences: ASE, ECOOP, FSE, ICSE, ISSTA, OOPSLA, PLDI, and POPL and it covers the years 1995-2014. 
@@ -12,7 +10,7 @@ conference web sites.
 I. Using PC-Miner
 ------------------
 
-To start using PC-miner, just open the index.html file in your browser.
+To start using PC-miner, go into the "ui" subdirectory, and open the index.html file in your browser.
 This should bring up a window that looks like the screenshot in the
 included screenshot.jpg file.
 
