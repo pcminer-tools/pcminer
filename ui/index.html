@@ -1,0 +1,108 @@
+<!DOCTYPE>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="css/iThing.css" type="text/css" />
+  <link rel="stylesheet" href="jquery-ui-1.10.3.css" type="text/css" />
+  
+  	<!-- REJ added SimpleModal-->
+    <!-- Page styles -->
+    <link type='text/css' href='css/simplemodal/demo.css' rel='stylesheet' media='screen' />
+    <!-- Contact Form CSS files -->
+    <link type='text/css' href='css/simplemodal/basic.css' rel='stylesheet' media='screen' />
+    <!-- IE6 "fix" for the close png image -->
+    <!--[if lt IE 7]>
+    <link type='text/css' href='css/simplemodal/basic_ie.css' rel='stylesheet' media='screen' />
+    <![endif]-->
+		
+	<style>
+	  #dblpNotice {font-size:10px;}
+	  #nrpubs {font-size:10px;}
+	  #nrcommittees {font-size:10px;}
+	  .conf {font-size:14px;}
+	</style>
+		
+	<style type="text/css">
+		/*demo page css*/
+		body{ font: 62.5% "Trebuchet MS", sans-serif; margin: 50px;}
+		.demoHeaders { margin-top: 2em; }
+		#dialog_link {padding: .4em 1em .4em 20px;text-decoration: none;position: relative;}
+		#dialog_link span.ui-icon {margin: 0 5px 0 0;position: relative;left: .2em;top: 50%;margin-top: -8px;}
+		ul#icons {margin: 0; padding: 0;}
+		ul#icons li {margin: 2px; position: relative; padding: 4px 0; cursor: pointer; float: left;  list-style: none;}
+		ul#icons span.ui-icon {float: left; margin: 0 4px;}
+	</style>	
+
+		
+	<style type="text/css" media="screen">
+	  body { background: #EEF0F7; }
+	 .layout { padding: 6px; font-family: Georgia, serif; }
+	 .layout-slider { margin-bottom: 0px; width: 50%; }
+	 .layout-slider-settings { font-size: 12px; padding-bottom: 2px; }
+	 .layout-slider-settings pre { font-family: Courier; }
+	</style>
+  
+  <script type="text/javascript" src="js/jquery-1.9.1.js"></script> 
+  <script type="text/javascript" src="js/jquery-ui-1.10.3.js"></script>
+  <script type="text/javascript" src="js/jQDateRangeSlider-withRuler-min.js"></script>
+  <script type="text/javascript" src="js/code.js"></script>	
+  <script type="text/javascript" src="js/data.js"></script>
+  <script type='text/javascript' src='js/jquery.simplemodal-1.4.4.js'></script>	
+</head>
+<body>
+	<h1 id="title">PC-Miner</h1>
+	
+	<table>
+	<!--  acknowledge license -->
+	<tr><td><div id="dblpNotice">This tool contains information from the <a href="http://www.informatik.uni-trier.de/~ley/db/index.html">DBLP Bibliography Server</a>  which is made available
+    under the ODC Attribution License.</div></td></tr>
+	<tr>&nbsp;</tr> 
+	<!--  row 1 -->
+	<tr>
+    <td>
+    <div id=checkboxes></div>
+    <div id = "nrpubs"><span>stub</span></div>   <div id = "nrcommittees"><span>stub</span></div>  
+    </td>
+    </tr>
+	
+	<!--  row 2 -->
+	<tr><td>
+	<div id="slider"></div>
+	</td></tr>
+	</table>
+	<br></br>
+	
+	
+  <form>
+  <select id="selector" onchange='pcminer.selectionChanged(this.options[this.selectedIndex].value)'>
+  </select>
+  </form>
+
+   <!-- form for "search for" and "conditions" -->
+   <form id="searchFor" onSubmit="return false;">
+    Search for: <input id = "formField" type="text" name="firstname" onchange='pcminer.nameFilterChanged(this.value)'>  
+    Filter:  <input id = "filterField" type="text" name="filter" onchange='pcminer.conditionFilterChanged(this.value)'> <I>e.g.: committees("PLDI") > 3 && !chair("PLDI")</I>
+   </form>
+
+	<!-- REJ added SimpleModal -->
+	<div id = 'content'>
+	  <div id='basic-modal'>
+	      <!--<input type='button' name='basic' value='Demo' class='basic'/> -->
+	      <button onClick="pcminer.copyToClipboard()">Display selected names</button>
+	  </div>
+	  <!-- modal content -->
+	  <div id="basic-modal-content">
+	    <!-- content appended to this element -->
+	  </div>
+	  <!-- preload the images -->
+	  <div style='display:none'>
+	    <img src='images/basic/x.png' alt='' />
+	  </div>
+	 </div>    
+
+  <!-- this is where the author's list of publications and committees will be displayed -->
+  <div id="authorinfo" rows="9" cols="40"></div>	
+	
+</body>
+</html>

@@ -1,0 +1,33 @@
+C:Giovanna Guerrini
+C:Elena Zucca
+O:Davide Ancona
+O:Walter Cazzola
+P:Sophia Drossopoulou 
+Elisa L. A. Baniassad
+Fran&#231;oise Baude 
+Bernhard Beckert 
+Lodewijk Bergmans 
+John Tang Boyland 
+William R. Cook
+Eric Eide 
+Erik Ernst 
+Cormac Flanagan 
+Joseph Gil
+Neal Glew 
+Kathryn E. Gray 
+G&ouml;rel Hedin 
+Atsushi Igarashi 
+Richard E. Jones
+Viktor Kuncak 
+Doug Lea 
+Gary T. Leavens 
+Oscar Nierstrasz 
+James Noble 
+Nathaniel Nystrom 
+Awais Rashid 
+Diomidis Spinellis 
+Peter Sewell 
+Laurence Tratt 
+Jan Vitek 
+Matthias Zenger 
+Elena Zucca

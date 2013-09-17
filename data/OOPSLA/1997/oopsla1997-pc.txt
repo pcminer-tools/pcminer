@@ -1,0 +1,32 @@
+C:Mary Loomis
+P:Toby Bloom
+Mehmet Aksit
+Lougie Anderson
+Craig Chambers
+Alistair Cockburn
+Derek Coleman
+James Coplien
+Ward Cunningham
+Mark Day
+Amer Diwan
+Kathleen Fisher
+Joseph Gil
+Adele Goldberg
+Rachid Guerraoui
+Laura Hill
+Mamdouh Ibrahim
+Gregor Kiczales
+Gary T. Leavens
+Barbara Staudt Lerner
+Boris Magnusson
+Satoshi Matsuoka
+Ronald Morrison
+Gail C. Murphy
+Linda M. Northrop
+Atsushi Ohori
+Mary Beth Rosson
+Guy L. Steele Jr.
+Jacob Stein
+Joe Sventek
+Lizette Velazquez
+John M. Vlissides

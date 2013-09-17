@@ -1,0 +1,80 @@
+G:Jan Vitek
+G:Haibo Lin
+P:Frank Tip
+Hans-Juergen Boehm
+Wenguang Chen
+Jong-Deok Choi
+Cliff Click
+Byron Cook
+Amer Diwan
+Sophia Drossopoulou
+Susan Eisenbach
+Robby Findler
+Stephen J. Fink
+Stephen N. Freund
+Patrice Godefroid
+Dan Grossman
+Samuel Z. Guyer
+Laurie J. Hendren
+Antony L. Hosking
+Jaakko J&auml;rvi
+Ondrej Lhot&aacute;k
+Ben Liblit
+Calvin Lin
+Margaret Martonosi
+Todd D. Millstein
+Anders M&oslash;ller
+Nathaniel Nystrom
+David A. Padua
+Barbara G. Ryder
+Zhendong Su
+Mandana Vaziri
+Chenggang Wu
+Eran Yahav
+E:J. Nelson Amaral
+E:Matthew Arnold
+E:Stephen M. Blackburn
+E:Guy E. Blelloch
+E:Kim B. Bruce
+E:Luis Ceze
+E:Dhruva R. Chakrabarti
+E:Satish Chandra
+E:Bor-Yuh Evan Chang
+E:Swarat Chaudhuri
+E:Chen Ding
+E:Erik Ernst
+E:Azadeh Farzan
+E:Matthew Flatt
+E:Jeffrey S. Foster
+E:Ronald Garcia
+E:Robert Grimm
+E:Aarti Gupta
+E:Ben Hardekopf
+E:Chris Hawblitzel
+E:G&ouml;rel Hedin
+E:Robert Hundt
+E:Richard E. Jones
+E:Roy Ju
+E:Shriram Krishnamurthi
+E:Martha Kim
+E:Jens Knoop
+E:Ulrich Kremer
+E:Doug Lea
+E:Jenq-Kuen Lee
+E:Sorin Lerner
+E:Kathryn S. McKinley
+E:Matthew Might
+E:Hanspeter M�ssenb�ck
+E:Satish Narayanasamy
+E:James Noble
+E:Shaz Qadeer
+E:G. Ramalingam
+E:John Regehr
+E:Max Sch&auml;fer
+E:Manu Sridharan
+E:Emina Torlak
+E:Christoph von Praun
+E:Adam Welc
+E:Youfeng Wu
+E:Steve Zdancewic
+E:Xiangyu Zhang	

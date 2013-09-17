@@ -1,0 +1,29 @@
+C:Richard P. Gabriel
+P:David F. Bacon
+Andrew Begel
+Stephen M. Blackburn
+Siobh&aacute;n Clarke
+Cliff Click
+Charles Consel
+William R. Cook
+Lidia Fuentes
+David Gay
+Dan Grossman
+Timothy L. Harris
+Matthias Hauswirth
+Michael W. Hicks
+David Holmes
+Hans-Arno Jacobsen
+Eric Jul
+Gregor Kiczales
+Cristina Videira Lopes
+Ana Milanova
+Robert O'Callahan
+Radu Rugina
+Koushik Sen
+Yannis Smaragdakis
+Guy L. Steele Jr.
+Mandana Vaziri
+Eelco Visser
+Jan Vitek
+Amiram Yehudai

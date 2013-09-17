@@ -1,0 +1,29 @@
+G:Tibor Gyim&oacute;thy
+P:Andreas Zeller
+V&iacute;ctor A. Braberman
+Lionel C. Briand
+Tevfik Bultan
+Licia Capra
+Antonio Carzaniga
+Rudolf Ferenc
+Carlo Ghezzi
+Holger Giese
+Martin Glinz
+Mark Harman
+Val&eacute;rie Issarny
+Sunghun Kim
+Andrew J. Ko
+Shriram Krishnamurthi
+Mira Mezini
+Henry Muccini
+Brendan Murphy
+Aditya V. Nori
+Corina S. Pasareanu
+Mauro Pezz&#232;
+Klaus Pohl
+Martin P. Robillard
+Wilhelm Schäfer
+Yannis Smaragdakis
+Margaret-Anne D. Storey
+Zhendong Su
+Mandana Vaziri

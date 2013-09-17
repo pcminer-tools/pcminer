@@ -1,0 +1,26 @@
+C:Rachid Guerraoui
+P:Luca Cardelli
+O:Mira Mezini
+Mehmet Aksit
+Suad Alagic
+Elisa Bertino
+Andrew P. Black
+Vinny Cahill
+Theo D'Hondt
+Peter Dickman
+Sophia Drossopoulou
+Urs H&ouml;lzle
+Atsushi Igarashi
+Mehdi Jazayeri
+Eric Jul
+Doug Lea
+Gary T. Leavens
+J&#248;rgen Lindskov Knudsen
+Boris Magnusson
+Mira Mezini
+Oscar Nierstrasz
+Martin Odersky
+Jens Palsberg
+John H. Reppy
+Jan Vitek
+Guy L. Steele Jr.

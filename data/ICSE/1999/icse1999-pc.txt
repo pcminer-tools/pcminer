@@ -1,0 +1,46 @@
+G:Barry W. Boehm 
+P:David Garlan
+P:Jeff Kramer 
+Gregory D. Abowd
+Joanne M. Atlee
+George S. Avrunin
+Alan W. Brown
+Lori A. Clarke
+Paulo R. F. Cunha
+Jean-Claude Derniame
+Premkumar T. Devanbu
+Laura K. Dillon
+Anthony Finkelstein
+Alfonso Fuggetta
+Kokichi Futatsugi
+John Gannon
+Marie-Claude Gaudel
+Carlo Ghezzi
+Martin L. Griss
+Mary Jean Harrold
+James Hook
+Stefan JŠhnichen
+D. Ross Jeffery
+Gregory F. Johnson
+Ralph E. Johnson
+Kumiyo Nakakoji
+Axel van Lamsweerde
+Daniel Le MŽtayer
+Nicole Levy
+Jeff Magee
+Aloysius K. Mok
+Gail C. Murphy
+David Notkin
+Bashar Nuseibeh
+Harold Ossher
+Mike Papazoglou
+Shari Lawrence Pfleeger
+Adam A. Porter
+Spencer Rugaber
+David A. Schmidt
+Mary Shaw
+Kevin J. Sullivan
+Richard N. Taylor
+Martyn Thomas
+Michal Young
+Alexander L. Wolf

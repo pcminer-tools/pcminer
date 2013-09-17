@@ -1,0 +1,24 @@
+C:Linda M. Northrop
+P:John M. Vlissides
+John J. Barton
+Robert Binder
+Toby Bloom
+Craig Chambers
+Krzysztof Czarnecki
+Jim Doble
+Brian Foote
+Dennis Gannon
+Giovanna Guerrini
+Gerti Kappel
+Joe Kiniry
+J&#248;rgen Lindskov Knudsen
+Doug Lea
+Mary E. S. Loomis
+Satoshi Matsuoka
+Gail C. Murphy
+Oscar Nierstrasz
+James Noble
+Bran Selic
+Peter F. Sweeney
+Clemens A. Szyperski
+Rebecca Wirfs-Brock

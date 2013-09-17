@@ -1,0 +1,45 @@
+G:Jeff Kramer
+G:Judith Bishop
+P:Premkumar T. Devanbu
+P:Sebasti&aacute;n Uchitel
+Joanne M. Atlee
+Antonia Bertolino
+Víctor A. Braberman
+Lionel C. Briand
+Antonio Carzaniga
+Satish Chandra
+Marsha Chechik
+Paola Inverardi
+S. C. Cheung
+Matthew B. Dwyer
+Wolfgang Emmerich
+Harald Gall
+Carlo Ghezzi
+Dimitra Giannakopoulou
+Holger Giese
+Paul Gr&uuml;nbacher
+Ahmed E. Hassan
+James D. Herbsleb
+Ingolf H. Krüger
+Michele Lanza
+Emmanuel Letier
+Jeff Magee
+Nenad Medvidovic
+Audris Mockus
+Amy L. Murphy
+Gail C. Murphy
+Nachiappan Nagappan
+Bashar Nuseibeh
+Alessandro Orso
+Sriram K. Rajamani
+Yannis Smaragdakis
+Jin Song Dong
+Margaret-Anne D. Storey
+Zhendong Su
+Kevin J. Sullivan
+Frank Tip
+Arie van Deursen
+Jim Whitehead
+Alexander L. Wolf
+Tao Xie
+Andreas Zeller

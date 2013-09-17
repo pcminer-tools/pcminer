@@ -1,0 +1,23 @@
+G:George C. Necula
+P:Philip Wadler
+Amal Ahmed
+Lars Birkedal
+Guy E. Blelloch
+Gilad Bracha
+Byron Cook
+Thierry Coquand
+Vincent Danos
+Robert Bruce Findler
+Neal Glew
+Haruo Hosoya
+Matthew Hennessy
+Ranjit Jhala
+Tobias Nipkow
+James Noble
+Sanjiva Prasad
+Zhong Shao
+Yannis Smaragdakis
+Eijiro Sumii
+Peter Thiemann
+Peter Van Roy
+Jan Vitek

@@ -1,0 +1,19 @@
+G:Vivek Sarkar
+P:Mary W. Hall
+Ali-Reza Adl-Tabatabai
+Gul Agha
+Andrew W. Appel
+Stephen M. Blackburn
+David Chase     
+Chen Ding       
+Manuel F&#228;hndrich
+Jeanne Ferrante
+Cormac Flanagan         
+Michael Hind    
+Susan Horwitz   
+Joxan Jaffar    
+Scott A. Mahlke 
+Martin Odersky  
+Keshav Pingali  
+Radu Rugina     
+David B. Whalley

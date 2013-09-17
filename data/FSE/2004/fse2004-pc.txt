@@ -1,0 +1,26 @@
+G:Richard N. Taylor
+P:Matthew B. Dwyer
+Kenneth M. Anderson
+Annie I. Ant&#243;n
+Joanne M. Atlee
+Premkumar T. Devanbu
+Mary Jean Harrold
+John Hatcliff
+James D. Herbsleb
+Andr&eacute; van der Hoek
+Paola Inverardi
+Gregor Kiczales
+Jeff Kramer
+Shriram Krishnamurthi
+Shinji Kusumoto
+Axel van Lamsweerde
+Bashar Nuseibeh
+Mauro Pezz&#232;
+Gian Pietro Picco
+David S. Rosenblum
+Gregg Rothermel
+Wilhelm Schäfer
+Douglas C. Schmidt
+Peri L. Tarr
+Frank Tip
+Willem Visser

@@ -1,0 +1,50 @@
+G:David Notkin
+P:Betty H.C. Cheng
+P:Klaus Pohl
+Lionel C. Briand
+Margaret M. Burnett
+Manuel Carro
+Antonio Carzaniga
+Krzysztof Czarnecki
+Premkumar T. Devanbu
+Schahram Dustdar
+Matthew B. Dwyer
+Robert B. France
+Harald C. Gall
+David Garlan
+Carlo Ghezzi
+Dimitra Giannakopoulou
+Michael Goedicke
+Volker Gruhn
+Paul Gr&uuml;nbacher
+John C. Grundy
+Mark Harman
+Wilhelm Hasselbring
+Jane Huffman Hayes
+James D. Herbsleb
+Patrick Heymans
+Paola Inverardi
+Val&eacute;rie Issarny
+Mehdi Jazayeri
+Jean-Marc J&eacute;z&eacute;quel
+Sunghun Kim
+John C. Knight
+Robyn R. Lutz
+Jeff Magee
+Gail C. Murphy
+John Mylopoulos
+Nachiappan Nagappan
+Alessandro Orso
+Mauro Pezz&egrave;
+Ralf Reussner
+Martin P. Robillard
+David S. Rosenblum
+Gregg Rothermel
+Wilhelm Sch&auml;fer
+Tetsuo Tamai
+Peri L. Tarr
+Frank Tip
+Sebasti&aacute;n Uchitel
+Andr&eacute; van der Hoek
+Willem Visser
+Jon Whittle

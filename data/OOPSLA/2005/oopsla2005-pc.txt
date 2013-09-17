@@ -1,0 +1,28 @@
+C:Ralph E. Johnson
+P:Richard P. Gabriel
+Alan OÕCallaghan
+Andrew P. Black
+Christa Schwanninger
+Christoph M. Kirsch
+Cristina Videira Lopes
+Daniel C. M. May
+David F. Bacon
+David G. Clarke
+Dave A. Thomas
+Dave West
+Dirk Riehle
+Douglas C. Schmidt
+J. Gregory Morrisett
+Julie McCann
+Karl J. Lieberherr
+Kathleen Fisher
+Kent Beck
+Linda G. DeMichiel
+Martin C. Rinard
+Matthias Felleisen
+Michael Kšlling
+Peter Sommerlad
+Robert Biddle
+Robert J. Walker
+William R. Cook
+William Pugh

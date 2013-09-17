@@ -1,0 +1,36 @@
+G:Antony L. Hosking
+G:Patrick Th. Eugster
+P:Cristina V. Lopes
+Alexander J. Summers
+Bruno C. d. S. Oliveira
+Christian K&auml;stner
+Claudio V. Russo
+Danny Dig
+David H. Lorenz
+Don S. Batory
+Doug Lea
+Eelco Visser
+Emerson R. Murphy-Hill
+Gang Tan
+Giuseppe Castagna
+Guoqing (Harry) Xu
+Hidehiko Masuhara
+Hridesh Rajan
+Jennifer B. Sartor
+Julia L. Lawall
+Kiyokuni Kawachiya
+Koushik Sen
+Matthew B. Dwyer
+Matthias Hauswirth
+Mircea Lungu
+Noam Rinetzky
+Reid Holmes
+Robert Hirschfeld
+Sam Tobin-Hochstadt
+Shigeru Chiba
+Stefan Hanenberg
+Todd D. Millstein
+Wolfgang De Meuter
+Yu David Liu
+Yvonne Coady
+Zhendong Su

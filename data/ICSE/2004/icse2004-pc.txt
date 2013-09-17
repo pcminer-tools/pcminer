@@ -1,0 +1,50 @@
+G:Anthony Finkelstein
+P:Jacky Estublier
+P:David S. Rosenblum
+Kenneth M. Anderson
+Annie I. Ant&#243;n
+Antonia Bertolino
+Lori A. Clarke
+Premkumar T. Devanbu
+Laura K. Dillon
+Sebastian G. Elbaum
+Wolfgang Emmerich
+Michael D. Ernst
+Peter H. Feiler
+Stephen Fickas
+Kokichi Futatsugi
+Harald Gall
+David Garlan
+Carlo Ghezzi
+William G. Griswold
+Andr&eacute; van der Hoek
+Volker Gruhn
+Mary Jean Harrold
+Katsuro Inoue
+Paola Inverardi
+Val&#233;rie Issarny
+Pankaj Jalote
+Jean-Marc J&#233;z&#233;quel
+John C. Knight
+Jeff Kramer
+Philippe Kruchten
+Axel van Lamsweerde
+Bev Littlewood
+Nazim H. Madhavji
+Neil Maiden
+Cecilia Mascolo
+Kumiyo Nakakoji
+Bashar Nuseibeh
+Alessandro Orso
+Harold Ossher
+Leon J. Osterweil
+Farid Ouabdesselam
+Steven P. Reiss
+Gruia-Catalin Roman
+Mary Lou Soffa
+Clemens A. Szyperski
+Richard N. Taylor
+Michel Wermelinger
+Jim Whitehead
+Alexander L. Wolf
+Andreas Zeller

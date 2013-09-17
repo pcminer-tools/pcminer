@@ -1,0 +1,27 @@
+C:Mamdouh Ibrahim
+P:Satoshi Matsuoka
+Mikio Aoyama
+David F. Bacon
+Kent Beck
+Elisa Bertino
+Gilad Bracha
+Frank Buschmann
+Craig Chambers
+Shigeru Chiba
+Jennifer Hamilton
+Seongsoo Hong
+Antony L. Hosking
+Gregor Kiczales
+Doug Lea
+Andrew Lumsdaine
+Boris Magnusson
+Mira Mezini
+Gail C. Murphy
+Oscar Nierstrasz
+James Noble
+Jens Palsberg
+Martin C. Rinard
+Guy L. Steele Jr.
+Clemens A. Szyperski
+John M. Vlissides
+Allen Wirfs-Brock

@@ -1,0 +1,34 @@
+C:Shail Arora
+P:Gary T. Leavens
+Don S. Batory
+Nick Benton
+Elisa Bertino
+John Tang Boyland
+Danny Dig
+Sophia Drossopoulou
+Matthew B. Dwyer
+Erik Ernst
+Robert Bruce Findler
+Robert B. France
+Richard P. Gabriel
+Philippa Gardner
+Dan Grossman
+G&ouml;rel Hedin
+Bart Jacobs
+Suresh Jagannathan
+Sarfraz Khurshid
+Gregor Kiczales
+Chandra Krintz
+Cristina Videira Lopes
+Robyn R. Lutz
+Kathryn S. McKinley
+Todd D. Millstein
+Peter M�ller
+James Noble
+Klaus Ostermann
+Hridesh Rajan
+Dirk Riehle
+Martin C. Rinard
+Robby
+Vibha Sazawal
+David Walker

@@ -1,0 +1,52 @@
+G:Richard N. Taylor
+P:Harald Gall
+P:Nenad Medvidovic
+Don S. Batory 
+Lionel C. Briand 
+Gerardo Canfora 
+Antonio Carzaniga 
+Betty H. C. Cheng 
+S. C. Cheung 
+Vittorio Cortellessa 
+Premkumar T. Devanbu
+Matthew B. Dwyer 
+Alexander Egyed 
+Sebastian G. Elbaum 
+Michael D. Ernst 
+Alessandro F. Garcia 
+David Garlan 
+Carlo Ghezzi 
+William G. Griswold 
+Volker Gruhn 
+Tibor Gyim—thy 
+John Hatcliff 
+Mats Per Erik Heimdahl
+Katsuro Inoue 
+Paola Inverardi 
+Rainer Koschke 
+Michele Lanza 
+Robyn R. Lutz 
+Sam Malek 
+Darko Marinov 
+Nachiappan Nagappan 
+David Notkin 
+Bashar Nuseibeh 
+Alessandro Orso 
+Harold Ossher 
+Mauro Pezz&#232;
+Martin P. Robillard 
+David S. Rosenblum 
+Anita Sarma 
+Wilhelm Sch&auml;fer 
+Tetsuo Tamai 
+Frank Tip 
+Sebasti&aacute;n Uchitel 
+Andr&eacute; van der Hoek 
+Arie van Deursen 
+Willem Visser 
+Laurie A. Williams 
+Tao Xie 
+Yun Yang 
+Apostolos Zarras 
+Andreas Zeller 
+Thomas Zimmermann

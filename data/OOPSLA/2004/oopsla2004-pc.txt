@@ -1,0 +1,29 @@
+C:John M. Vlissides
+P:Douglas C. Schmidt
+Gul Agha
+David F. Bacon
+Elisa L. A. Baniassad
+Frank Buschmann
+Roy H. Campbell
+Fabio Kon
+Doug Lea
+Jens Coldewey
+Krzysztof Czarnecki
+Richard P. Gabriel
+Gail E. Harris
+John Hatcliff
+David Holmes
+Hans-Arno Jacobsen
+Torsten Layda
+Gary T. Leavens
+Joe Loyall
+Satoshi Matsuoka
+John D. McGregor
+Mira Mezini
+Martin Odersky
+Jens Palsberg
+Guy L. Steele Jr.
+Peri L. Tarr
+Steve Vinoski
+Jan Vitek
+David Ungar

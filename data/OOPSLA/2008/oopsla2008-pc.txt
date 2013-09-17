@@ -1,0 +1,29 @@
+C:Gail E. Harris
+P:Gregor Kiczales
+Jonathan Aldrich
+David F. Bacon
+Elisa L. A. Baniassad
+Andrew P. Black
+Andrew Begel
+Charles Consel
+Christopher Dutchyn
+Jonathan Edwards
+Jeff Gray
+William H. Harrison
+G&ouml;rel Hedin
+Laurie J. Hendren
+David Holmes
+Kazuaki Ishizaki
+Shriram Krishnamurthi
+Gary T. Leavens
+Hidehiko Masuhara
+James S. Miller
+Dirk Riehle
+Vibha Sazawal
+Jeremy G. Siek
+Yannis Smaragdakis
+Walid Taha
+Mandana Vaziri
+Jan Vitek
+Roel Wuyts
+Andreas Zeller

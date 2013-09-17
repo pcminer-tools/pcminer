@@ -1,0 +1,48 @@
+G:Will Tracz
+P:Michal Young
+P:Jeff Magee
+George S. Avrunin
+Shing-Chi Cheung
+Lori A. Clarke
+Premkumar T. Devanbu
+Laura K. Dillon
+Wolfgang Emmerich
+Jacky Estublier
+Stuart R. Faulk
+Miguel Felder
+Jos&eacute; Luiz Fiadeiro
+Anthony Finkelstein
+David Garlan
+Carlo Ghezzi
+Robert J. Hall
+Mary Jean Harrold
+Paola Inverardi
+Val&eacute;rie Issarny
+Pankaj Jalote
+D. Ross Jeffery
+Jeff Kramer
+T. S. E. Maibaum
+Nenad Medvidovic
+Robert L. Nord
+David Notkin
+Bashar Nuseibeh
+Harold Ossher
+Dewayne E. Perry
+Mauro Pezz&#232;
+Gian Pietro Picco
+David S. Rosenblum
+Barbara G. Ryder
+Motoshi Saeki
+Wilhelm Schäfer
+Kevin J. Sullivan
+Clemens A. Szyperski
+Tetsuo Tamai
+Richard N. Taylor
+Walter F. Tichy
+Axel van Lamsweerde
+Michel Wermelinger
+Roel Wieringa
+David S. Wile
+Jack C. Wileden
+Alexander L. Wolf
+Daniel Yankelevich

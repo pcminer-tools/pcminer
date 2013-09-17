@@ -1,0 +1,34 @@
+C:Marjan Hericko
+C:Ales Zivkovic
+O:Ales Zivkovic
+C:Simon Vrecar
+P:Theo D'Hondt
+Gabriela Ar&eacute;valo
+Uwe A&#223;mann
+Elisa L. A. Baniassad
+Shigeru Chiba
+Yvonne Coady
+Sophia Drossopoulou
+St&eacute;phane Ducasse
+Erik Ernst
+Richard P. Gabriel
+Joseph Gil
+Michael Haupt
+G&ouml;rel Hedin
+Ralf L&auml;mmel
+Michele Lanza
+Doug Lea
+Mira Mezini
+James Noble
+Frank Piessens
+Awais Rashid
+Martin C. Rinard
+Manuel Serrano
+Mario S&uuml;dholt
+&Eacute;ric Tanter
+Laurence Tratt
+David Ungar
+Arie van Deursen
+Jan Vitek
+Adam Welc
+Elena Zucca

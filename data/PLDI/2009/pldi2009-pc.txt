@@ -1,0 +1,75 @@
+G:Michael Hind
+P:Amer Diwan
+Ali-Reza Adl-Tabatabai
+Laurie J. Hendren
+William Pugh
+Stephen M. Blackburn
+Wilson C. Hsieh
+Shaz Qadeer
+Hans-Juergen Boehm
+Jens Knoop
+Jeremy G. Siek
+Karl Crary
+Chandra Krintz
+Yannis Smaragdakis
+Pedro C. Diniz
+Doug Lea
+Linda Torczon
+Lieven Eeckhout
+Ondrej Lhot&aacute;k
+Xiangyu Zhang
+David Grove
+Tamiya Onodera 	 
+Matthias Hauswirth
+Jens Palsberg
+E:Vikram S. Adve
+E:Jeffrey S. Foster
+E:Igor Peshansky
+E:Alexander Aiken
+E:Stephen N. Freund
+E:Erez Petrank
+E:Jonathan Aldrich
+E:Healfdene Goguen
+E:Oliver R�thing
+E:David F. Bacon
+E:David Gregg
+E:Mooly Sagiv
+E:Rastislav Bod�k
+E:Dan Grossman
+E:Vivek Sarkar
+E:Preston Briggs
+E:R. Nigel Horspool
+E:Bernhard Scholz
+E:David Brooks
+E:Richard E. Jones
+E:Michael I. Schwartzbach
+E:Mihai Budiu
+E:Akira Koseki
+E:Olin Shivers
+E:John Cavazos
+E:Calvin Lin
+E:Manu Sridharan
+E:Bor-Yuh Evan Chang
+E:Darko Marinov
+E:Darko Stefanovic
+E:Trishul M. Chilimbi
+E:Matthias Meyer
+E:James M. Stichnoth
+E:Cliff Click
+E:Kathryn S. McKinley
+E:Michelle Mills Strout
+E:Keith D. Cooper
+E:Vijay Menon
+E:Kenjiro Taura
+E:Jack W. Davidson
+E:Hanspeter M�ssenb�ck
+E:Petr Tuma
+E:Derek Dreyer
+E:Frank Mueller
+E:David B. Whalley
+E:Evelyn Duesterwald
+E:David A. Padua
+E:Jingling Xue
+E:Stephen J. Fink
+E:P. Madhusudan
+E:Hongseok Yang

@@ -1,0 +1,25 @@
+C:Bj&#248;rn N. Freeman-Benson
+P:Craig Chambers
+Mart&iacute;n Abadi
+Craig Chambers
+Andrew A. Chien
+Ron Crocker
+Mary F. Fernandez
+Kathleen Fisher
+Richard Helm
+Laura Hill
+Urs H&ouml;lzle
+Antony L. Hosking
+Daniel Jackson
+Eric Jul
+John Lamping
+Gail C. Murphy
+Oscar Nierstrasz
+Harold Ossher
+Mary Beth Rosson
+Michael I. Schwartzbach
+Scott F. Smith
+Peter F. Sweeney
+Dave A. Thomas
+Jeannette M. Wing
+Rebecca Wirfs-Brock

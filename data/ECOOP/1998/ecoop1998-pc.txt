@@ -1,0 +1,32 @@
+C:Luc Steels
+P:Eric Jul
+O:Theo D'Hondt
+Mehmet Aksit
+Jean-Pierre Briot
+Frank Buschmann
+Vinny Cahill
+Luca Cardelli
+Craig Chambers
+Derek Coleman
+Charles Consel
+Peter Dickman
+Bj&#248;rn N. Freeman-Benson
+Erich Gamma
+Rachid Guerraoui
+Norman C. Hutchinson
+Yutaka Ishikawa
+Gerti Kappel
+J&#248;rgen Lindskov Knudsen
+Sacha Krakowiak
+Bent Bruun Kristensen
+Karl J. Lieberherr
+Ole Lehrmann Madsen
+Boris Magnusson
+Satoshi Matsuoka
+Paola Mello
+Ana Moreira
+Ronald Morrison
+Oscar Nierstrasz
+Jens Palsberg
+Dag I. K. Sj&#248;berg
+Jan Vitek

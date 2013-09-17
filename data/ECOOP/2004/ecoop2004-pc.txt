@@ -1,0 +1,26 @@
+C:Birger M&#248;ller-Pedersen
+O:Arne Maus
+P:Martin Odersky
+Uwe Assmann
+Don S. Batory
+Gilad Bracha
+Luca Cardelli
+Charles Consel
+Giuseppe Castagna
+Peter Dickman
+Sophia Drossopoulou
+Erik Ernst
+Manuel F&#228;hndrich
+Giovanna Guerrini
+Urs H&ouml;lzle
+Mehdi Jazayeri
+Shriram Krishnamurthi
+Doug Lea
+Mira Mezini
+Oscar Nierstrasz
+Martin Odersky
+Atsushi Ohori
+Douglas C. Schmidt
+Luis Rodrigues
+Clemens A. Szyperski
+Philip Wadler

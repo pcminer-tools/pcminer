@@ -1,0 +1,43 @@
+G:Shinichi Honiden
+P:Sebasti&aacute;n Uchitel
+P:Steve M. Easterbrook
+Perry Alexander
+V&iacute;ctor A. Braberman
+Tevfik Bultan
+Marsha Chechik
+Vittorio Cortellessa
+Krzysztof Czarnecki
+Thomas Ellman
+Bernd Fischer
+Harald Gall
+Artur S. d'Avila Garcez
+Dimitra Giannakopoulou
+Michael W. Godfrey
+Michael Goedicke
+Paul Gr&uuml;nbacher
+Neelam Gupta
+Robert J. Hall
+Scott Henninger
+Paola Inverardi
+Sarfraz Khurshid
+Jeff Kramer
+Michele Lanza
+Emmanuel Letier
+Michael R. Lowry
+Jonathan I. Maletic
+Katsuhisa Maruyama
+Roland T. Mittermeir
+Amy L. Murphy
+Alessandro Orso
+Charles Pecheur
+John Penix
+Gregg Rothermel
+Kurt Stirewalt
+Gabriele Taentzer
+Tetsuo Tamai
+Willem Visser
+Hironori Washizaki
+Virginie Wiels
+Tao Xie
+Yunwen Ye
+Andrea Zisman

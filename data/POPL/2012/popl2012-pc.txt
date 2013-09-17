@@ -1,0 +1,88 @@
+G:John Field
+P:Michael W. Hicks
+Swarat Chaudhuri
+Adam J. Chlipala
+Dan R. Ghica
+Aarti Gupta
+Chris Hawblitzel
+Suresh Jagannathan
+Ranjit Jhala
+Sorin Lerner
+Ondrej Lhot&aacute;k
+P. Madhusudan
+Rupak Majumdar
+Matthew Might
+Todd D. Millstein
+Greg Morrisett
+Andrew C. Myers
+Matthew J. Parkinson
+Frank Piessens
+Andrew M. Pitts
+Andreas Podelski
+François Pottier
+Norman Ramsey
+Tachio Terauchi
+Mandana Vaziri
+Dimitrios Vytiniotis
+Nobuko Yoshida
+Francesco Zappa Nardelli
+E:Umut A. Acar
+E:Rajeev Alur
+E:Josh Berdine
+E:Emery D. Berger
+E:Hans-Juergen Boehm
+E:Ahmed Bouajjani
+E:David Brumley
+E:Bor-Yuh Evan Chang
+E:James Cheney
+E:Koen Claessen
+E:William R. Cook
+E:Derek Dreyer
+E:John Field
+E:Robby Findler
+E:Cormac Flanagan
+E:Jeffrey S. Foster
+E:Nate Foster
+E:Patrice Godefroid
+E:Andy Gordon
+E:Dan Grossman
+E:Rajiv Gupta
+E:Kohei Honda
+E:Joxan Jaffar
+E:Somesh Jha
+E:Patty Johann
+E:Neel Krishnaswami
+E:Viktor Kuncak
+E:Paul Levy
+E:Yitzhak Mandelbaum
+E:Roman Manevich
+E:Ken McMillan
+E:Mayur Naik
+E:Aditya V. Nori
+E:Luke Ong
+E:Erez Petrank
+E:Simon L. Peyton Jones
+E:Brigitte Pientka
+E:Mark Ryan
+E:Andrey Rybalchenko
+E:Vijay A. Saraswat
+E:Helmut Seidl
+E:Peter Sewell
+E:Chung-chieh Shan
+E:Zhong Shao
+E:Satnam Singh
+E:Yannis Smaragdakis
+E:Manu Sridharan
+E:Sam Staton
+E:Zhendong Su
+E:Nikhil Swamy
+E:Ashish Tiwari
+E:Stavros Tripakis
+E:Jean-Baptiste Tristan
+E:Martin T. Vechev
+E:David Walker
+E:Stephanie Weirich
+E:Adam Welc
+E:Kwangkeun Yi
+E:Steve Zdancewic
+E:Noam Zeilberger

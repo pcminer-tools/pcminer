@@ -1,0 +1,21 @@
+G:Manuel V. Hermenegildo
+P:Jens Palsberg
+Alexander Aiken
+Rajeev Alur     
+Cristiano Calcagno      
+Juan Chen       
+Wei-Ngan Chin   
+Mads Dam        
+Erik Ernst      
+John Field      
+Cormac Flanagan         
+Roberto Giacobazzi      
+Rachid Guerraoui        
+Sorin Lerner    
+Calvin Lin      
+Atsushi Ohori   
+Andrey Rybalchenko              
+Amr Sabry       
+Mooly Sagiv     
+Peter Sewell    
+Tayssir Touili

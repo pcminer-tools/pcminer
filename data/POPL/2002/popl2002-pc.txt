@@ -1,0 +1,15 @@
+G:John Launchbury
+P:John C. Mitchell
+Krzysztof R. Apt
+Manuel F&#228;hndrich
+Kathleen Fisher
+Patrice Godefroid
+Laurie J. Hendren
+Susan Horwitz
+John Hughes
+K. Rustan M. Leino
+Xavier Leroy
+J. Gregory Morrisett
+Martin Odersky
+Peter W. O'Hearn
+Mark N. Wegman

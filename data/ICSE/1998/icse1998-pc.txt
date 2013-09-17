@@ -1,0 +1,39 @@
+G:Koji Torii 
+P:Kokichi Futatsugi
+P:Richard A. Kemmerer
+Betty H. C. Cheng
+S. C. Cheung
+Lori A. Clarke
+Michael A. Cusumano
+Premkumar T. Devanbu
+Alfonso Fuggetta
+John Gannon
+David Garlan
+Richard Gerber
+Carlo Ghezzi
+William G. Griswold
+Daniel Hoffman
+Shinichi Honiden
+Susan Horwitz
+Katsuro Inoue
+Joxan Jaffar
+Mehdi Jazayeri
+D. Ross Jeffery
+Dehua Ju
+Kyo Chul Kang
+John C. Knight
+Jeff Kramer
+Reino Kurki-Suonio
+Axel van Lamsweerde
+Nancy G. Leveson
+Klaus-Peter Lohr
+Mark Moriconi
+Kumiyo Nakakoji
+Dewayne E. Perry
+Adam A. Porter
+Gruia-Catalin Roman
+Motoshi Saeki
+Wilhelm Schäfer
+Will Tracz
+Alexander L. Wolf
+Michal Young

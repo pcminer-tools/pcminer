@@ -1,0 +1,24 @@
+C:Mary Beth Rosson
+P:Doug Lea
+Ole Agesen
+Gerald Baumgartner
+Kent Beck
+Elisa Bertino
+Toby Bloom
+Ron Crocker
+Erich Gamma
+Rachid Guerraoui
+Ralph E. Johnson
+Boris Magnusson
+Satoshi Matsuoka
+Oscar Nierstrasz
+Linda M. Northrop
+Benjamin C. Pierce
+William Pugh
+Aamod Sane
+Bran Selic
+Peri L. Tarr
+Kresten Krab Thorup
+Kevin Tyson
+Jan Vitek
+Philip Wadler

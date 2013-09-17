@@ -1,0 +1,86 @@
+G:Mary W. Hall
+P:David A. Padua
+Saman P. Amarasinghe
+Andrew W. Appel
+Michael G. Burke
+John Cavazos
+Albert Cohen
+Amer Diwan
+Evelyn Duesterwald
+Michael Franz
+David Gregg
+Thomas R. Gross
+Manuel V. Hermenegildo
+Suresh Jagannathan
+Mahmut T. Kandemir
+Ulrich Kremer
+Viktor Kuncak
+James R. Larus
+V. Benjamin Livshits
+Kathryn S. McKinley
+J. Gregory Morrisett
+Jens Palsberg
+Keshav Pingali
+Andreas Podelski
+Sriram K. Rajamani
+John H. Reppy
+Atanas Rountev
+Armando Solar-Lezama
+Michelle Mills Strout
+Frank Tip
+Peng Tu
+Christoph von Praun
+Peng Wu
+E:Vikram S. Adve
+E:Amal Ahmed
+E:George S. Almasi
+E:Lennart Augustsson
+E:Denis Barthou
+E:Guy E. Blelloch
+E:Matthias Blume
+E:Michael D. Bond
+E:Martin Burtscher
+E:Luis Ceze
+E:Craig Chambers
+E:William R. Cook
+E:Keith D. Cooper
+E:Patrick Cousot
+E:Ron Cytron
+E:Rudolf Eigenmann
+E:Paul Feautrier
+E:Jeffrey S. Foster
+E:Pascal Fradet
+E:Roberto Giacobazzi
+E:Neal Glew
+E:Kevin Hammond
+E:Timothy L. Harris
+E:Chandra Krintz
+E:Monica S. Lam
+E:Jaejin Lee
+E:Jenq-Kuen Lee
+E:Zhiyuan Li
+E:Guei-Yuan Lueh
+E:Rupak Majumdar
+E:Samuel P. Midkiff
+E:Nick Mitchell
+E:Anders M&oslash;ller
+E:J. Eliot B. Moss
+E:Hanspeter Mšssenbšck
+E:Alan Mycroft
+E:Yunheung Paek
+E:Sanjay V. Rajopadhye
+E:Lakshminarayanan Renganarayana
+E:Martin C. Rinard
+E:Anne Rogers
+E:Grigore Rosu
+E:Andrey Rybalchenko
+E:P. Sadayappan
+E:Michael L. Scott
+E:William Thies  
+E:Mahesh Viswanathan
+E:David Scott Warren
+E:Stephanie Weirich
+E:Wenguang Chen
+E:Chengyong Wu
+E:Youfeng Wu
+E:Greta Yorsh 

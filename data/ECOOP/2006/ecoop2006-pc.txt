@@ -1,0 +1,41 @@
+P:Dave A. Thomas
+O:Jean B&eacute;zivin
+O:Pierre Cointe
+Mehmet Aksit
+Jonathan Aldrich
+David F. Bacon
+Don S. Batory
+Fran&#231;oise Baude
+Andrew P. Black
+Gilad Bracha
+Luca Cardelli
+Craig Chambers
+Shigeru Chiba
+William R. Cook
+Wolfgang De Meuter
+Theo D'Hondt
+Christophe Dony
+John Duimovich
+Erik Ernst
+Michael D. Ernst
+Patrick Eugster
+Bj&#248;rn N. Freeman-Benson
+William H. Harrison
+Eric Jul
+Gerti Kappel
+Gregor Kiczales
+Karl J. Lieberherr
+Boris Magnusson
+Jacques Malenfant
+Erik Meijer
+Mira Mezini
+Birger M&#248;ller-Pedersen
+Douglas C. Schmidt
+Clemens A. Szyperski
+Frank Tip
+Mads Torgersen
+Vasco T. Vasconcelos
+Cristina Videira Lopes
+Wolfgang Weck
+Roel Wuyts
+Matthias Zenger

@@ -1,0 +1,30 @@
+C:Peri L. Tarr
+P:William R. Cook
+David F. Bacon
+Stephen M. Blackburn
+Jan Bosch
+Chandrasekhar Boyapati
+Shigeru Chiba
+Jens Coldewey
+James Coplien
+Amer Diwan
+Matthew B. Dwyer
+Robert Bruce Findler
+Richard P. Gabriel
+William G. Griswold
+Rachid Guerraoui
+Manish Gupta
+Ralf LŠmmel
+Doug Lea
+Gary T. Leavens
+David H. Lorenz
+Todd D. Millstein
+Andrew C. Myers
+James Noble
+Jens Palsberg
+Dirk Riehle
+Linda Rising
+Gregor Snelting
+Dave A. Thomas
+Rebecca Wirfs-Brock
+Joseph W. Yode

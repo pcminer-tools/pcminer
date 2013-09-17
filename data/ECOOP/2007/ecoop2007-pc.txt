@@ -1,0 +1,44 @@
+C:Stefan J&auml;hnichen
+C:Peter Fritzson
+P:Erik Ernst
+O:Stephan Herrmann
+O:Uwe A&#223;mann
+Mehmet Aksit
+Jonathan Aldrich
+Gabriela Ar&eacute;valo
+Uwe A&#223;mann
+Andrew P. Black
+Gilad Bracha
+Shigeru Chiba
+Yvonne Coady
+Krzysztof Czarnecki
+Wolfgang De Meuter
+Theo D'Hondt
+St&eacute;phane Ducasse
+Yossi Gil
+G&ouml;rel Hedin
+Urs H&ouml;lzle
+Eric Jul
+Gerti Kappel
+Gregor Kiczales
+Karl J. Lieberherr
+Luigi Liquori
+David H. Lorenz
+Sean McDirmid
+Erik Meijer
+Birger M&#248;ller-Pedersen
+James Noble
+Klaus Ostermann
+Awais Rashid
+Nathanael Sch&auml;rli
+Ulrik Pagh Schultz
+Olin Shivers
+Mario S&uuml;dholt
+Clemens A. Szyperski
+Peri L. Tarr
+Frank Tip
+Mads Torgersen
+Mirko Viroli
+Jan Vitek
+Roel Wuyts
+Elena Zucca

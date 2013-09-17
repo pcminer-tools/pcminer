@@ -1,0 +1,36 @@
+C:Gerti Kappel
+C:L&#225;szl&#243; Varga
+P:J&#248;rgen Lindskov Knudsen
+O:L&#225;szl&#243; Kozma
+O:Zolt&#225;n Horv&#225;th
+Mehmet Aksit
+Suad Alagic
+Elisa Bertino
+Gilad Bracha
+Jean-Pierre Briot
+Frank Buschmann
+Giuseppe Castagna
+Pierre Cointe
+Serge Demeyer
+Peter Dickman
+Bj&#248;rn N. Freeman-Benson
+Carlo Ghezzi
+Joseph Gil
+Rachid Guerraoui
+G&ouml;rel Hedin
+Urs H&ouml;lzle
+Eric Jul
+Gerti Kappel
+J&#248;rgen Lindskov Knudsen
+Karl J. Lieberherr
+Cristina Videira Lopes
+Satoshi Matsuoka
+Mira Mezini
+Ana Moreira
+James Noble
+Rui Oliveira
+Jens Palsberg
+Markku Sakkinen
+Dag I. K. Sj&#248;berg
+Jan Vitek
+John M. Vlissides

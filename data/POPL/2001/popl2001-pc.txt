@@ -1,0 +1,16 @@
+G:Chris Hankin
+G:David A. Schmidt
+P:Hanne Riis Nielson
+Evelyn Duesterwald
+Susan L. Graham
+Robert Harper
+Manuel V. Hermenegildo
+Simon L. Peyton Jones
+Paul Klint
+J. Gregory Morrisett
+Bengt Nordstršm
+Christian Queinnec
+Mooly Sagiv
+Bernhard Steffen
+Jan Vitek
+Phillip M. Yelland

@@ -1,0 +1,30 @@
+C:Awais Rashid 
+P:Mira Mezini
+Jonathan Aldrich
+Gustavo Alonso
+Sven Apel
+Gavin M. Bierman
+Andrew P. Black
+Gilad Bracha
+Theo D'Hondt
+Sophia Drossopoulou
+Erik Ernst
+Patrick Eugster
+Richard P. Gabriel
+David Grove
+Robert Hirschfeld
+Jean-Marc J&#233;z&#233;quel
+Doug Lea
+Cristina Videira Lopes
+Todd D. Millstein
+James Noble
+Klaus Ostermann
+Arnd Poetzsch-Heffter
+Frank Tip
+Laurence Tratt
+Arie van Deursen
+Adam Welc
+Andreas Zeller
+Matthias Zenger
+Thomas Zimmermann
+Elena Zucca

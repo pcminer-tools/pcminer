@@ -1,0 +1,26 @@
+G:Lougie Anderson
+P:James Coplien
+Pierre Cointe
+Alistair Cockburn
+William R. Cook
+Ron Crocker
+Ward Cunningham
+Liz Flanagan
+Richard P. Gabriel
+Adele Goldberg
+Mamdouh Ibrahim
+Chris Jette
+Josee Lajoie
+Doug Lea
+Mary E. S. Loomis
+Satoshi Matsuoka
+John D. McGregor
+Regine Meunier
+Oscar Nierstrasz
+Atsushi Ohori
+Mary Beth Rosson
+Bran Selic
+Geree Streun
+David Ungar
+Rebecca Wirfs-Brock
+Toby Bloom

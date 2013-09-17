@@ -1,0 +1,81 @@
+G:Benjamin G. Zorn
+P:Alexander Aiken
+Vikram S. Adve
+Jonathan Aldrich
+David F. Bacon
+Rastislav Bod’k
+Radhia Cousot
+Evelyn Duesterwald
+David Gay
+Robert Grimm
+Sumit Gulwani
+Ranjit Jhala
+Richard E. Jones
+Christos Kozyrakis
+Calvin Lin
+Ana Milanova
+Andrew C. Myers
+Simon L. Peyton Jones
+Sriram K. Rajamani
+Vivek Sarkar
+Mary Lou Soffa
+Zhendong Su
+Jan Vitek
+David Walker
+E:Saman P. Amarasinghe
+E:Thomas Ball
+E:Emery D. Berger
+E:Stephen M. Blackburn
+E:Hans-Juergen Boehm
+E:Michael D. Bond
+E:Chandrasekhar Boyapati
+E:David Chase
+E:Cliff Click
+E:Byron Cook
+E:Jeffrey Dean
+E:David Detlefs
+E:Matthew B. Dwyer
+E:David Evans
+E:John Field
+E:Kathleen Fisher
+E:Cormac Flanagan
+E:Guang R. Gao
+E:Neal Glew
+E:Patrice Godefroid
+E:Rajiv Gupta
+E:Samuel Z. Guyer
+E:Mary W. Hall
+E:Klaus Havelund
+E:Fritz Henglein
+E:Michael W. Hicks
+E:Michael Hind
+E:Ben Liblit
+E:Jens Knoop
+E:Viktor Kuncak
+E:Monica S. Lam
+E:Peter Lee
+E:Sorin Lerner
+E:Xavier Leroy
+E:Rupak Majumdar
+E:Mayur Naik
+E:David A. Padua
+E:Santosh Pande
+E:Benjamin C. Pierce
+E:Keshav Pingali
+E:Lori L. Pollock
+E:William Pugh
+E:Shaz Qadeer
+E:Jakob Rehof
+E:Anne Rogers
+E:Vijay A. Saraswat
+E:Zhong Shao
+E:Michael D. Smith
+E:Armando Solar-Lezama
+E:Manu Sridharan
+E:Bjarne Steensgaard
+E:Tachio Terauchi
+E:William Thies
+E:Frank Tip
+E:Westley Weimer
+E:Stephanie Weirich
+E:Weng-Fai Wong

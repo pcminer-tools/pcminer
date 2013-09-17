@@ -1,0 +1,27 @@
+C:Brent Hailpern
+P:Linda M. Northrop
+Bruce Anderson
+Elisa Bertino
+Toby Bloom
+Craig Chambers
+Alistair Cockburn
+Bj&#248;rn N. Freeman-Benson
+Martin L. Griss
+Rachid Guerraoui
+Guerney Hunt
+Eric Jul
+Gregor Kiczales
+Philippe Krutchen
+Doug Lea
+Boris Magnusson
+Satoshi Matsuoka
+Joaquin Miller
+J. Eliot B. Moss
+Gail C. Murphy
+Mary Beth Rosson
+Douglas C. Schmidt
+Guy L. Steele Jr.
+Kevin Tyson
+John M. Vlissides
+Rebecca Wirfs-Brock
+Mark D. R. Woodman

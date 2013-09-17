@@ -1,0 +1,23 @@
+G:Zhong Shao
+P:Benjamin C. Pierce
+Andrew W. Appel
+Anindya Banerjee        
+Nick Benton     
+Bruno Blanchet  
+James Cheney    
+Matthew Flatt   
+Giorgio Ghelli  
+Masahito Hasegawa       
+Hugo Herbelin   
+Michael W. Hicks
+Martin Hofmann  
+Susan Horwitz   
+Antony L. Hosking
+John Hughes     
+Atsushi Igarashi        
+Patricia Johann         
+James Leifer    
+Jens Palsberg   
+Leaf Petersen   
+Frank Pfenning  
+Sriram K. Rajamani

@@ -1,0 +1,46 @@
+G:Gruia-Catalin Roman
+P:William G. Griswold
+P:Bashar Nuseibeh
+Jonathan Aldrich
+George S. Avrunin
+V’ctor A. Braberman
+Tevfik Bultan
+S. C. Cheung
+Elisabetta Di Nitto
+Matthew B. Dwyer
+Anthony Finkelstein
+Phyllis G. Frankl
+David Garlan
+Carlo Ghezzi
+Dimitra Giannakopoulou
+John C. Grundy
+Anthony Hall
+Robert J. Hall
+Michael D. Harrison
+Mats Per Erik Heimdahl
+George T. Heineman
+Constance L. Heitmeyer
+Katsuro Inoue
+Paola Inverardi
+Mehdi Jazayeri
+Chris F. Kemerer
+Richard A. Kemmerer
+Gregor Kiczales
+John C. Knight
+Jeff Magee
+Cecilia Mascolo
+Amy L. Murphy
+Gail C. Murphy
+John Mylopoulos
+Harold Ossher
+Leon J. Osterweil
+Jens Palsberg
+Juan Fernández-Ramil
+David S. Rosenblum
+Mary Lou Soffa
+Kevin J. Sullivan
+Alistair G. Sutcliffe
+Sebasti&aacute;n Uchitel
+Andr&eacute; van der Hoek
+David M. Weiss
+Michal Young

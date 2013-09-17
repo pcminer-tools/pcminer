@@ -1,0 +1,35 @@
+G:Kurt Stirewalt
+P:Alexander Egyed
+P:Bernd Fischer
+Perry Alexander
+James H. Andrews
+Tevfik Bultan
+Marsha Chechik
+Krzysztof Czarnecki
+Ewen Denney
+Thomas Ellman
+Wolfgang Emmerich
+Harald Gall
+Gerald C. Gannod
+Michael Goedicke
+Paul Gr&uuml;nbacher
+Robert J. Hall
+Mats Per Erik Heimdahl
+Scott Henninger
+Andr&eacute; van der Hoek
+John G. Hosking
+Paola Inverardi
+Andrew Ireland
+Jonathan I. Maletic
+Nenad Medvidovic
+Tim Menzies
+Alessandro Orso
+Charles Pecheur
+John Penix
+David F. Redmiles
+Houari A. Sahraoui
+Gabriele Taentzer
+Tetsuo Tamai
+Willem Visser
+Andrea Zisman
+Albert Z&uuml;ndorf

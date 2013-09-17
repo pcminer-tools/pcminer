@@ -1,0 +1,33 @@
+C:Antony L. Hosking
+C:Hong Mei
+P:James Noble
+Elisa L. A. Baniassad
+Gavin M. Bierman
+Stephen M. Blackburn
+John Tang Boyland
+Nicholas R. Cameron
+Shigeru Chiba
+Siobh&aacute;n Clarke
+Yvonne Coady
+Wolfgang De Meuter
+Matthew Flatt
+Neal Glew
+Kathryn E. Gray
+Matthias Hauswirth
+Robert Hirschfeld
+Atsushi Igarashi
+Bart Jacobs
+Richard E. Jones
+Rustan Leino
+Nick Mitchell
+Robert O'Callahan
+Jens Palsberg
+John Potter
+Ganesan Ramalingam
+Dirk Riehle
+Yannis Smaragdakis
+Eelco Visser
+Tobias Wrigstad
+Hongseok Yang
+Jianjun Zhao
+Elena Zucca

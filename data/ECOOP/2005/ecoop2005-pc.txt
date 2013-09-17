@@ -1,0 +1,28 @@
+P:Andrew P. Black
+O:Peter Dickman
+G:Paddy Nixon
+G:Peter Dickman
+Mehmet Aksit 
+Luca Cardelli
+Shigeru Chiba
+Yvonne Coady
+William R. Cook
+Theo D'Hondt
+Christophe Dony
+St&eacute;phane Ducasse
+Erik Ernst
+Richard P. Gabriel
+Antony L. Hosking
+Jean-Marc J&#233;z&#233;quel
+Eric Jul
+Luigi Liquori
+James Noble
+Martin Odersky
+Christian Queinnec
+Martin P. Robillard
+J&ouml;rg Striegnitz
+Peri L. Tarr
+Dave A. Thomas
+Mads Torgersen
+Todd Veldhuizen
+Allen Wirfs-Brock

@@ -1,0 +1,33 @@
+P:Jan Vitek
+C:George Papadopoulos
+Elisa L. A. Baniassad
+Gavin M. Bierman
+Alex Buckley
+William R. Cook
+Susan Eisenbach
+Manuel F&#228;hndrich
+Pascal Felber
+Robert Bruce Findler
+Kathleen Fisher
+Jeffrey S. Foster
+Michael Haupt
+Matthias Hauswirth
+G&ouml;rel Hedin
+Richard E. Jones
+Doug Lea
+Ondrej Lhot&aacute;k
+Todd D. Millstein
+James Noble
+Nathaniel Nystrom
+Manuel Oriol
+Erez Petrank
+Frantisek Plasil
+Awais Rashid
+Michael I. Schwartzbach
+Jeremy G. Siek
+Mario S&uuml;dholt
+Peter Thiemann
+Frank Tip
+Eelco Visser
+Tobias Wrigstad
+Roel Wuyts

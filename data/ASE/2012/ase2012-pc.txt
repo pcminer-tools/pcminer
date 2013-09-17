@@ -1,0 +1,46 @@
+G:Michael Goedicke
+P:Tim Menzies
+P:Motoshi Saeki
+Marcelo d'Amorim  
+James H. Andrews  
+Nikolaj Bjoerner  
+Yuanfang Cai  
+Myra B. Cohen  
+Vittorio Cortellessa  
+Ivica Crnkovic  
+Bojan Cukic
+Giovanni Denaro  
+Elisabetta Di Nitto  
+Alexander Egyed  
+Bernd Fischer  
+Jaco Geldenhuys  
+Lars Grunske  
+Arie Gurfinkel  
+Robert J. Hall  
+Reiko Heckel  
+Maritta Heisel  
+John G. Hosking  
+Kyo-Chul Kang  
+David Lo  
+Jonathan I. Maletic  
+Andrian Marcus  
+Katsuhisa Maruyama  
+Tim Menzies  
+Charles Pecheur  
+John Penix  
+David F. Redmiles  
+Grigore Rosu  
+Motoshi Saeki  
+Houari A. Sahraoui  
+Beverly A. Sanders  
+Anita Sarma  
+Gabriele Taentzer  
+Tetsuo Tamai  
+Nikolai Tillmann  
+Richard Torkar  
+Daniel Varro  
+Michael W. Whalen  
+Tao Xie  
+Ye Yang  
+Andreas Zeller  
+Albert Z&uuml;ndorf  

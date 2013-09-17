@@ -1,0 +1,36 @@
+G:Cristina Videira Lopes
+P:Kathleen Fisher
+Amer Diwan
+Atsushi Igarashi
+Ben Liblit
+Bruno C. d. S. Oliveira
+Charles Zhang
+Christa Schwanning
+Doug Lea
+Eelco Visser
+Elena Zucca
+Eli Tilevich
+Eric E. Allen
+Gilad Bracha
+Giuseppe Castagna
+Jeff Gray
+John C. Mitchell
+John H. Reppy
+Lori L. Pollock
+Mangala Gowri Nanda
+Martin C. Rinard
+Matthew Flatt
+Mayur Naik
+Michael D. Ernst
+Michael W. Hicks
+Nathaniel Nystrom
+Perry Cheng
+Richard E. Jones
+Robert J. Walker
+Samuel P. Midkiff
+Sebastian Burckhardt
+Sorin Lerner
+Susan Eisenbach
+Tobias Wrigstad
+Vikram S. Adve
+Zhendong Su

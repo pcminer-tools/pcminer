@@ -1,0 +1,36 @@
+C:William R. Cook
+P:Martin C. Rinard
+Ali-Reza Adl-Tabatabai
+Antony L. Hosking
+Benjamin C. Pierce
+William Pugh
+Brian Demsky
+Christoph M. Kirsch
+Cristian Cadar
+Dave A. Thomas
+Dirk Riehle
+Eli Tilevich
+Elisa L. A. Baniassad
+Emery D. Berger
+Eran Yahav
+Frank Tip
+Gary T. Leavens
+Hans-Juergen Boehm
+Jakob Rehof
+Jong-Deok Choi
+Kathleen Fisher
+Koushik Sen
+Kwangkeun Yi
+Lenore Zuck
+Maria Jump
+Michael D. Bond
+Ondrej Lhot&aacute;k
+Patrick Lam
+Richard P. Gabriel
+Robert Cartwright
+Robert Hirschfeld
+Shaz Qadeer
+Theo D'Hondt
+Vijay A. Saraswat
+Wei-Ngan Chin
+Westley Weimer

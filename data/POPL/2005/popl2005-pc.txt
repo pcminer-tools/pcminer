@@ -1,0 +1,21 @@
+G:Jens Palsberg
+P:Mart&iacute;n Abadi
+Rastislav Bodík
+Perry Cheng
+William R. Cook
+Michael D. Ernst
+Giorgio Ghelli
+Joseph Gil
+Ralf Hinze
+Martin Hofmann
+Alan Jeffrey
+Andrew Kennedy
+Naoki Kobayashi
+Julia L. Lawall
+Andrew C. Myers
+Gordon D. Plotkin
+François Pottier
+Sriram K. Rajamani
+John H. Reppy
+Zhong Shao
+Henny Sipma

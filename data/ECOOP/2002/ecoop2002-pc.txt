@@ -1,0 +1,23 @@
+C:Jos&#233; M. Troya
+P:Boris Magnusson
+O:Antonio Vallecillo
+John Tang Boyland
+Gilad Bracha
+Krzysztof Czarnecki
+Bj&#248;rn N. Freeman-Benson
+Svend Fr&#248;lund
+Erich Gamma
+G&ouml;rel Hedin
+Urs H&ouml;lzle
+Eric Jul
+Kai Koskimies
+Kresten Krab Thorup
+Doug Lea
+J&#248;rgen Lindskov Knudsen
+Satoshi Matsuoka
+Mira Mezini
+Ana Moreira
+Linda M. Northrop
+Arnd Poetsch-Heffter
+Tore Rich
+Houari A. Sahraoui 

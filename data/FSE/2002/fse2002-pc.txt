@@ -1,0 +1,23 @@
+G:Mary Lou Soffa
+P:William G. Griswold
+Joanne M. Atlee
+Premkumar T. Devanbu
+Matthew B. Dwyer
+Michael D. Ernst
+John Field
+David Garlan
+Martin Glinz
+Andr&eacute; van der Hoek
+Paola Inverardi
+Jens H. Weber-Jahnke
+John C. Knight
+Axel van Lamsweerde
+Ken-ichi Matsumoto
+Atif M. Memon
+Kumiyo Nakakoji
+Adam A. Porter
+Sriram K. Rajamani
+Gruia-Catalin Roman
+Gregg Rothermel
+Barbara G. Ryder
+Andreas Zeller

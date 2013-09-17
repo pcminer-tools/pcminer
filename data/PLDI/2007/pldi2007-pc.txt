@@ -1,0 +1,22 @@
+G:Jeanne Ferrante
+P:Kathryn S. McKinley
+Matthew Arnold
+Maurice Herlihy
+Viktor Kuncak
+Bruno Blanchet
+Timothy L. Harris
+James R. Larus
+Hans-Juergen Boehm
+Luddy Harrison
+Erez Petrank
+Lieven Eeckhout
+Michael W. Hicks
+Lori L. Pollock
+Kathleen Fisher
+Neal Glew
+Martin C. Rinard
+Robert Harper
+Seth Copen Goldstein
+Guy L. Steele Jr.
+Kim M. Hazelwood
+Ulrich Kremer

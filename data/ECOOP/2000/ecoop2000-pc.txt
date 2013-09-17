@@ -1,0 +1,34 @@
+O:Denis Caromel
+O:Jean-Paul Rigault
+P:Elisa Bertino
+Mehmet Aksit 
+Suad Alagic
+Jean-Pierre Briot 
+Vinny Cahill 
+Luca Cardelli 
+Pierre Cointe 
+Serge Demeyer 
+Asuman Dogac 
+Theo D'Hondt 
+Carlo Ghezzi 
+Joseph Gil
+Rachid Guerraoui 
+Giovanna Guerrini 
+Mehdi Jazayeri 
+Eric Jul
+Gerti Kappel 
+J&#248;rgen Lindskov Knudsen 
+Doug Lea 
+Barbara Staudt Lerner 
+Karl J. Lieberherr 
+Boris Magnusson 
+Satoshi Matsuoka 
+Ana Moreira 
+Ronald Morrison 
+Rui Oliveira 
+Walter Olthoff 
+Tamer Oszu 
+Jens Palsberg 
+Markku Sakkinen 
+Francesco Tisato 
+Jan Vitek

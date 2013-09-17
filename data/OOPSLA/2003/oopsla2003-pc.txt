@@ -1,0 +1,26 @@
+C:Ron Crocker
+P:Guy L. Steele Jr.
+Elisa Bertino
+Luca Cardelli
+Shigeru Chiba
+Jens Coldewey
+James Coplien
+Aino Vonge Corry
+Richard P. Gabriel
+Giovanna Guerrini
+Michael Hind
+Atsushi Igarashi
+Gregor Kiczales
+Torsten Layda
+Satoshi Matsuoka
+Kathryn S. McKinley
+Birger M&#248;ller-Pedersen
+Gail C. Murphy
+Alan O'Callaghan
+Todd A. Proebsting
+William Pugh
+Dirk Riehle
+Douglas C. Schmidt
+Christa Schwanninger
+Daniel Weinreb
+Joseph Yoder

@@ -1,0 +1,33 @@
+G:Michel Wermelinger
+P:Harald Gall
+Mikio Aoyama
+Antonia Bertolino
+Jan Bosch
+Gerardo Canfora
+Premkumar T. Devanbu
+Matthew B. Dwyer
+Wolfgang Emmerich
+Jacky Estublier
+Pascal Fenkam
+Anthony Finkelstein
+Carlo Ghezzi
+Martin Glinz
+Paul Gr&uuml;nbacher
+Volker Gruhn
+Paola Inverardi
+Jeff Kramer
+Mehdi Jazayeri
+Nenad Medvidovic
+Philippe Kruchten
+Carlo Montangero
+Roland T. Mittermeir
+Harold Ossher
+Alessandro Orso
+David S. Rosenblum
+Juan Fernández-Ramil
+Sebasti&aacute;n Uchitel
+Wilhelm Schäfer
+Claes Wohlin
+Andr&eacute; van der Hoek
+Andreas Zeller
+Alexander L. Wolf

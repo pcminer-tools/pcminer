@@ -1,0 +1,18 @@
+G:Michael G. Burke
+P:Mary Lou Soffa
+Vikram S. Adve
+Evelyn Duesterwald
+Christine Eisenbeis
+Kathleen Fisher
+Cormac Flanagan
+Wilson C. Hsieh
+Paul Hudak
+Roy Dz-Ching Ju
+George C. Necula
+Santosh Pande
+Keshav Pingali
+Andreas Podelski
+William Pugh
+Erik Ruf
+Vugranam C. Sreedhar
+David B. Whalley

@@ -1,0 +1,33 @@
+G:Marianne Huchard
+P:Giuseppe Castagna
+Davide Ancona
+Paris Avgeriou
+Alexandre Bergel
+Gavin M. Bierman
+Kenneth P. Birman
+John Tang Boyland
+Perry Cheng
+Pierre Cointe
+Theo D'Hondt
+Mariangiola Dezani-Ciancaglini
+Danny Dig
+Sophia Drossopoulou
+Roland Ducournau
+Matthew B. Dwyer
+Erik Ernst
+Martin Gaedke
+Joseph Gil
+Arjun Guha
+Philipp Haller
+Robert Hirschfeld
+Doug Lea
+K. Rustan M. Leino
+Benjamin Livshits
+Klaus Ostermann
+Jens Palsberg
+Frank Piessens
+Bran Selic
+Frank Tip
+Laurence Tratt
+Jan Vitek
+Adam Welc
