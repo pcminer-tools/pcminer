@@ -4,7 +4,7 @@ pcminer
 PC-Miner is a tool that analyzes publications and program committee service in the top conferences 
 in Programming Languages and Software Engineering. Currently, the tool supports the following 
 conferences: ASE, ECOOP, FSE, ICSE, ISSTA, OOPSLA, PLDI, and POPL and it covers the years 1995-2014. 
-Publication data was obtained from DBLP, and program committee data was scraped from various 
+Publication data was obtained from [DBLP](http://www.informatik.uni-trier.de/~ley/db/), and program committee data was scraped from various 
 conference web sites. 
 
 I. Using PC-Miner
@@ -110,13 +110,12 @@ conference-subdirectory, in turn, contains one subdirectory for each year
 to be used for the conference in the generated UI 
 (see [here](http://www.computerhope.com/htmcolor.htm) for a list of HTML color
 codes). Each year-subdirectory contains two files: a file that was copied
-from DBLP containing the DBLP info for a specific year of a specific conference
+from [DBLP](http://www.informatik.uni-trier.de/~ley/db/) containing the DBLP info for a specific year of a specific conference
 (e.g., here is a link to the file for
  [PLDI 2000](http://www.informatik.uni-trier.de/~ley/db/conf/pldi/pldi2000.html))
 and a file specifying the program committee for that year (e.g., 
 [here](https://github.com/franktip/pcminer/blob/master/data/PLDI/2000/pldi2000-pc.txt) is the
 file that was created for PLDI 2000).
-
 
 Adding a conference involves the following steps:
 
@@ -132,9 +131,7 @@ Adding a conference involves the following steps:
    
 4. inside each year subdirectory, you need to provide two files
      - a file "<ConfName><year>.html" providing the HTML source code 
-       for that year of that conference as provided by DBLP. (example,
-       you can find the HTML source file for PLDI2000 at:
-        http://www.informatik.uni-trier.de/~ley/db/conf/pldi/pldi2000.html
+       for that year of that conference as provided by DBLP. 
      - a file "<ConfName><year>-pc.txt" providing the list of PC members.
        The name of each PC member must match the name that is used in DBLP
        (otherwise, you'll get duplicate entries in the UI). The following
@@ -150,22 +147,18 @@ Adding a conference involves the following steps:
 III. Feedback, Suggestions, and Acknowledgements
 -----------------------------------------------
  
-PC-miner was developed by Frank Tip. Feedback, suggestions, and improvements 
+PC-miner was developed by Frank Tip as a tool to help identify PC member
+candidates for the ISSTA'11 and PLDI'12 program committees. Since then,
+it has been used by several other PC chairs for conferences such as
+FSE, PLDI, ASE, ECOOP, and OOPSLA.  Feedback, suggestions, and improvements 
 are most welcome, as is additional conference data.
 Feedback, contributions and suggestions from Matt Dwyer, Cormac Flanagan, 
 Richard Jones, Max Schaefer, Alex Orso, Jan Vitek, and Andreas Zeller are 
 gratefully acknowledged.
+
+The data made available in PC-Miner contains information from the
+[DBLP Bibliography Server](http://www.informatik.uni-trier.de/~ley/db/index.html)
+which is made available under the 
+[ODC Attribution License](http://opendatacommons.org/licenses/by/summary/).
  
-(c) 2010-2013 Frank Tip  
-  
-         
-            
-          
-
-
-
- 
-
-
-
-    
+(c) 2010-2013 Frank Tip
