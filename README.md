@@ -12,7 +12,7 @@ I. Using PC-Miner
 
 To start using PC-miner, go into the "ui" subdirectory, and open the index.html file in your browser.
 This should bring up a window that looks like the screenshot in the
-included screenshot.jpg file.
+included [screenshot.jpg](screenshot.jpg) file.
 
 In the selector on the left is an alphabetical list of all authors. Clicking on
 an author will display his publication and committee activity.  You can
