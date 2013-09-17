@@ -143,15 +143,16 @@ Adding a conference involves the following steps:
        By default, including a person's name in the committee-file means
        that they are assumed to be a PC member. For other roles (e.g.,
        program chairs), names need to be prefixed as follows:
-         "P:<name>"  - program chair
-         "G:<name>"  - general chair
-         "E:<name>"  - ERC member
-         "C:<name>"  - conference chair
+         - "P:<name>"  - program chair
+         - "G:<name>"  - general chair
+         - "E:<name>"  - ERC member
+         - "C:<name>"  - conference chair
          
 5. Once your files are all in place, you can generate the UI by running PCMiner.java.
    This will generate an updated version of the file ui/data.js. Opening
    ui/index.html in your browser will bring up a version of PC-Miner that
-   contains the conference you just added. 
+   contains the conference you just added.  Please contribute any data
+   you added, so that others can benefit from your efforts.
  
 III. Feedback, Suggestions, and Acknowledgements
 -----------------------------------------------
