@@ -11,8 +11,8 @@ I. Using PC-Miner
 ------------------
 
 To start using PC-miner, go into the "ui" subdirectory, and open the index.html file in your browser.
-This should bring up a window that looks like the screenshot in the
-included [screenshot.jpg](screenshot.jpg) file.
+This should bring up a window that looks like the following
+[screenshot](screenshot.jpg).
 
 In the selector on the left is an alphabetical list of all authors. Clicking on
 an author will display his publication and committee activity.  You can
@@ -70,7 +70,7 @@ committees
  - PC Member, ECOOP 2013
  - PC Member, PLDI 2013
 
-The file screenshot2.jpg shows Jan's record after changing the date range to 2009-2013. 
+The file [screenshot2.jpg](screenshot2.jpg) shows Jan's record after changing the date range to 2009-2013. 
     
 Note that clicking on a co-author's name will result in navigating to the record
 for that co-author.    
