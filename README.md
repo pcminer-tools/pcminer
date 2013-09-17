@@ -97,8 +97,7 @@ publications("OOPSLA")+publications("ECOOP")>5 && committees("ECOOP") == 0
 
 There are some other bells and whistles. You can uncheck the checkboxes at the
 top of the tool to filter out conferences, and limit the period you want to
-consider using the slider. If you think of any desirable other features,
-let me know (though I should warn it may be a while until I get to this).
+consider using the slider. 
 
 II. Adding conferences to PC-Miner
 ----------------------------------
