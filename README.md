@@ -99,6 +99,24 @@ consider using the slider.
 
 II. Adding conferences to PC-Miner
 ----------------------------------
+The PC-Miner generator tool is a Java application that you can build and run using
+Eclipse. To run PC-Miner, right-click on the class pcminer.PCMiner, and select 
+Run As->Java Application. No configuration should be necessary.  
+
+The input to the generator tool is provided in the data subdirectory, which
+contains one subdirectory for each conference (e.g., "PLDI"). Each
+conference-subdirectory, in turn, contains one subdirectory for each year
+(e.g., "1999", "2000", etc.) as well as a file "color" that specifies the color
+to be used for the conference in the generated UI 
+(see [here](http://www.computerhope.com/htmcolor.htm) for a list of HTML color
+codes). Each year-subdirectory contains two files: a file that was copied
+from DBLP containing the DBLP info for a specific year of a specific conference
+(e.g., here is a link to the file for
+ [PLDI 2000](http://www.informatik.uni-trier.de/~ley/db/conf/pldi/pldi2000.html))
+and a file specifying the program committee for that year (e.g., 
+[here](https://github.com/franktip/pcminer/blob/master/data/PLDI/2000/pldi2000-pc.txt) is the
+file that was created for PLDI 2000).
+
 
 Adding a conference involves the following steps:
 
@@ -134,7 +152,6 @@ III. Feedback, Suggestions, and Acknowledgements
  
 PC-miner was developed by Frank Tip. Feedback, suggestions, and improvements 
 are most welcome, as is additional conference data.
- 
 Feedback, contributions and suggestions from Matt Dwyer, Cormac Flanagan, 
 Richard Jones, Max Schaefer, Alex Orso, Jan Vitek, and Andreas Zeller are 
 gratefully acknowledged.
