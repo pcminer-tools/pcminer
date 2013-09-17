@@ -133,16 +133,25 @@ Adding a conference involves the following steps:
      - a file "<ConfName><year>.html" providing the HTML source code 
        for that year of that conference as provided by DBLP. 
      - a file "<ConfName><year>-pc.txt" providing the list of PC members.
-       The name of each PC member must match the name that is used in DBLP
-       (otherwise, you'll get duplicate entries in the UI). The following
-       prefixes are available for different PC roles:
+       The name of each PC member must match the name and middle initials
+       as they are used in DBLP (otherwise, get duplicate entries will
+       appear in the UI). Note that special characters in people's names
+       need to be encoded (see (here)[http://www.w3schools.com/tags/ref_entities.asp]
+       for a list of HTML character codes).  For example, you'll need to
+       encode a lowercase 'a' with an umlaut as '&auml' or '&#228'.
+
+       By default, including a person's name in the committee-file means
+       that they are assumed to be a PC member. For other roles (e.g.,
+       program chairs), names need to be prefixed as follows:
          "P:<name>"  - program chair
          "G:<name>"  - general chair
          "E:<name>"  - ERC member
          "C:<name>"  - conference chair
-         (the default role is "PC member"
          
- 5. Once your files are all in place, you can generate the UI by running PCMiner.java
+5. Once your files are all in place, you can generate the UI by running PCMiner.java.
+   This will generate an updated version of the file ui/data.js. Opening
+   ui/index.html in your browser will bring up a version of PC-Miner that
+   contains the conference you just added. 
  
 III. Feedback, Suggestions, and Acknowledgements
 -----------------------------------------------
