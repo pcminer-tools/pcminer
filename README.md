@@ -86,10 +86,11 @@ Adding a conference involves the following steps:
      - a file "<ConfName><year>.html" providing the HTML source code 
        for that year of that conference as provided by DBLP. 
      - a file "<ConfName><year>-pc.txt" providing the list of PC members.
-       The name of each PC member must match the name and middle initials
-       as they are used in DBLP (otherwise, get duplicate entries will
-       appear in the UI). Note that special characters in people's names
-       need to be encoded (see [here](http://www.w3schools.com/tags/ref_entities.asp)
+      
+       Important: *The name of each PC member must match the name and middle initials
+       as they are used in DBLP* (otherwise, get duplicate entries will
+       appear in the UI). Note that *special characters in people's names
+       need to be encoded* (see [here](http://www.w3schools.com/tags/ref_entities.asp)
        for a list of HTML character codes).  For example, you'll need to
        encode a lowercase 'a' with an umlaut as '&auml' or '&#228'.
 
