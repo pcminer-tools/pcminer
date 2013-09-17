@@ -1,13 +1,13 @@
 pcminer
 =======
 
-PC-Miner is a tool that analyzes publications and program committee service in the top conferences 
+PC-miner is a tool that analyzes publications and program committee service in the top conferences 
 in Programming Languages and Software Engineering. Currently, the tool supports the following 
 conferences: ASE, ECOOP, FSE, ICSE, ISSTA, OOPSLA, PLDI, and POPL and it covers the years 1995-2014. 
 Publication data was obtained from [DBLP](http://www.informatik.uni-trier.de/~ley/db/), and program committee data was scraped from various 
 conference web sites. 
 
-I. Using PC-Miner
+I. Using PC-miner
 ------------------
 
 To start using PC-miner, go into the "ui" subdirectory, and open the index.html file in your browser.
@@ -50,10 +50,10 @@ top of the tool to filter out conferences, and limit the period you want to
 consider using the slider. To copy the names currently displayed in the
 selector, press the "Display selected names" button.
 
-II. Adding conferences to PC-Miner
+II. Adding conferences to PC-miner
 ----------------------------------
-The PC-Miner generator tool is a Java application that you can build and run using
-Eclipse. To run PC-Miner, right-click on the class pcminer.PCMiner, and select 
+The PC-miner generator tool is a Java application that you can build and run using
+Eclipse. To run PC-miner, right-click on the class pcminer.PCMiner, and select 
 Run As->Java Application. No configuration should be necessary.  
 
 The input to the generator tool is provided in the data subdirectory, which
@@ -103,7 +103,7 @@ Adding a conference involves the following steps:
          
 5. Once your files are all in place, you can generate the UI by running PCMiner.java.
    This will generate an updated version of the file ui/data.js. Opening
-   ui/index.html in your browser will bring up a version of PC-Miner that
+   ui/index.html in your browser will bring up a version of PC-miner that
    contains the conference you just added.  Please contribute any data
    you added, so that others can benefit from your efforts.
  
@@ -119,7 +119,7 @@ Feedback, contributions and suggestions from Matt Dwyer, Cormac Flanagan,
 Richard Jones, Max Schaefer, Alex Orso, Jan Vitek, and Andreas Zeller are 
 gratefully acknowledged.
 
-The data made available in PC-Miner contains information from the
+The data made available in PC-miner contains information from the
 [DBLP Bibliography Server](http://www.informatik.uni-trier.de/~ley/db/index.html)
 which is made available under the 
 [ODC Attribution License](http://opendatacommons.org/licenses/by/summary/).
