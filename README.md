@@ -24,53 +24,53 @@ with the characters "Jan". When you click on Jan Vitek's name, you will see
 his impressive record:
 
 publications
-    Jan Vitek, R. Nigel Horspool, Andreas Krall: Efficient Type Inclusion Tests, OOPSLA 1997 (session = Language Implementation), pp. 142-157
-    James Noble, Jan Vitek, John Potter: Flexible Alias Protection, ECOOP 1998 (session = Language Problems and Solutions), pp. 158-185
-    Jan Vitek, Boris Bokowski: Confined Types, OOPSLA 1999 (session = Panel), pp. 82-96
-    Christian Grothoff, Jens Palsberg, Jan Vitek: Encapsulating Objects with Confined Types, OOPSLA 2001 (session = Modules), pp. 241-253
-    Krzysztof Palacz, Jan Vitek, Grzegorz Czajkowski, Laurent Daynès: Incommunicado: efficient communication for isolates, OOPSLA 2002 (session = Scalability), pp. 262-274
-    Tian Zhao, Jens Palsberg, Jan Vitek: Lightweight confinement for featherweight Java, OOPSLA 2003 (session = Generics), pp. 135-148
-    Krzysztof Palacz, Jan Vitek: Java Subtype Tests in Real-Time, ECOOP 2003 (session = Algorithms, Optimization and Runtimes), pp. 378-404
-    Antonio Cunei, Jan Vitek: PolyD: a flexible dispatching framework, OOPSLA 2005 (session = Exceptional exceptions), pp. 487-503
-    Chris Andreae, Yvonne Coady, Celina Gibbs, James Noble, Jan Vitek, Tian Zhao: Scoped Types and Aspects for Real-Time Java, ECOOP 2006 (session = Ownership and Concurrency), pp. 124-147
-    Jesper Honig Spring, Jean Privat, Rachid Guerraoui, Jan Vitek: Streamflex: high-throughput stream programming in java, OOPSLA 2007 (session = Language design), pp. 211-228
-    Jan Vitek: Introduction to: The Myths of Object-Orientation, ECOOP 2009 (session = ECOOP '08 Banquet Speech), pp. 618
-    Tobias Wrigstad, Filip Pizlo, Fadi Meawad, Lei Zhao, Jan Vitek: Loci: Simple Thread-Locality for Java, ECOOP 2009 (session = Concurrency, Exceptions and Initialization), pp. 445-469
-    Bard Bloom, John Field, Nathaniel Nystrom, Johan Östlund, Gregor Richards, Rok Strnisa, Jan Vitek, Tobias Wrigstad: Thorn: robust, concurrent, extensible scripting on the JVM, OOPSLA 2009 (session = Concurrency), pp. 117-136
-    Filip Pizlo, Lukasz Ziarek, Petr Maj, Antony L. Hosking, Ethan Blanton, Jan Vitek: Schism: fragmentation-tolerant real-time garbage collection, PLDI 2010 (session = Heap management), pp. 146-159
-    Mandana Vaziri, Frank Tip, Julian Dolby, Christian Hammer, Jan Vitek: A Type System for Data-Centric Synchronization, ECOOP 2010 (session = Type Systems), pp. 304-328
-    Tobias Wrigstad, Francesco Zappa Nardelli, Sylvain Lebresne, Johan Östlund, Jan Vitek: Integrating typed and untyped code in a scripting language, POPL 2010 (session = Relating and integrating static and dynamic checks), pp. 377-388
-    Gregor Richards, Sylvain Lebresne, Brian Burg, Jan Vitek: An analysis of the dynamic behavior of JavaScript programs, PLDI 2010 (session = Dynamic analysis), pp. 1-12
-    Gregor Richards, Andreas Gal, Brendan Eich, Jan Vitek: Automated construction of JavaScript benchmarks, OOPSLA 2011 (session = Empirical results), pp. 677-694
-    Gregor Richards, Christian Hammer, Brian Burg, Jan Vitek: The Eval That Men Do - A Large-Scale Study of the Use of Eval in JavaScript Applications, ECOOP 2011 (session = Empirical Studies), pp. 52-78
-    Fadi Meawad, Gregor Richards, Floréal Morandat, Jan Vitek: Eval begone!: semi-automated removal of eval from javascript programs, OOPSLA 2012 (session = Dynamic languages), pp. 607-620
-    Floréal Morandat, Brandon Hill, Leo Osvald, Jan Vitek: Evaluating the Design of the R Language - Objects and Functions for Data Analysis, ECOOP 2012 (session = Language Evaluation), pp. 104-131
-    Tomas Kalibera, Matthew Mole, Richard E. Jones, Jan Vitek: A black-box approach to understanding concurrency in DaCapo, OOPSLA 2012 (session = Concurrency II), pp. 335-354
-    Daniel Marino, Christian Hammer, Julian Dolby, Mandana Vaziri, Frank Tip, Jan Vitek: Detecting deadlock in programs with data-centric synchronization, ICSE 2013 (session = Code Analysis), pp. 322-331
-    Zachary DeVito, James Hegarty, Alex Aiken, Pat Hanrahan, Jan Vitek: Terra: a multi-stage language for high-performance computing, PLDI 2013 (session = High performance computing), pp. 105-116
-    Delphine Demange, Vincent Laporte, Lei Zhao, Suresh Jagannathan, David Pichardie, Jan Vitek: Plan B: a buffered memory model for Java, POPL 2013 (session = Concurrency), pp. 329-342
+ - Jan Vitek, R. Nigel Horspool, Andreas Krall: Efficient Type Inclusion Tests, OOPSLA 1997 (session = Language Implementation), pp. 142-157
+ - James Noble, Jan Vitek, John Potter: Flexible Alias Protection, ECOOP 1998 (session = Language Problems and Solutions), pp. 158-185
+ - Jan Vitek, Boris Bokowski: Confined Types, OOPSLA 1999 (session = Panel), pp. 82-96
+ - Christian Grothoff, Jens Palsberg, Jan Vitek: Encapsulating Objects with Confined Types, OOPSLA 2001 (session = Modules), pp. 241-253
+ - Krzysztof Palacz, Jan Vitek, Grzegorz Czajkowski, Laurent Daynès: Incommunicado: efficient communication for isolates, OOPSLA 2002 (session = Scalability), pp. 262-274
+ - Tian Zhao, Jens Palsberg, Jan Vitek: Lightweight confinement for featherweight Java, OOPSLA 2003 (session = Generics), pp. 135-148
+ - Krzysztof Palacz, Jan Vitek: Java Subtype Tests in Real-Time, ECOOP 2003 (session = Algorithms, Optimization and Runtimes), pp. 378-404
+ - Antonio Cunei, Jan Vitek: PolyD: a flexible dispatching framework, OOPSLA 2005 (session = Exceptional exceptions), pp. 487-503
+ - Chris Andreae, Yvonne Coady, Celina Gibbs, James Noble, Jan Vitek, Tian Zhao: Scoped Types and Aspects for Real-Time Java, ECOOP 2006 (session = Ownership and Concurrency), pp. 124-147
+ - Jesper Honig Spring, Jean Privat, Rachid Guerraoui, Jan Vitek: Streamflex: high-throughput stream programming in java, OOPSLA 2007 (session = Language design), pp. 211-228
+ - Jan Vitek: Introduction to: The Myths of Object-Orientation, ECOOP 2009 (session = ECOOP '08 Banquet Speech), pp. 618
+ - Tobias Wrigstad, Filip Pizlo, Fadi Meawad, Lei Zhao, Jan Vitek: Loci: Simple Thread-Locality for Java, ECOOP 2009 (session = Concurrency, Exceptions and Initialization), pp. 445-469
+ - Bard Bloom, John Field, Nathaniel Nystrom, Johan Östlund, Gregor Richards, Rok Strnisa, Jan Vitek, Tobias Wrigstad: Thorn: robust, concurrent, extensible scripting on the JVM, OOPSLA 2009 (session = Concurrency), pp. 117-136
+ - Filip Pizlo, Lukasz Ziarek, Petr Maj, Antony L. Hosking, Ethan Blanton, Jan Vitek: Schism: fragmentation-tolerant real-time garbage collection, PLDI 2010 (session = Heap management), pp. 146-159
+ - Mandana Vaziri, Frank Tip, Julian Dolby, Christian Hammer, Jan Vitek: A Type System for Data-Centric Synchronization, ECOOP 2010 (session = Type Systems), pp. 304-328
+ - Tobias Wrigstad, Francesco Zappa Nardelli, Sylvain Lebresne, Johan Östlund, Jan Vitek: Integrating typed and untyped code in a scripting language, POPL 2010 (session = Relating and integrating static and dynamic checks), pp. 377-388
+ - Gregor Richards, Sylvain Lebresne, Brian Burg, Jan Vitek: An analysis of the dynamic behavior of JavaScript programs, PLDI 2010 (session = Dynamic analysis), pp. 1-12
+ - Gregor Richards, Andreas Gal, Brendan Eich, Jan Vitek: Automated construction of JavaScript benchmarks, OOPSLA 2011 (session = Empirical results), pp. 677-694
+ - Gregor Richards, Christian Hammer, Brian Burg, Jan Vitek: The Eval That Men Do - A Large-Scale Study of the Use of Eval in JavaScript Applications, ECOOP 2011 (session = Empirical Studies), pp. 52-78
+ - Fadi Meawad, Gregor Richards, Floréal Morandat, Jan Vitek: Eval begone!: semi-automated removal of eval from javascript programs, OOPSLA 2012 (session = Dynamic languages), pp. 607-620
+ - Floréal Morandat, Brandon Hill, Leo Osvald, Jan Vitek: Evaluating the Design of the R Language - Objects and Functions for Data Analysis, ECOOP 2012 (session = Language Evaluation), pp. 104-131
+ - Tomas Kalibera, Matthew Mole, Richard E. Jones, Jan Vitek: A black-box approach to understanding concurrency in DaCapo, OOPSLA 2012 (session = Concurrency II), pp. 335-354
+ - Daniel Marino, Christian Hammer, Julian Dolby, Mandana Vaziri, Frank Tip, Jan Vitek: Detecting deadlock in programs with data-centric synchronization, ICSE 2013 (session = Code Analysis), pp. 322-331
+ - Zachary DeVito, James Hegarty, Alex Aiken, Pat Hanrahan, Jan Vitek: Terra: a multi-stage language for high-performance computing, PLDI 2013 (session = High performance computing), pp. 105-116
+ - Delphine Demange, Vincent Laporte, Lei Zhao, Suresh Jagannathan, David Pichardie, Jan Vitek: Plan B: a buffered memory model for Java, POPL 2013 (session = Concurrency), pp. 329-342
 
 committees
-    PC Member, ECOOP 1998
-    PC Member, OOPSLA 2000
-    PC Member, ECOOP 2000
-    PC Member, ECOOP 2001
-    PC Member, POPL 2001
-    PC Member, PLDI 2002
-    PC Member, ECOOP 2003
-    PC Member, OOPSLA 2004
-    PC Member, OOPSLA 2007
-    PC Member, ECOOP 2007
-    PC Member, OOPSLA 2008
-    PC Member, POPL 2008
-    Program Chair, ECOOP 2008
-    PC Member, ECOOP 2009
-    PC Member, PLDI 2010
-    PC Member, ECOOP 2010
-    PC Member, POPL 2011
-    General Chair, PLDI 2012
-    PC Member, ECOOP 2013
-    PC Member, PLDI 2013
+ - PC Member, ECOOP 1998
+ - PC Member, OOPSLA 2000
+ - PC Member, ECOOP 2000
+ - PC Member, ECOOP 2001
+ - PC Member, POPL 2001
+ - PC Member, PLDI 2002
+ - PC Member, ECOOP 2003
+ - PC Member, OOPSLA 2004
+ - PC Member, OOPSLA 2007
+ - PC Member, ECOOP 2007
+ - PC Member, OOPSLA 2008
+ - PC Member, POPL 2008
+ - Program Chair, ECOOP 2008
+ - PC Member, ECOOP 2009
+ - PC Member, PLDI 2010
+ - PC Member, ECOOP 2010
+ - PC Member, POPL 2011
+ - General Chair, PLDI 2012
+ - PC Member, ECOOP 2013
+ - PC Member, PLDI 2013
 
 The file screenshot2.jpg shows Jan's record after changing the date range to 2009-2013. 
     
