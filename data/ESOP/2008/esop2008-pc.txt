@@ -2,21 +2,21 @@ P:Sophia Drossopoulou
 Davide Ancona 
 Manuel M. T. Chakravarty 
 Dave Clarke
-Adriana Compagnoni
-Manuel Faehndrich
+Adriana B. Compagnoni
+Manuel F&#228;hndrich
 Sabine Glesner
 Robert Harper
 Shriram Krishnamurthi
 Doug Lea
 Peter Mueller
 Alan Mycroft
-David Naumann
+David A. Naumann
 Catuscia Palamidessi 
-Matthew Parkinson
-German Puebla
+Matthew J. Parkinson
+Germ&#225;n Puebla
 Andrei Sabelfeld
-Vijay Saraswat
-Kostis Sagonas
+Vijay A. Saraswat
+Konstantinos F. Sagonas
 Eijiro Sumii
 Walid Taha
 Frank Tip

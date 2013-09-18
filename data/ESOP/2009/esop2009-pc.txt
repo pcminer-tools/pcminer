@@ -3,9 +3,9 @@ Mart&#0237;n Abadi
 Torben Amtoft
 John Boyland
 Michele Bugliesi
-Silvano Dal Zilio
+Silvano Dal-Zilio
 Vincent Danos
-Mariangiola Dezani
+Mariangiola Dezani-Ciancaglini
 Maribel Fern&#0225;ndez
 Tim Harris
 Martin Hofmann
@@ -13,9 +13,9 @@ Joxan Jaffar
 Xavier Leroy
 Eugenio Moggi
 Greg Morrisett
-George Necula
+George C. Necula
 James Noble
-Kostis Sagonas
+Konstantinos F. Sagonas
 Peter Sestoft
 Peter Sewell
 Jean-Pierre Talpin

@@ -1,10 +1,10 @@
 P:Pierpaolo Degano 
 Patrick Cousot 
 Mariangiola Dezani-Ciancaglini 
-Cedric Fournet 
-Joshua Guttman 
+C&#233;dric Fournet 
+Joshua D. Guttman 
 John Hughes 
-John Mitchell 
+John C. Mitchell 
 Alan Mycroft 
 Oscar Nierstrasz 
 Catuscia Palamidessi 
