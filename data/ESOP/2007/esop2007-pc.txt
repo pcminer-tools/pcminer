@@ -1,0 +1,26 @@
+P:Rocco De Nicola
+Steve Brookes
+Gerard Boudol
+Giuseppe Castagna
+Patrick Cousot
+Mads Dam
+Pierpaolo Degano
+Sophia Drossopoulou
+Cedric Fournet
+Stefania Gnesi
+Joshua Guttman
+Chris Hankin
+Matthew Hennessy
+Alan Jeffrey
+John Mitchell
+Fleming Nielson
+Catuscia Palamidessi
+Benjamin Pierce
+Andrei Sabelfeld
+Don Sannella
+Bernhard Steffen
+Walid Taha
+Jan Vitek
+Martin Wirsing
+Xavier Leroy
+

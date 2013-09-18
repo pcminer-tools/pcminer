@@ -1,0 +1,25 @@
+P:Giuseppe Castagna
+Mart&#0237;n Abadi
+Torben Amtoft
+John Boyland
+Michele Bugliesi
+Silvano Dal Zilio
+Vincent Danos
+Mariangiola Dezani
+Maribel Fern&#0225;ndez
+Tim Harris
+Martin Hofmann
+Joxan Jaffar
+Xavier Leroy
+Eugenio Moggi
+Greg Morrisett
+George Necula
+James Noble
+Kostis Sagonas
+Peter Sestoft
+Peter Sewell
+Jean-Pierre Talpin
+Peter Thiemann
+Jan Vitek
+Kwangkeun Yi
+Gianluigi Zavattaro

@@ -1,0 +1,22 @@
+P:David Schmidt
+Torben Amtoft 
+Henri Bal 
+Radhia Cousot 
+Pierpaolo Degano 
+Mariangiola Dezani-Ciancaglini 
+Pascal Fradet 
+Michael Gordon 
+Eric Goubault 
+Joshua Guttman 
+Fritz Henglein 
+Matthew Hennessy 
+Markus M&#0252;ller-Olm 
+Martin Odersky 
+German Puebla 
+David Schmidt 
+Michael Schwartzbach 
+Harald Sondergaard 
+Peter Thiemann 
+Mitchell Wand 
+Kwangkeun Yi 
+
