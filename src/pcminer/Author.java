@@ -179,6 +179,7 @@ public final class Author implements Comparable<Author> {
 		String result = authorName;
 		result = result.replace("&#193;","&Aacute;");
 		result = result.replace("&#197;","&Aring;");
+		result = result.replace("&#198;","&AElig;");
 		result = result.replace("&#199;","&Ccedil;");
 		result = result.replace("&#201;","&Eacute;");
 		result = result.replace("&#211;","&Oacute;");
@@ -209,8 +210,46 @@ public final class Author implements Comparable<Author> {
 		result = result.replace("&#246;", "&ouml;");
 		result = result.replace("&#248;", "&oslash;");
 		result = result.replace("&#250;", "&uacute;");
+		result = result.replace("&#251;", "&ucirc;");
 		result = result.replace("&#252;", "&uuml;");
 		result = result.replace("&#253;", "&yacute;");
+		
+		result = result.replace("&#0193;","&Aacute;");
+		result = result.replace("&#0197;","&Aring;");
+		result = result.replace("&#0198;","&AElig;");
+		result = result.replace("&#0199;","&Ccedil;");
+		result = result.replace("&#0201;","&Eacute;");
+		result = result.replace("&#0211;","&Oacute;");
+		result = result.replace("&#0214;","&Ouml;");
+		result = result.replace("&#0216;","&Oslash;");
+		result = result.replace("&#0218;","&Uacute;");
+		result = result.replace("&#0223;","&szlig;");
+		result = result.replace("&#0224;","&agrave;");
+		result = result.replace("&#0225;","&aacute;");
+		result = result.replace("&#0226;","&acirc;");
+		result = result.replace("&#0227;","&atilde;");
+		result = result.replace("&#0228;","&auml;");
+		result = result.replace("&#0229;","&aring;");
+		result = result.replace("&#0230;","&aelig;");
+		result = result.replace("&#0231;", "&ccedil;");
+		result = result.replace("&#0232;", "&egrave;");
+		result = result.replace("&#0233;", "&eacute;");
+		result = result.replace("&#0234;", "&ecirc;");
+		result = result.replace("&#0235;", "&euml;");
+		result = result.replace("&#0237;", "&iacute;");
+		result = result.replace("&#0238;", "&icirc;");
+		result = result.replace("&#0239;", "&iuml;");
+		result = result.replace("&#0240;", "&eth;");
+		result = result.replace("&#0241;", "&ntilde;");
+		result = result.replace("&#0242;", "&ograve;");
+		result = result.replace("&#0243;", "&oacute;");
+		result = result.replace("&#0244;", "&ocirc;");
+		result = result.replace("&#0246;", "&ouml;");
+		result = result.replace("&#0248;", "&oslash;");
+		result = result.replace("&#0250;", "&uacute;");
+		result = result.replace("&#0251;", "&ucirc;");
+		result = result.replace("&#0252;", "&uuml;");
+		result = result.replace("&#0253;", "&yacute;");
 		
 		if (result.contains("&#")){
 			System.err.println("WARNING: unmapped character in author name: " + authorName);
