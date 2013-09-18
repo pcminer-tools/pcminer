@@ -1,23 +1,23 @@
 P:Rocco De Nicola
 Steve Brookes
-Gerard Boudol
+G&#233;rard Boudol
 Giuseppe Castagna
 Patrick Cousot
 Mads Dam
 Pierpaolo Degano
 Sophia Drossopoulou
-Cedric Fournet
+C&#233;dric Fournet
 Stefania Gnesi
-Joshua Guttman
+Joshua D. Guttman
 Chris Hankin
 Matthew Hennessy
 Alan Jeffrey
-John Mitchell
-Fleming Nielson
+John C. Mitchell
+Flemming Nielson
 Catuscia Palamidessi
-Benjamin Pierce
+Benjamin C. Pierce
 Andrei Sabelfeld
-Don Sannella
+Donald Sannella
 Bernhard Steffen
 Walid Taha
 Jan Vitek

@@ -1,26 +1,26 @@
 P:Mooly Sagiv
-Martin Abadi 
+Mart&#0237;n Abadi 
 Alex Aiken 
 Bruno Blanchet 
 Luca Cardelli 
 Patrick Cousot 
 Oege de Moor 
-Manuel Fahndrich 
+Manuel F&#228;hndrich 
 John Field 
 Maurizio Gabbrielli 
 Chris Hankin 
-Manuel Hermenegildo 
+Manuel V. Hermenegildo 
 Xavier Leroy 
 Anders M&#0248;ller 
 Greg Morrisett 
-David Naumann 
-Hanne Riis Nielsen 
-Peter O'Hearn 
+David A. Naumann 
+Hanne Riis Nielson 
+Peter W. O'Hearn 
 Catuscia Palamidessi 
-Thomas Reps 
-Martin Rinard 
+Thomas W. Reps 
+Martin C. Rinard 
 Andrei Sabelfeld 
 Mooly Sagiv 
 Davide Sangiorgi 
 David Schmidt 
-Scott Stoller 
+Scott D. Stoller 

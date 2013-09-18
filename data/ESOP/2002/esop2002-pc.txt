@@ -1,16 +1,16 @@
 P:Daniel Le M&#0233;tayer
 Charles Consel 
 Roberto Gorrieri 
-Pieter Hartel 
-Thomas Jensen 
-Julia Lawall 
+Pieter H. Hartel 
+Thomas P. Jensen 
+Julia L. Lawall 
 Florence Maraninchi 
-John Mitchell 
+John C. Mitchell 
 Joachim Posegga 
-Didier Remy 
+Didier R&#0233;my 
 Mooly Sagiv 
 David Sands 
 David Schmidt 
 Jan Vitek 
-Dennis Volpano 
+Dennis M. Volpano 
 

@@ -1,8 +1,8 @@
 P:Helmut Seidl 
 Andreas Abel 
-Chandra Boyapati 
+Chandrasekhar Boyapati 
 Witold Charatonik 
-Kostas Chatzikokolakis 
+Konstantinos Chatzikokolakis 
 Dave Clarke 
 Philippa Gardner 
 Sebastian Hack 
@@ -16,7 +16,7 @@ Anders M&#0248;ller
 Flemming Nielson 
 Germ&#0225;n Puebla 
 Sylvie Putot 
-Sriram Rajamani 
+Sriram K. Rajamani 
 Noam Rinetzky 
 Xavier Rival 
 Christian Schallhart 
