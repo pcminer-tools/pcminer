@@ -1,0 +1,27 @@
+Luca Aceto
+V&#0233;ronique Benzaken
+Derek Dreyer
+P:Matthias Felleisen
+P:Philippa Gardner
+Giorgio Ghelli
+Holger Hermanns
+Suresh Jagannathan
+Andy King
+Akash Lal
+Cosimo Laneve
+Gary T. Leavens
+Xavier Leroy
+Annie Liu
+Aleksandar Nanevski
+Michael Norrish
+Nate Nystrom
+Joel Ouaknine
+Scott Owens
+Jens Palsberg
+Simon Peyton-Jones
+Xavier Rival
+Sukyoung Ryu
+Zhong Shao
+Yannis Smaragdakis
+Geoff Smith
+Eran Yahav
