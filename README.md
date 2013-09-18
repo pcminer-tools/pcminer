@@ -116,7 +116,7 @@ candidates for the ISSTA'11 and PLDI'12 program committees. Since then,
 it has been used by several other PC chairs for conferences such as
 ISSTA, ICSE, FSE, PLDI, ASE, ECOOP, and OOPSLA.  Feedback, suggestions, and
 improvements are most welcome, as is additional conference data.
-Feedback, contributions and suggestions from Matt Dwyer, Cormac Flanagan, 
+Feedback, contributions and suggestions from Giuseppe Castagna, Matt Dwyer, Cormac Flanagan, 
 Richard Jones, Max Schaefer, Alex Orso, Jan Vitek, and Andreas Zeller are 
 gratefully acknowledged.
 
