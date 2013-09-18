@@ -1,0 +1,29 @@
+C:Boris Magnusson
+P:Mehmet Aksit
+P:Satoshi Matsuoka 
+Elisa Bertino 
+Toby Bloom 
+Frank Buschmann 
+Luca Cardelli 
+Denis Caromel
+Pierre Cointe 
+Derek Coleman 
+Theo D'Hondt 
+Peter Dickman 
+Bjom Freeman-Benson 
+Rachid Guerraoui 
+Dieter Hammer 
+Urs H&#0246;lzle 
+Shinichi Honiden 
+Mehdi Jazayeri 
+Eric Jul 
+Gerti Kappel 
+Jorgen Lindskov Knudsen 
+John Lamping 
+Karl Lieberherr 
+Jos&#0233; Meseguer 
+Oscar Nierstrasz 
+Atsushi Ohori 
+Jens Palsberg 
+
+

@@ -1,0 +1,26 @@
+P:Gilles Barthe
+Nick Benton
+Cristiano Calcagno
+Radhia Cousot
+Sophia Drossopoulou
+Jean Goubault-Larrecq
+Nicolas Halbwachs
+Radha Jagadeesan
+Gerwin Klein
+Viktor Kuncak
+Julia Lawall
+Sorin Lerner
+Arnd Poetzsch-Heffter
+Frank Piessens
+Francois Pottier
+Shaz Qadeer
+Andrey Rybalchenko
+Andrei Sabelfeld
+Peter Sewell
+Tachio Terauchi
+Vasco T. Vasconcelos
+Jan Vitek
+David Walker
+Stephanie Weirich
+Kwangkeun Yi
+

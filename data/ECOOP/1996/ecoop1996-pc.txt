@@ -1,0 +1,28 @@
+C:Oscar Nierstrasz 
+C:Peter Wegner 
+P:Pierre Cointe 
+Mehmet Aksit 
+Giuseppe Attardi 
+Fran&#0231;ois Bancilhon 
+Yves Caseau 
+James O. Coplien 
+Theo D'Hondt 
+Erich Gamma 
+Rachid Guerraoui 
+Ivar Jacobson 
+Mehdi Jazayeri 
+Gregor Kiczales 
+Karl Lieberherr 
+Ole Lehrmann Madsen 
+Tom Maibaum 
+Boris Magnusson 
+Jacques Malenfant 
+Jos&#0233; Meseguer 
+Bertrand Meyer 
+Max Miihlh&#0228;euser 
+Walter Olthoff 
+Jens Palsberg 
+Markku Sakkinen 
+Dave Thomas 
+Mario Tokoro 
+Akinori Yonezawa 

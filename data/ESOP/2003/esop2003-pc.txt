@@ -1,0 +1,15 @@
+P:Pierpaolo Degano 
+Patrick Cousot 
+Mariangiola Dezani-Ciancaglini 
+Cedric Fournet 
+Joshua Guttman 
+John Hughes 
+John Mitchell 
+Alan Mycroft 
+Oscar Nierstrasz 
+Catuscia Palamidessi 
+Hanne Riis Nielson 
+David Schmidt 
+Helmut Seidl 
+Perdita Stevens 
+
