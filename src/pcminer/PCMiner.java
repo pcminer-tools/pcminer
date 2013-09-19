@@ -277,6 +277,7 @@ public class PCMiner {
 			br = new BufferedReader(fr);
 			while (br.ready()){
 				String authorName = br.readLine().trim();
+				if (authorName.equals("")) continue; // skip blank lines
 				if (authorName.startsWith("G:")){
 					authorName = authorName.substring(2);
 					Author author = Author.findOrCreate(authorName); 
