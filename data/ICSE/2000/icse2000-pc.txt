@@ -41,7 +41,7 @@ Gregg Rothermel
 Kevin Ryan
 H. Saiedian
 Motoshi Saeki
-Wilhelm Schäfer
+Wilhelm Sch&auml;fer
 Clemens A. Szyperski
 Richard N. Taylor
 Giovanni Vigna

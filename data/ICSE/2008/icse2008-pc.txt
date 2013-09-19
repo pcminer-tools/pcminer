@@ -1,9 +1,9 @@
-G:Wilhelm Schäfer
+G:Wilhelm Sch&auml;fer
 P:Matthew B. Dwyer
 P:Volker Gruhn
 Joanne M. Atlee
 Antonia Bertolino
-Bernd Brügge
+Bernd Br&uuml;gge
 Ivica Crnkovic
 Lori A. Clarke
 Harald Gall

@@ -1,6 +1,6 @@
-G:Hausi A. Müller
+G:Hausi A. M&uuml;ller
 P:Mary Jean Harrold
-P:Wilhelm Schäfer
+P:Sch&auml;fer
 Joanne M. Atlee
 Thomas Ball
 Don S. Batory
@@ -20,7 +20,7 @@ Katsuro Inoue
 Jens H. Jahnke
 Mehdi Jazayeri
 Richard A. Kemmerer
-Nicole Lévy
+Nicole Levy
 Jeff Magee
 Nenad Medvidovic
 Leon J. Osterweil
@@ -36,4 +36,4 @@ Walter F. Tichy
 Jim Welsh
 Linda Wills
 Michal Young
-Albert Zündorf
+Albert Z&uuml;ndorf

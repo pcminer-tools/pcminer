@@ -33,7 +33,7 @@ Gian Pietro Picco
 David S. Rosenblum
 Barbara G. Ryder
 Motoshi Saeki
-Wilhelm Schäfer
+Wilhelm Sch&auml;fer
 Kevin J. Sullivan
 Clemens A. Szyperski
 Tetsuo Tamai

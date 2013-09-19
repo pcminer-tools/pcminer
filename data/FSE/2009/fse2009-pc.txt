@@ -1,9 +1,9 @@
 G:Hans van Vliet
-P:Valérie Issarny
+P:Val&eacute;rie Issarny
 Paris Avgeriou
 Antonia Bertolino
 Judith Bishop
-Víctor A. Braberman
+V&iacute;ctor A. Braberman
 Antonio Carzaniga
 Betty H. C. Cheng
 Shing-Chi Cheung
@@ -20,7 +20,7 @@ Jeff Magee
 Nenad Medvidovic
 Raffaela Mirandola
 Gail C. Murphy
-Wilhelm Sch‰fer
+Wilhelm Sch&auml;fer
 Massimo Tivoli
 Michel Wermelinger
 Yun Yang
