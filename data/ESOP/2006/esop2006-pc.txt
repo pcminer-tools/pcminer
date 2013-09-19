@@ -1,24 +1,24 @@
 P:Peter Sestoft
 Anindya Banerjee
-Anton Ertl
+M. Anton Ertl
 David Warren
 Didier R&#0233;my
 Erik Meijer
 Eugenio Moggi
-German Vidal
+Germ&#225;n Vidal
 Giuseppe Castagna
-Joe Wells
-Kostis Sagonas
+Joe B. Wells
+Konstantinos F. Sagonas
 Michele Bugliesi
 Mooly Sagiv
 Nick Benton
-Peter O'Hearn
-Peter Stuckey
+Peter W. O'Hearn
+Peter J. Stuckey
 Peter Thiemann
-Pieter Hartel
+Pieter H. Hartel
 Reinhard Wilhelm
 Stephanie Weirich
 Susan Eisenbach
-Todd Veldhuizen
+Todd L. Veldhuizen
 
 

@@ -15,10 +15,10 @@ Annie Liu
 Aleksandar Nanevski
 Michael Norrish
 Nate Nystrom
-Joel Ouaknine
+Jo&#235;l Ouaknine
 Scott Owens
 Jens Palsberg
-Simon Peyton-Jones
+Simon L. Peyton Jones
 Xavier Rival
 Sukyoung Ryu
 Zhong Shao

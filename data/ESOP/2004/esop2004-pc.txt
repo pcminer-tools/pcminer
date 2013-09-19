@@ -1,21 +1,21 @@
 P:David Schmidt
 Torben Amtoft 
-Henri Bal 
+Henri E. Bal 
 Radhia Cousot 
 Pierpaolo Degano 
 Mariangiola Dezani-Ciancaglini 
 Pascal Fradet 
 Michael Gordon 
 Eric Goubault 
-Joshua Guttman 
+Joshua D. Guttman 
 Fritz Henglein 
 Matthew Hennessy 
 Markus M&#0252;ller-Olm 
 Martin Odersky 
-German Puebla 
+Germ&#225;n Puebla 
 David Schmidt 
-Michael Schwartzbach 
-Harald Sondergaard 
+Michael I. Schwartzbach 
+Harald S&#0248;ndergaard 
 Peter Thiemann 
 Mitchell Wand 
 Kwangkeun Yi 

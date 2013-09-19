@@ -8,11 +8,11 @@ Nicolas Halbwachs
 Radha Jagadeesan
 Gerwin Klein
 Viktor Kuncak
-Julia Lawall
+Julia L. Lawall
 Sorin Lerner
 Arnd Poetzsch-Heffter
 Frank Piessens
-Francois Pottier
+Fran&#231;ois Pottier
 Shaz Qadeer
 Andrey Rybalchenko
 Andrei Sabelfeld
