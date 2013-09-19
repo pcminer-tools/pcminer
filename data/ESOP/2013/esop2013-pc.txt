@@ -11,10 +11,10 @@ Akash Lal
 Cosimo Laneve
 Gary T. Leavens
 Xavier Leroy
-Annie Liu
+Yanhong A. Liu
 Aleksandar Nanevski
 Michael Norrish
-Nate Nystrom
+Nathaniel Nystrom
 Jo&#235;l Ouaknine
 Scott Owens
 Jens Palsberg
