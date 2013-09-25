@@ -20,6 +20,7 @@
 	  #dblpNotice {font-size:10px;}
 	  #nrpubs {font-size:10px;}
 	  #nrcommittees {font-size:10px;}
+	  #examplequery {font-size:10px;}
 	  .conf {font-size:14px;}
 	</style>
 		
@@ -81,8 +82,19 @@
 
    <!-- form for "search for" and "conditions" -->
    <form id="searchFor" onSubmit="return false;">
-    Search for: <input id = "formField" type="text" name="firstname" onchange='pcminer.nameFilterChanged(this.value)'>  
-    Filter:  <input id = "filterField" type="text" name="filter" onchange='pcminer.conditionFilterChanged(this.value)'> <I>e.g.: committees("PLDI") > 3 && !chair("PLDI")</I>
+   <table>
+     <tr>
+     <td>Search for:</td> 
+     <td><input id = "formField" type="text" name="firstname" onchange='pcminer.nameFilterChanged(this.value)'></td>
+    </tr>
+    <tr>  
+    <td>Filter:</td>  
+    <td><input id = "filterField" size=80 type="text" name="filter" onchange='pcminer.conditionFilterChanged(this.value)'></td>
+    </tr>
+    <tr>
+    <td></td><td><div id="examplequery">e.g., publications("PLDI") > 3 && committees("PLDI")==0</div></td>
+    </tr>
+    </table>
    </form>
 
 	<!-- REJ added SimpleModal -->
