@@ -111,6 +111,29 @@ var pcminer = function(){
 	};
 	
 	/**
+	 * returns true if the author has published a paper whose title contains any of the supplied keywords
+	 */
+	function keywords(x){
+		if (arguments.length < 2){
+			return false; 
+		}  
+		else {
+			for (var i=0; i < x.publications.length; i++){
+				var pub = x.publications[i];
+				for (s in arguments){
+					var arg = arguments[s];
+					if (typeof arg == "string"){
+						if (pub.title.indexOf(arg) != -1){
+							return true;
+						}
+					}
+				}
+			}
+			return false; 
+		}
+	}
+	
+	/**
 	 * computes how many publications an author has at a given venue:
 	 *   publications(x) : number of publications for author x (any conference)
 	 *   publications(x, c) : number of publications for author x at conference c 

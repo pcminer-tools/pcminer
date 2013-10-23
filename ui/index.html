@@ -20,7 +20,8 @@
 	  #dblpNotice {font-size:10px;}
 	  #nrpubs {font-size:10px;}
 	  #nrcommittees {font-size:10px;}
-	  #examplequery {font-size:10px;}
+	  #examplequery1 {font-size:10px;}
+	  #examplequery2 {font-size:10px;}
 	  .conf {font-size:14px;}
 	</style>
 		
@@ -92,7 +93,10 @@
     <td><input id = "filterField" size=80 type="text" name="filter" onchange='pcminer.conditionFilterChanged(this.value)'></td>
     </tr>
     <tr>
-    <td></td><td><div id="examplequery">e.g., publications("PLDI") > 3 && committees("PLDI")==0</div></td>
+    <td></td><td><div id="examplequery1">e.g., publications("PLDI") > 3 && committees("PLDI")==0</div></td>
+    </tr>
+    <tr>
+    <td></td><td><div id="examplequery2">e.g., keywords("slicing", "synthesis")</div></td>
     </tr>
     </table>
    </form>
