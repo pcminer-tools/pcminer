@@ -1,0 +1,29 @@
+G:Jan Vitek
+P:Doug Lea
+Hans-Juergen Boehm
+Cliff Click
+David Detlefs
+Dave Dice
+Christine Flood
+Daniel Frampton
+Samir Genaim
+Richard E. Jones
+Simon Marlow
+Nick Mitchell
+Filip Pizlo
+Martin T. Vechev
+Adam Welc
+E:Michael D. Bond
+E:Antonio Cunei
+E:Samuel Z. Guyer
+E:Matthew Hertz
+E:Martin Hirzel
+E:Antony L. Hosking
+E:Rick Hudson
+E:Maria Jump
+E:Maged M. Michael
+E:Melissa O'Neill
+E:Erez Petrank
+E:Tony Printezis
+E:Fridtjof Siebert
+E:Bjarne Steensgaard

@@ -1,0 +1,38 @@
+G:Hillel Kolodner
+P:Guy Steele
+Angela Brown
+Dino Distefano
+Dan Grossman
+Ranjit Jhala
+Pramod G. Joisha
+Matthias Meyer
+Martin C. Rinard
+Xipeng Shen
+Fridtjof Siebert
+Guy Steele
+Bjarne Steensgaard
+Kenjiro Taura
+Martin T. Vechev
+E:Vikram S. Adve
+E:Elvira Albert
+E:David F. Bacon
+E:Stephen M. Blackburn
+E:Hans-Juergen Boehm
+E:David Chase
+E:David Detlefs
+E:Christine Flood
+E:Matthew Fluet
+E:Tim Harris
+E:Martin Hirzel
+E:Antony L. Hosking
+E:Richard E. Jones
+E:Chandra Krintz
+E:Simon Marlow
+E:Erez Petrank
+E:Ravi Rajwar
+E:Konstantinos F. Sagonas
+E:Yannis Smaragdakis
+E:Witawas Srisa-an
+E:David Ungar
+E:Eran Yahav
+E:Craig B. Zilles

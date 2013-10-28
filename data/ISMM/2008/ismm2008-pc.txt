@@ -1,0 +1,29 @@
+G:Richard E. Jones
+P:Stephen M. Blackburn
+David Detlefs
+David Gay
+Dan Grossman
+Martin Hirzel
+Matthias Meyer
+Kathryn S. McKinley
+Martin C. Rinard
+Witawas Srisa-an
+Bjarne Steensgaard
+Guy Steele
+David Ungar
+Craig B. Zilles
+E:Stephen M. Blackburn
+E:Hans-Juergen Boehm
+E:Perry Cheng
+E:Tim Harris
+E:Michael W. Hicks
+E:Antony L. Hosking
+E:Rick Hudson
+E:Richard E. Jones
+E:Hillel Kolodner
+E:Simon Marlow
+E:J. Eliot B. Moss
+E:Yoav Ossia
+E:Erez Petrank
+E:Mooly Sagiv
+E:Konstantinos F. Sagonas
