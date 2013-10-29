@@ -1,0 +1,27 @@
+G:Perry Cheng
+P:Erez Petrank
+Michael D. Bond
+Dave Detlefs
+David Grove
+Tim Harris
+Mark Marron
+Matthias Meyer
+Onur Mutlu
+Michael Philippsen
+Jennifer B. Sartor
+Fridtjof Siebert
+Guy Steele
+Bjarne Steensgaard
+E:Elvira Albert
+E:Daniel Frampton
+E:Samuel Z. Guyer
+E:Antony L. Hosking
+E:Maria Jump
+E:Simon Marlow
+E:Kathryn S. McKinley
+E:J. Eliot B. Moss
+E:Filip Pizlo
+E:Konstantinos F. Sagonas
+E:Xipeng Shen
+E:Dan Tsafrir
+E:Ronald Veldema
