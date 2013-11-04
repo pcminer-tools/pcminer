@@ -66,6 +66,14 @@ var pcminer = function(){
 	 */
 	function addConfColor(confName, color){
 		confColors[confName] = color;
+	 
+		var elHead = document.getElementsByTagName('head')[0];
+		var elStyle = document.createElement('style');
+		elStyle.type= 'text/css';
+		elHead.appendChild( elStyle );
+		
+		var styleText =  "." + confName + " { color : " + color + "} ";
+		elStyle.innerHTML = styleText;
 	}
 	
 	/**
@@ -307,6 +315,46 @@ var pcminer = function(){
 	};
 	
 	/**
+	 * count words that occur in titles of papers by a given authors and
+	 * create array structure needed to generate a word cloud
+	 */
+	function gatherWords(author){
+		var result = [];
+		var confMap = {};
+		
+		// count the number of occurrences of each word 
+		for (var j=0; j < author.publications.length; j++){
+			var pub = author.publications[j];
+			if (conferences[pub.conference.series] && withinRange(pub)){
+				 var titleWords = pub.title.split(" ");
+				 for (var k=0; k < titleWords.length; k++){
+					 var word = titleWords[k].toLowerCase();
+					 if (word.length > 3){ 
+						 if (result[word] === undefined){
+							 result[word] = 1;
+							 confMap[word] = pub.conference.series;
+						 } else {
+							 result[word]++;
+						 }
+					 }
+				 }
+			}
+		}
+		
+		// create the array structure required for jQcloud
+		var nresult = [ ];
+		for (var i in result){
+			var obj = {};
+			obj.text = i;
+			obj.weight = result[i];
+			obj.html = { "class" : confMap[i] }; 
+			nresult.push(obj);
+		}
+		
+		return nresult;
+	}
+	
+	/**
 	 * counts the number of committees for an author in the current date range
 	 */
 	function nrCommittees(x){
@@ -347,6 +395,10 @@ var pcminer = function(){
 		  for (var i=0; i < list.length; i++){
 		    if (mapCharacters(list[i].author) == authorName){ 
 		      document.getElementById("title").innerHTML = list[i].author;
+		      var words = gatherWords(list[i]); 
+		     
+		      document.getElementById("wordCloud").innerHTML=""; // clear old word cloud
+		      $("#wordCloud").jQCloud(words);
 		      
 		      var text = "";
 		      
@@ -517,7 +569,10 @@ var pcminer = function(){
 		for (conf in confColors){
 			document.getElementById(conf + "color").style.color = confColors[conf];
 		}
+		
 	}
+	
+
 	
 	/**
 	 * initializes the page

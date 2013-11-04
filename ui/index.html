@@ -5,6 +5,7 @@
   <meta charset="utf-8" />
   <link rel="stylesheet" href="css/iThing.css" type="text/css" />
   <link rel="stylesheet" href="css/jquery-ui-1.10.3.css" type="text/css" />
+  <link rel="stylesheet" href="css/jqcloud.css" type="text/css" />
   
   	<!-- REJ added SimpleModal-->
     <!-- Page styles -->
@@ -24,6 +25,21 @@
 	  #examplequery2 {font-size:10px;}
 	  .conf {font-size:14px;}
 	</style>
+	
+<!--  
+	<style>
+	  .ASE { color: #ff0000; }
+	  .ECOOP { color: #ff0000; }
+	  .ESOP { color: #ff0000; }
+	  .FSE { color: #ff0000; }
+	  .ICSE   {  color: #ff0000; }
+	  .ISMM { color: #ff0000; }
+	  .ISSTA { color: #ff0000; }
+	  .OOPSLA { color: #ff0000; }
+	  .PLDI { color: #ff0000; }
+	  .POPL { color: #ff0000; }
+	</style>
+-->	
 		
 	<style type="text/css">
 		/*demo page css*/
@@ -50,7 +66,8 @@
   <script type="text/javascript" src="js/jQDateRangeSlider-withRuler-min.js"></script>
   <script type="text/javascript" src="js/code.js"></script>	
   <script type="text/javascript" src="js/data.js"></script>
-  <script type='text/javascript' src='js/jquery.simplemodal-1.4.4.js'></script>	
+  <script type='text/javascript' src='js/jquery.simplemodal-1.4.4.js'></script>
+  <script type='text/javascript' src='js/jqcloud-1.0.4.js'></script>	
 </head>
 <body>
 	<h1 id="title">PC-Miner</h1>
@@ -75,11 +92,19 @@
 	</table>
 	<br></br>
 	
-	
+  <table>
+  <tr>	
+  <td>
   <form>
   <select id="selector" onchange='pcminer.selectionChanged(this.options[this.selectedIndex].value)'>
   </select>
   </form>
+  </td>
+  <td>
+  <div id="wordCloud" style="width: 400px; height: 175px; margin-left: 10%;"></div>
+  </td>
+  </tr>
+  </table>
 
    <!-- form for "search for" and "conditions" -->
    <form id="searchFor" onSubmit="return false;">
@@ -116,6 +141,7 @@
 	    <img src='images/basic/x.png' alt='' />
 	  </div>
 	 </div>    
+
 
   <!-- this is where the author's list of publications and committees will be displayed -->
   <div id="authorinfo" rows="9" cols="40"></div>	
