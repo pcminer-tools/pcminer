@@ -1,0 +1,17 @@
+G:John Reppy 
+P:Julia Lawall 
+Torben Amtoft 
+Matthias Blume 
+Robby Findler 
+Alain Frisch 
+Suresh Jagannathan 
+Patricia Johann 
+Yukiyoshi Kameyama 
+Andres Löh 
+Simon Marlow 
+Greg Morrisett 
+Riccardo Pucella 
+Doaitse Swierstra 
+Joe Wells 
+Hongwei Xi 
+Steve Zdancewic 

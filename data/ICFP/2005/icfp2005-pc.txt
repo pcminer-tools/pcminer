@@ -1,0 +1,17 @@
+G:Olivier Danvy 
+P:Benjamin C. Pierce 
+Mariangiola Dezani 
+Mary Fernández 
+Matthew Flatt 
+Cédric Fournet 
+Jacques Garrigue 
+Jason Hickey 
+John Hughes 
+Johan Jeuring 
+Frank Pfenning 
+Benjamin Pierce 
+Andrew Pitts 
+Norman Ramsey 
+Manuel Serrano 
+Peter Thiemann 
+Jan Vitek 

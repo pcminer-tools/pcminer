@@ -1,0 +1,17 @@
+G:Paul Hudak
+P:Stephanie Weirich
+Umut Acar
+Zena Ariola
+James Cheney
+Peter Dybjer
+Robert Bruce Findler
+Andy Gill
+Fritz Henglein
+Michael Hicks
+Patricia Johann
+Andres Löh
+Simon Peyton Jones
+Didier R&#233;
+John Reppy
+Manuel Serrano
+Matthieu Sozeau

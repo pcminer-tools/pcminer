@@ -1,0 +1,14 @@
+G:Benjamin Pierce
+P:Xavier Leroy
+Karl Crary
+Marc Feeley
+Giorgio Ghelli
+Simon Peyton Jones
+John Hughes
+Naoki Kobayashi
+Julia Lawall
+Sheng Liang
+John Reppy
+Scott Smith
+Carolyn Talcott
+Kwangkeun Yi

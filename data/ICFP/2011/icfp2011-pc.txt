@@ -1,0 +1,22 @@
+G:Manuel M T Chakravarty
+G:Zhenjiang Hu
+P:Olivier Danvy
+Kenichi Asai
+Josh Berdine
+Adam Chlipala
+William Cook
+Maribel Fernandez
+Ronald Garcia
+Neal Glew
+Jacques Garrigue
+Suresh Jagannathan
+Sam Lindley
+Frank Pfenning
+Paola Quaglia
+Alexis Saurin
+Mike Spivey
+Kristian Stoevring
+Doaitse Swierstra
+David Van Horn
+Rene Vestergaard
+Edwin Westbrook
