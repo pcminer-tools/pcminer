@@ -1,15 +1,15 @@
 P:Peter Lee
-G:Dider Remy
+G:Didier R&233;my
 Lennart Augustsson
 Alain Deutsch
 Sophia Drossopoulou
-Conal Elliott
+Conal M. Elliott
 Andrzej Filinski
 Kathleen Fisher
 Jacques Garrigue
 Peter Lee
 Rishiyur S. Nikhil
-Benjamin Pierce
+Benjamin C. Pierce
 Manuel Serrano
 Peter Thiemann
 

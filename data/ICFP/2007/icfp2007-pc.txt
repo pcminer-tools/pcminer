@@ -1,17 +1,17 @@
-G:Ralf Hinze 
-P:Norman Ramsey 
-Nick Benton 
-Matthew Fluet 
-Jeremy Gibbons 
-Kevin Hammond 
-Bastiaan Heeren 
-Graham Hutton 
-Mark P. Jones 
-Gabriele Keller 
-Fabrice Le Fessant 
-Todd Millstein 
-Mike Sperber 
-Christopher A. Stone 
-Andrew Tolmach 
-Janis Voigtländer 
-Stephanie Weirich 
+G:Ralf Hinze
+P:Norman Ramsey
+Nick Benton
+Matthew Fluet
+Jeremy Gibbons
+Kevin Hammond
+Bastiaan Heeren
+Graham Hutton
+Mark P. Jones
+Gabriele Keller
+Fabrice Le Fessant
+Todd D. Millstein
+Michael Sperber
+Christopher A. Stone
+Andrew P. Tolmach
+Janis Voigtl&228;nder
+Stephanie Weirich

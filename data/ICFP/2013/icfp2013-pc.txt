@@ -13,5 +13,5 @@ Sungwoo Park
 Sam Staton
 Nikhil Swamy
 Dimitrios Vytiniotis
-P:Tarmo Uustalu 
+P:Tarmo Uustalu
 G:Greg Morrisett

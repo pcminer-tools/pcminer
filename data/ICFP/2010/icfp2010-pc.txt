@@ -1,7 +1,7 @@
 G:Paul Hudak
 P:Stephanie Weirich
-Umut Acar
-Zena Ariola
+Umut A. Acar
+Zena M. Ariola
 James Cheney
 Peter Dybjer
 Robert Bruce Findler
@@ -9,9 +9,9 @@ Andy Gill
 Fritz Henglein
 Michael Hicks
 Patricia Johann
-Andres Löh
-Simon Peyton Jones
-Didier R&#233;
-John Reppy
+Andres L&246;h
+Simon L. Peyton Jones
+Didier R&#233;y
+John H. Reppy
 Manuel Serrano
 Matthieu Sozeau

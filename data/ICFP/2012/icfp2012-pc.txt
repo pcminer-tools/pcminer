@@ -1,18 +1,18 @@
-Zena Ariola 
-Lars Birkedal 
-Matthias Blume 
-Mariangiola Dezani-Ciancaglini 
-R. Kent Dybvig 
-Manuel Fahndrich 
-John Hughes 
-Simon Marlow 
-Jan Midtgaard 
-Brigitte Pientka 
-Andreas Rossberg 
-Colin Runciman 
-Satnam Singh 
-Eijiro Sumii 
-Sam Tobin-Hochstadt 
-Andrew Tolmach 
+Zena M. Ariola
+Lars Birkedal
+Matthias Blume
+Mariangiola Dezani-Ciancaglini
+R. Kent Dybvig
+Manuel F&228;hndrich
+John Hughes
+Simon Marlow
+Jan Midtgaard
+Brigitte Pientka
+Andreas Rossberg
+Colin Runciman
+Satnam Singh
+Eijiro Sumii
+Sam Tobin-Hochstadt
+Andrew P. Tolmach
 P:Robert Bruce Findler
 G:Peter Thiemann

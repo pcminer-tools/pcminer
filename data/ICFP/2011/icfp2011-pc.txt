@@ -1,10 +1,10 @@
-G:Manuel M T Chakravarty
+G:Manuel M. T. Chakravarty
 G:Zhenjiang Hu
 P:Olivier Danvy
 Kenichi Asai
 Josh Berdine
 Adam Chlipala
-William Cook
+William R. Cook
 Maribel Fernandez
 Ronald Garcia
 Neal Glew
@@ -14,9 +14,9 @@ Sam Lindley
 Frank Pfenning
 Paola Quaglia
 Alexis Saurin
-Mike Spivey
-Kristian Stoevring
+J. Michael Spivey
+Kristian Støvring
 Doaitse Swierstra
 David Van Horn
-Rene Vestergaard
-Edwin Westbrook
+Ren&233; Vestergaard
+Edwin M. Westbrook

@@ -1,16 +1,16 @@
 G:Chris Okasaki
-P:Kathleen Fisher  
-Lennart Augustsson   
-Hans-J. Boehm 
-Koen Claessen  
-Adriana Compagnoni    
-Matthias Felleisen  
-Zhenjiang Hu  
-Erik Meijer 
-Manuel Serrano  
-Peter Sewell  
-Jérôme Siméon  
-Christopher A. Stone  
-Martin Sulzmann  
-David Walker  
-Elena Zucca 
+P:Kathleen Fisher
+Lennart Augustsson
+Hans-Juergen Boehm
+Koen Claessen
+Adriana B. Compagnoni
+Matthias Felleisen
+Zhenjiang Hu
+Erik Meijer
+Manuel Serrano
+Peter Sewell
+J&233;r&244;me Sim&233;on
+Christopher A. Stone
+Martin Sulzmann
+David Walker
+Elena Zucca

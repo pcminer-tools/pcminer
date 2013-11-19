@@ -1,6 +1,6 @@
 P:Philip Wadler
 G:Martin Odersky
-Richard Bird
+Richard S. Bird
 Craig Chambers
 Charles Consel
 Susan Eisenbach
@@ -12,4 +12,4 @@ Eugenio Moggi
 Greg Morrisett
 Atsushi Ohori
 Catuscia Palamidessi
-Andrew Wright
+Andrew K. Wright
