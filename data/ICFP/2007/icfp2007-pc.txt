@@ -13,5 +13,5 @@ Todd D. Millstein
 Michael Sperber
 Christopher A. Stone
 Andrew P. Tolmach
-Janis Voigtl&228;nder
+Janis Voigtl&#228;nder
 Stephanie Weirich

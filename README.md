@@ -3,7 +3,7 @@ pcminer
 
 PC-miner is a tool that analyzes publications and program committee service in the top conferences 
 in Programming Languages and Software Engineering. Currently, the tool supports the following 
-conferences: ASE, ECOOP, ESOP, FSE, ICSE, ISMM, ISSTA, OOPSLA, PLDI, and POPL and it covers the years 1995-2014. 
+conferences: ASE, ECOOP, ESOP, FSE, ICFP, ICSE, ISMM, ISSTA, OOPSLA, PLDI, and POPL and it covers the years 1995-2014. 
 Publication data was obtained from [DBLP](http://www.informatik.uni-trier.de/~ley/db/), and program committee data was scraped from various 
 conference web sites. 
 
@@ -15,8 +15,9 @@ This should bring up a window that looks like the following
 [screenshot](screenshot.jpg).
 
 In the selector on the left is an alphabetical list of all authors. Clicking on
-an author will display his publication and committee activity.  You can
-search (awkwardly) by entering some text in the search box.
+an author will display his publication and committee activity. It will also show
+a word cloud that contains words that occur frequently in the titles of the author's papers.
+You can search (awkwardly) by entering some text in the search box.
 Entering "Jan" there will reduce the list to all authors whose name starts
 with the characters "Jan". When you select Jan Vitek's name from the
 resulting list, you'll see something that looks like the attached
@@ -107,17 +108,21 @@ Adding a conference involves the following steps:
    ui/index.html in your browser will bring up a version of PC-miner that
    contains the conference you just added.  Please contribute any data
    you added, so that others can benefit from your efforts.
+   
+6. Some authors (e.g., Alexander Aiken) have multiple DBLP records (there is one
+   for "Alexander Aiken" and one for "Alex Aiken"). To merge such records in
+   PC-miner, please edit the list of name mappings in ./data/NameMappings.txt    
  
 III. Feedback, Suggestions, and Acknowledgements
 -----------------------------------------------
  
-PC-miner was developed by Frank Tip as a tool to help identify PC member
+I originally developed as a tool for identifying PC member
 candidates for the ISSTA'11 and PLDI'12 program committees. Since then,
 it has been used by several other PC chairs for conferences such as
 ISMM, ISSTA, ICSE, FSE, PLDI, ASE, ECOOP, and OOPSLA.  Feedback, suggestions, and
 improvements are most welcome, as is additional conference data.
-Feedback, contributions and suggestions from Giuseppe Castagna, Matt Dwyer, Cormac Flanagan,
-Sam Guyer, Richard Jones, Max Schaefer, Alex Orso, Jan Vitek, and Andreas Zeller are 
+Contributions from Giuseppe Castagna, Matt Dwyer, Cormac Flanagan,
+Sam Guyer, Richard Jones, Max Schaefer, Alex Orso, Sam Tobin-Hochstadt, Jan Vitek, and Andreas Zeller are 
 gratefully acknowledged.
 
 The data made available in PC-miner contains information from the

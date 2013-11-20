@@ -30,11 +30,11 @@ E:Stephen N. Freund
 E:Erez Petrank
 E:Jonathan Aldrich
 E:Healfdene Goguen
-E:Oliver R�thing
+E:Oliver R&uuml;thing
 E:David F. Bacon
 E:David Gregg
 E:Mooly Sagiv
-E:Rastislav Bod�k
+E:Rastislav Bod&#237;k
 E:Dan Grossman
 E:Vivek Sarkar
 E:Preston Briggs
@@ -62,7 +62,7 @@ E:Keith D. Cooper
 E:Vijay Menon
 E:Kenjiro Taura
 E:Jack W. Davidson
-E:Hanspeter M�ssenb�ck
+E:Hanspeter M���ssenb���ck
 E:Petr Tuma
 E:Derek Dreyer
 E:Frank Mueller

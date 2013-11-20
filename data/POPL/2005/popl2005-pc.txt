@@ -1,6 +1,6 @@
 G:Jens Palsberg
 P:Mart&iacute;n Abadi
-Rastislav Bodík
+Rastislav Bod&#237;k
 Perry Cheng
 William R. Cook
 Michael D. Ernst
@@ -14,7 +14,7 @@ Naoki Kobayashi
 Julia L. Lawall
 Andrew C. Myers
 Gordon D. Plotkin
-François Pottier
+Fran&#231;ois Pottier
 Sriram K. Rajamani
 John H. Reppy
 Zhong Shao

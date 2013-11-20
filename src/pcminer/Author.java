@@ -142,8 +142,14 @@ public final class Author implements Comparable<Author> {
 	private final Set<Publication> publications;
 	private final Set<CommitteeRole> committees;
 	
+	
+	private static Map<String,String> nameMappings = new HashMap<String,String>();
 	private static Map<Author,Author> authors = new HashMap<Author,Author>();
 
+	public static void addNameMapping(String from, String to){
+		nameMappings.put(from, to);
+	}
+	
 	public static Set<Author> getAuthors(){
 		return new HashSet<Author>(authors.keySet());
 	}
@@ -207,6 +213,7 @@ public final class Author implements Comparable<Author> {
 		result = result.replace("&#242;", "&ograve;");
 		result = result.replace("&#243;", "&oacute;");
 		result = result.replace("&#244;", "&ocirc;");
+		result = result.replace("&#245;", "&otilde;");
 		result = result.replace("&#246;", "&ouml;");
 		result = result.replace("&#248;", "&oslash;");
 		result = result.replace("&#250;", "&uacute;");
@@ -244,6 +251,7 @@ public final class Author implements Comparable<Author> {
 		result = result.replace("&#0242;", "&ograve;");
 		result = result.replace("&#0243;", "&oacute;");
 		result = result.replace("&#0244;", "&ocirc;");
+		result = result.replace("&#0245;", "&otilde;");
 		result = result.replace("&#0246;", "&ouml;");
 		result = result.replace("&#0248;", "&oslash;");
 		result = result.replace("&#0250;", "&uacute;");
@@ -253,6 +261,10 @@ public final class Author implements Comparable<Author> {
 		
 		if (result.contains("&#")){
 			System.err.println("WARNING: unmapped character in author name: " + authorName);
+		}
+		
+		if (nameMappings.containsKey(result)){
+			result = nameMappings.get(result);
 		}
 		
 		return result;

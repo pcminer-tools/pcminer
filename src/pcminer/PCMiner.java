@@ -63,6 +63,8 @@ public class PCMiner {
 		String inputDirectory = "." + File.separator + "data";
 		String outputDirectory = "." + File.separator + "ui" + File.separator + "js"; 
 		
+		readNameMappings(inputDirectory + File.separator + "NameMappings.txt");
+		
 		scan(inputDirectory);
 		
 		String jsonFileName = outputDirectory + File.separator + "data.js";
@@ -256,6 +258,32 @@ public class PCMiner {
 			}
 		});
 	}
+	
+	/**
+	 * The data/nameMappings file provides a mechanism to normalize author names. This
+	 * serves to handle cases where an author has multiple DBLP entries that need to be
+	 * merged. Example: Alexander Aiken also has DBLP entries as Alex Aiken.
+	 * @param fileName
+	 * @throws IOException
+	 */
+	
+	private void readNameMappings(String fileName) throws IOException {
+		BufferedReader br = null;
+		try {
+			File file = new File(fileName);
+			FileReader fr = new FileReader(file);
+			br = new BufferedReader(fr);
+			while (br.ready()){
+				String line = br.readLine().trim();
+				String from = line.substring(0, line.indexOf("->")).trim();
+				String to = line.substring(line.indexOf("->")+2).trim();
+				Author.addNameMapping(from, to);
+			}
+		} finally {
+			br.close();
+		}
+	}
+	
 			
 	/**
 	 * Reads in program committee information. This needs to be entered

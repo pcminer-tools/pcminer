@@ -3,7 +3,7 @@ P:Alexander Aiken
 Vikram S. Adve
 Jonathan Aldrich
 David F. Bacon
-Rastislav Bod’k
+Rastislav Bod&#237;k
 Radhia Cousot
 Evelyn Duesterwald
 David Gay
