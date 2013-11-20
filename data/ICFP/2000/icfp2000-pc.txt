@@ -1,0 +1,15 @@
+P:Philip Wadler
+G:Martin Odersky
+Richard S. Bird
+Craig Chambers
+Charles Consel
+Susan Eisenbach
+Fergus Henderson
+Ralf Hinze
+Shriram Krishnamurthi
+Xavier Leroy
+Eugenio Moggi
+Greg Morrisett
+Atsushi Ohori
+Catuscia Palamidessi
+Andrew K. Wright

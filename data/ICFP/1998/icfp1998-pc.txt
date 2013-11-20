@@ -1,0 +1,14 @@
+G:Matthias Felleisen
+P:Paul Hudak
+P:Christian Queinnec
+Giuseppe Attardi
+Daniel P. Friedman
+Andrew D. Gordon
+Robert Harper
+Paul Hudak
+Takayasu Ito
+Julia L. Lawall
+Hanne Riis Nielson
+Erik Meijer
+Christian Queinnec
+Benjamin G. Zorn

@@ -1,0 +1,16 @@
+G: Simon Peyton Jones
+P:Mads Tofte
+Alex Aiken
+Andrew W. Appel
+Zena M. Ariola
+Marc Feeley
+Shail Aditya Gupta
+Peter Lee
+Xavier Leroy
+Martin Odersky
+Rinus Plasmeijer
+Colin Runciman
+Amr Sabry
+Guy Steele
+Philip Wadler
+Paul R. Wilson

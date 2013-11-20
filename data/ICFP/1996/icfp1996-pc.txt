@@ -1,0 +1,14 @@
+P:R. Kent Dybvig
+G:Robert Harper
+Luca Cardelli
+Olivier Danvy
+Matthias Felleisen
+Richard P. Gabriel
+Paul Hudak
+John Launchbury
+Peter Lee
+Atsushi Ohori
+Didier R&233;my
+John H. Reppy
+Olin Shivers
+Andrew K. Wright

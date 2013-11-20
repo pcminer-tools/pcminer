@@ -1,0 +1,14 @@
+P:Simon L. Peyton Jones
+G:Mitchell Wand
+Matthias Blume
+Margaret M. Burnett
+Manuel M. T. Chakravarty
+Matthew Flatt
+Haruo Hosoya
+Uwe Nestmann
+Chris Okasaki
+Norman Ramsey
+David Sands
+Olin Shivers
+Stephanie Weirich
+Joe Wells
