@@ -1,0 +1,33 @@
+G: Alex Nicolau
+G: Xiaowei Shen
+P: Saman Amarasinghe
+P: Richard Vuduc
+Kunal Agrawal
+Chris Batten
+Martin Burtscher
+Calin Cascaval
+Wenguang Chen
+Yifeng Chen
+Brian Demsky
+Dave Dice
+Isaac Gelado
+Phil Gibbons
+Ganesh Gopalakrishnan
+Naga Govindaraju
+Govindjaran
+Ziang Hu
+Laxmikant Kale
+Duane Merrill
+Mayur Naik
+Ryan Newton
+Dimitrios Nikolopoulos
+Jens Palsberg
+Yoonho Park
+Vijay Reddi
+Michael Scott
+Nathan Tallent
+Philippas Tsigas
+Peng Wu
+Binyu Zang
+Rajeev Barua
+Paul H.J. Kelly
