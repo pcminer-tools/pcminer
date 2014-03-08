@@ -1,0 +1,18 @@
+G: Rudolf Eigenmann 
+P: Martin Rinard 
+Vikram Adve
+Rajeev Alur
+Henri Bal
+Henri Casanova
+Pedro Diniz
+Idit Keidar
+Jim Larus
+Doug Lea
+Charles E. Leiserson
+Vivek Pai
+Sriram Rajamani
+Radu Rugina
+Jaswinder Pal Singh
+Frédéric Vivien
+Rich Wolski
+Katherine Yelick
