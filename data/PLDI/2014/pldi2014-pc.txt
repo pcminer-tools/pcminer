@@ -1,0 +1,102 @@
+G:Michael F P O'Boyle
+P:Keshav Pingali
+Jade Alglave
+Stephen M. Blackburn
+Martin Burtscher
+Calin Cascaval
+Albert Cohen
+William R. Cook
+John Field
+Jeff Foster
+Ganesh Gopalakrishnan
+R. Govindarajan
+Dan Grossman
+Guang R. Gao
+Sumit Gulwani
+Mary W. Hall
+Paul H. J. Kelly
+Shriram Krishnamurthi
+Milind Kulkarni
+Scott A. Mahlke
+Rupak Majumdar
+Roman Manevich
+Vijay Menon
+Anders Møller
+Iulian Neamtiu
+David A. Padua
+Parthasarathy Madhusudan
+Shaz Qadeer
+Noam Rinetzky
+Atanas Rountev
+Koushik Sen
+Xipeng Shen
+Armando Solar-Lezama
+Mandana Vaziri
+David Walker
+Xiaobing Feng
+Benjamin G. Zorn
+E:Jose Nelson Amaral
+E:Saman Amarasinghe
+E:Ioana Baldini
+E:Emery D. Berger
+E:Eric Bodden
+E:Ras Bodic
+E:Michael Bond
+E:Uday Bondhugula
+E:Edwin Brady
+E:Swarat Chaudhuri
+E:Stephen Chong
+E:Ravi Chugh
+E:Alastair Donaldson
+E:Faith Ellen
+E:Michael Emmi
+E:Michael Ernst
+E:Azadeh Farzan
+E:Min Feng
+E:Matthew Fluet
+E:Nate Foster
+E:Franz Franchetti
+E:Maria Garzaran
+E:Arjun Guha
+E:Aarti Gupta
+E:Rajiv Gupta
+E:Ben Hardekopf
+E:Shan Shan Huang
+E:Marieke Huisman
+E:Viktor Kuncak
+E:Patrick Lam
+E:Calvin Lin
+E:Shan Lu
+E:Andrew Lumsdaine
+E:Mark Marron
+E:Eric Mercer
+E:Matthias Meyer
+E:Sam Midkiff
+E:Hanspeter Mossenbock
+E:Madan Musuvathi
+E:Todd Mytkowicz
+E:Vijay Nagarajan
+E:Rupesh Nasre
+E:John Owens
+E:Prakash Panangaden
+E:Ruzica Piskac
+E:Rodric Rabbah
+E:Lawrence Rauchwerger
+E:Grigore Rosu
+E:Andrey Rybalchenko
+E:P. Sadayappan
+E:Caitlin Sadowski
+E:Michael Scott
+E:Tatiana Shpeisman
+E:Stephen Siegel
+E:Yannis Smaragdakis
+E:Olivier Tardieu
+E:Zachary Tatlock
+E:Ankur Taly
+E:Tijs van der Storm
+E:Kapil Vaswani
+E:Martin Vechev
+E:Cheng Wang
+E:Guoqing Xu
+E:Eran Yahav
+E:Antonia Zhai
