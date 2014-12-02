@@ -91,9 +91,9 @@ Adding a conference involves the following steps:
        Important: *The name of each PC member must match the name and middle initials
        as they are used in DBLP* (otherwise, get duplicate entries will
        appear in the UI). Note that *special characters in people's names
-       need to be encoded* (see [here](http://www.w3schools.com/tags/ref_entities.asp)
+       need to be encoded* (see [here](http://www.utexas.edu/learn/html/spchar.html)
        for a list of HTML character codes).  For example, you'll need to
-       encode a lowercase 'a' with an umlaut as '&auml' or '&#228'.
+       encode a lowercase 'a' with an umlaut as '&auml;' or '&#228;'.
 
        By default, including a person's name in the committee-file means
        that they are assumed to be a PC member. For other roles (e.g.,
@@ -104,6 +104,7 @@ Adding a conference involves the following steps:
          - "C:<name>"  - conference chair
          
 5. Once your files are all in place, you can generate the UI by running PCMiner.java.
+   (To compile and run, you need in your classpath the jar files in subdirectory lib.)
    This will generate an updated version of the file ui/data.js. Opening
    ui/index.html in your browser will bring up a version of PC-miner that
    contains the conference you just added.  Please contribute any data
@@ -116,7 +117,7 @@ Adding a conference involves the following steps:
 III. Feedback, Suggestions, and Acknowledgements
 -----------------------------------------------
  
-I originally developed as a tool for identifying PC member
+I originally developed this as a tool for identifying PC member
 candidates for the ISSTA'11 and PLDI'12 program committees. Since then,
 it has been used by several other PC chairs for conferences such as
 ISMM, ISSTA, ICSE, FSE, PLDI, ASE, ECOOP, and OOPSLA.  Feedback, suggestions, and
