@@ -3,7 +3,7 @@ Lars Birkedal
 Matthias Blume
 Mariangiola Dezani-Ciancaglini
 R. Kent Dybvig
-Manuel F&228;hndrich
+Manuel F&auml;hndrich
 John Hughes
 Simon Marlow
 Jan Midtgaard

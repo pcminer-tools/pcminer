@@ -1,21 +1,21 @@
-P: Todd Millstein
+P:Todd D. Millstein
 Swarat Chaudhuri
 Stephen Chong
 Ravi Chugh
 Patrick Eugster
-Manuel Fahndrich
+Manuel F&auml;hndrich
 Robert Grimm
-Thomas Gross
+Thomas R. Gross
 David Grove
 Matthias Hauswirth
 Michael Hicks
 Sarfraz Khurshid
 Shriram Krishnamurthi
 Milind Kulkarni
-Crista Lopes
+Cristina V. Lopes
 Shan Lu
 Daniel Marino
-Jay McCarthy
+Jay A. McCarthy
 Madan Musuvathi
 Todd Mytkowicz
 Anders M&oslash;ller
@@ -25,9 +25,9 @@ Nate Nystrom
 Alex Potanin
 Sukyoung Ryu
 Caitlin Sadowski
-Max Schaefer
+Max Sch&auml;fer
 Manu Sridharan
-Peter Sweeney
+Peter F. Sweeney
 Mandana Vaziri
 Ben Wiedermann
 Tao Xie

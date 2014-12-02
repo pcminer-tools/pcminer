@@ -1,27 +1,27 @@
 Jade Alglave	 	
-Steve Blackburn	 	
+Stephen M. Blackburn
 Martin Burtscher	
 Calin Cascaval	 	
 Albert Cohen	 	
-William Cook	 	
+William R. Cook	 	
 John Field	 		
-Jeff Foster	 		
+Jeffrey S. Foster	 		
 Ganesh Gopalakrishnan
 R. Govindarajan
 Dan Grossman   
 Gao Guang-Rong 
 Sumit Gulwani  
-Mary Hall	   
-Paul H J Kelly 
+Mary W. Hall	   
+Paul H. J. Kelly 
 Shriram Krishnamurthi
 Milind Kulkarni
-Scott Mahlke   
+Scott A. Mahlke   
 Rupak Majumdar 
 Roman Manevich 
 Vijay Menon	   
 Anders M&oslash;ller
 Iulian Neamtiu 
-David Padua	   
+David A. Padua	   
 Madhusudan Parthasarathy
 P: Keshav Pingali
 Shaz Qadeer	 
@@ -33,4 +33,4 @@ Armando Solar-Lezama
 Mandana Vaziri
 David Walker
 Xiaobing Feng
-Ben Zorn
+Benjamin G. Zorn
