@@ -4,3 +4,4 @@ Alex Aiken->Alexander Aiken
 Stephen Blackburn->Stephen M. Blackburn
 Stephen Fink->Stephen J. Fink
 Simon Gibbs->Simon J. Gibbs
+Julia Lawall->Julia L. Lawall
