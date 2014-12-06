@@ -3,7 +3,7 @@ pcminer
 
 PC-miner is a tool that analyzes publications and program committee service in the top conferences 
 in Programming Languages and Software Engineering. Currently, the tool supports the following 
-conferences: ASE, ECOOP, ESOP, FSE, ICFP, ICSE, ISMM, ISSTA, OOPSLA, PLDI, and POPL and it covers the years 1995-2014. 
+conferences: ASE, ECOOP, ESOP, FSE, ICFP, ICSE, ISMM, ISSTA, OOPSLA, PLDI, POPL, and PPoPP and it covers the years 1995-2014. 
 Publication data was obtained from [DBLP](http://www.informatik.uni-trier.de/~ley/db/), and program committee data was scraped from various 
 conference web sites. 
 
@@ -122,13 +122,13 @@ candidates for the ISSTA'11 and PLDI'12 program committees. Since then,
 it has been used by several other PC chairs for conferences such as
 ISMM, ISSTA, ICSE, FSE, PLDI, ASE, ECOOP, and OOPSLA.  Feedback, suggestions, and
 improvements are most welcome, as is additional conference data.
-Contributions from Giuseppe Castagna, Matt Dwyer, Cormac Flanagan,
-Sam Guyer, Richard Jones, Max Schaefer, Alex Orso, Sam Tobin-Hochstadt, Jan Vitek, and Andreas Zeller are 
-gratefully acknowledged.
+Contributions from Steve Blackburn, Giuseppe Castagna, Matt Dwyer, Cormac Flanagan, David Grove,
+Sam Guyer, Richard Jones, Max Schaefer, Alex Orso, Yannis Smaragdakis, Sam Tobin-Hochstadt, Jan Vitek, 
+and Andreas Zeller are gratefully acknowledged.
 
 The data made available in PC-miner contains information from the
 [DBLP Bibliography Server](http://www.informatik.uni-trier.de/~ley/db/index.html)
 which is made available under the 
 [ODC Attribution License](http://opendatacommons.org/licenses/by/summary/).
  
-(c) 2010-2013 Frank Tip
+(c) 2010-2014 Frank Tip
