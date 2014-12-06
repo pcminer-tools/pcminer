@@ -1,0 +1,61 @@
+P: Richard Jones
+Davide Ancona
+Sven Apel
+Walter Binder
+Stephen M. Blackburn
+Ana Cavalcanti
+Satish Chandra
+Dave Clarke
+Wolfgang De Meuter
+Isil Dillig
+Amer Diwan
+Lieven Eeckhout
+Robert Bruce Findler
+Irene Finocchi
+Christian Hammer
+Laurie J. Hendren
+Atsushi Igarashi
+Tomas Kalibera
+Doug Lea
+Yu David Liu
+Cristina Lopes
+Ana Milanova
+Nick Mitchell
+J. Eliot B. Moss
+Jens Palsberg
+Matthew J. Parkinson
+Arnd Poetzsch-Heffter
+Dirk Riehle
+Yannis Smaragdakis
+Arie van Deursen
+Hongseok Yang
+E:Vikram Adve
+E:Jonathan Aldrich
+E:Ioana Baldini
+E:Eric Bodden
+E:Sebastian Burckhardt
+E:Shigeru Chiba
+E:Ferruccio Damiani
+E:Werner Dietl
+E:Sophia Drossopolou
+E:Erik Ernst
+E:Matthew Flatt
+E:Michael Franz
+E:Kathryn E Gray
+E:Samuel Z. Guyer
+E:Matthias Hauswirth
+E:Einar Broch Johnsen
+E:Christian K&auml;stner
+E:J&ouml;rg Kienzle
+E:Ondrej Lhot&aacute;k
+E:Hidehiko Masuhara
+E:Romain Robbes
+E:Sukyoung Ryu
+E:Shmuel Sagiv
+E:Ina Schaefer
+E:Friedrich Steimann
+E:Alexander J. Summers
+E:Frank Tip
+E:Laurence Tratt
+E:Greta Yorsh
+
