@@ -1,0 +1,20 @@
+G: Siddhartha Chatterjee
+P: Michael L. Scott
+Cristiana Amza
+Emery Berger
+Greg Bronevetsky
+Tim Harris
+Liviu Iftode
+Vijay Karamcheti
+Milo Martin
+John Mellor-Crummey
+Maged Michael
+Bratin Saha
+Michael Scott
+Marc Shapiro
+Lauren Smith
+Nir Shavit
+Philippas Tsigas
+Jeff Vetter
+Antonia Zhai
+Yutao Zhong

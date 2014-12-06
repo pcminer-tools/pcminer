@@ -1,0 +1,32 @@
+G: Jose Moreira
+P: Jim Larus
+Sara S Baghsorkhi
+Guy E Blelloch
+Greg Bronevetsky
+Martin Burtscher
+Wenguang Chen
+Chen Ding
+Sandhya Dwarkadas
+John Feo
+Jeremy T Fineman
+Dennis Gannon
+Ganesh Gopalakrishnan
+Thomas Gross
+Rachid Guerraoui
+Tim Harris
+Bingsheng He
+Torsten Hoefler
+Mahmut Kandemir
+Milind Kulkarni
+Andrew Lumsdaine
+Virendra J Marathe
+Madan Musuvathi
+Kunle Olukotun
+Erez Petrank
+John Reppy
+Nir Shavit
+Xipeng Shen
+Michael Spear
+Olivier Temam
+Jeffrey S. Vetter
+Zheng (Eddy) Zhang

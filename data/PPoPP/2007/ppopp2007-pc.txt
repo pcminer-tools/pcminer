@@ -1,0 +1,18 @@
+G: Katherine Yelick
+P: John Mellor-Crummey
+Eduard Ayguadé
+David Callahan
+Barbara Chapman
+Siddhartha Chatterjee
+Albert Cohen
+Maurice Herlihy
+Laxmikant Kale
+Sanjeev Kumar
+David Lowenthal
+Ewing Lusk
+P. Sadayappan
+Michael L. Scott
+Lauren L. Smith
+Robert A. van de Geijn
+Rich Wolski
+Hans Zima

@@ -1,0 +1,17 @@
+G: Josep Torrellas
+P: Siddhartha Chatterjee
+Vikram Adve
+Siddhartha Chatterjee
+Luiz DeRose
+Sandhya Dwarkadas
+Ananth Grama
+Andrew Grimshaw
+Thomas Gross
+Tim Harris
+Michael Heroux
+James Larus
+Satoshi Matsuoka
+John Mellor-Crummey
+Sam Midkiff
+Christoph von Praun
+Kathy Yelick
