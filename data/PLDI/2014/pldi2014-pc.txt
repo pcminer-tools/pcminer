@@ -1,0 +1,36 @@
+Jade Alglave	 	
+Stephen M. Blackburn
+Martin Burtscher	
+Calin Cascaval	 	
+Albert Cohen	 	
+William R. Cook	 	
+John Field	 		
+Jeffrey S. Foster	 		
+Ganesh Gopalakrishnan
+R. Govindarajan
+Dan Grossman   
+Gao Guang-Rong 
+Sumit Gulwani  
+Mary W. Hall	   
+Paul H. J. Kelly 
+Shriram Krishnamurthi
+Milind Kulkarni
+Scott A. Mahlke   
+Rupak Majumdar 
+Roman Manevich 
+Vijay Menon	   
+Anders M&oslash;ller
+Iulian Neamtiu 
+David A. Padua	   
+Madhusudan Parthasarathy
+P: Keshav Pingali
+Shaz Qadeer	 
+Noam Rinetzky	
+Atanas Rountev	
+Koushik Sen
+Xipeng Shen
+Armando Solar-Lezama
+Mandana Vaziri
+David Walker
+Xiaobing Feng
+Benjamin G. Zorn

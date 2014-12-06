@@ -4,3 +4,11 @@ Alex Aiken->Alexander Aiken
 Stephen Blackburn->Stephen M. Blackburn
 Stephen Fink->Stephen J. Fink
 Simon Gibbs->Simon J. Gibbs
+Julia Lawall->Julia L. Lawall
+Madan Musuvathi->Madanlan Musuvathi
+Cristina V. Lopes->Cristina Videira Lopes
+Crista Lopes->Cristina Videira Lopes
+Michael Hicks->Michael W. Hicks
+Patrick Eugster->Patrick Th. Eugster
+R. Govindarajan->Ramaswamy Govindarajan
+Robby Bruce Findler->Robert Bruce Findler
