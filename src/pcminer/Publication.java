@@ -23,14 +23,14 @@ public final class Publication {
 	}
 
 	public String toJson(int indent) {
-		String jsonTitle = title.replace("\"", "\\\"");
+		String jsonTitle = title.replace("\\", "\\\\").replace("\"", "\\\"");
 		return  repeat(" ", indent) + "  {\n" 
 		              + repeat(" ", indent+2) + "\"title\" : " + "\"" + jsonTitle + "\",\n"  
 		              + repeat(" ", indent+2) + "\"authors\" : " + toJson(authors) + ",\n"
 		              + repeat(" ", indent+2) + "\"conference\" : " +conferenceInstance.toJson() +",\n" 
 		              + repeat(" ", indent+2) + " \"pages\" : " + "\"" + pages + "\",\n"  
 		              + repeat(" ", indent+2) + " \"session\" : " + "\"" + session + "\"" + "\n" +  
-				 repeat(" ", indent) + " },";
+				 repeat(" ", indent) + " }";
 	}
 	
 	private static String toJson(List<Author> authors){
