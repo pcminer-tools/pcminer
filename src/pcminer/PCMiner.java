@@ -17,6 +17,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.SortedSet;
 import java.util.TreeSet;
+import java.util.stream.Collectors;
 
 import org.htmlparser.Node;
 import org.htmlparser.Parser;
@@ -359,14 +360,10 @@ public class PCMiner {
 				stream.println("{\n" + 
 				author.toJson(indent) + ",");
 				stream.println(Util.repeat(" ", indent+2) + "\"publications\" : ["); 
-				for (Publication pub : author.getPublications()){
-					stream.println(pub.toJson(indent+4));
-				}
+				stream.println(author.getPublications().stream().map(p -> p.toJson(indent+4)).collect(Collectors.joining(",\n")));
 				stream.println(Util.repeat(" ", indent+2) + "],");
 				stream.println(Util.repeat(" ", indent+2) + "\"committees\" : ["); 
-				for (CommitteeRole c : author.getCommittees()){
-					stream.println(c.toJson(indent+4));
-				}
+				stream.println(author.getCommittees().stream().map(c -> c.toJson(indent+4)).collect(Collectors.joining(",\n")));
 				stream.println(Util.repeat(" ", indent+2) + "]");
 				if (count < sortedAuthors.size()){
 					stream.println("},");

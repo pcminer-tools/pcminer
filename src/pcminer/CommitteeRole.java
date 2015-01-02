@@ -14,7 +14,7 @@ public abstract class CommitteeRole {
 	}
 	
 	public String toJson(int indent){
-		return Util.repeat(" ", indent) + "{ " + "\"role\" : " + getRoleJson() + ", " + "\"conference\" : " + conferenceInstance.toJson() + " },";
+		return Util.repeat(" ", indent) + "{ " + "\"role\" : " + getRoleJson() + ", " + "\"conference\" : " + conferenceInstance.toJson() + " }";
 	}
 	
 	public abstract String getRoleJson(); 
