@@ -123,7 +123,7 @@ it has been used by several other PC chairs for conferences such as
 ISMM, ISSTA, ICSE, FSE, PLDI, ASE, ECOOP, and OOPSLA.  Feedback, suggestions, and
 improvements are most welcome, as is additional conference data.
 Contributions from Steve Blackburn, Giuseppe Castagna, Matt Dwyer, Cormac Flanagan, David Grove,
-Sam Guyer, Richard Jones, Max Schaefer, Alex Orso, Yannis Smaragdakis, Sam Tobin-Hochstadt, Jan Vitek, 
+Sam Guyer, Richard Jones, Alex Orso, Max Schaefer, Yannis Smaragdakis, Manu Sridharan, Sam Tobin-Hochstadt, Jan Vitek, 
 and Andreas Zeller are gratefully acknowledged.
 
 The data made available in PC-miner contains information from the
@@ -131,4 +131,4 @@ The data made available in PC-miner contains information from the
 which is made available under the 
 [ODC Attribution License](http://opendatacommons.org/licenses/by/summary/).
  
-(c) 2010-2014 Frank Tip
+(c) 2010-2015 Frank Tip
