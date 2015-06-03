@@ -9,9 +9,9 @@ Andy Gill
 Fritz Henglein
 Michael Hicks
 Patricia Johann
-Andres L&246;h
+Andres L&ouml;h
 Simon L. Peyton Jones
-Didier R&#233;y
+Didier R&eacute;my
 John H. Reppy
 Manuel Serrano
 Matthieu Sozeau
