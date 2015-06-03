@@ -7,7 +7,7 @@ Ken Friis Larsen
 Yukiyoshi Kameyama
 Anil Madhavapeddy
 Geoffrey Mainland
-David Mazières
+David Mazi&egrave;res
 Jay McCarthy
 Matthew Might
 Ulf Norell
