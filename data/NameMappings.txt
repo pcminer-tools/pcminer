@@ -12,3 +12,7 @@ Michael Hicks->Michael W. Hicks
 Patrick Eugster->Patrick Th. Eugster
 R. Govindarajan->Ramaswamy Govindarajan
 Robby Bruce Findler->Robert Bruce Findler
+Timothy E. Sheard->Tim Sheard
+J. Gregory Morrisett->Greg Morrisett
+S. Doaitse Swierstra->Doaitse Swierstra
+J. B. Wells->Joe Wells

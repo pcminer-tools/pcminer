@@ -9,7 +9,7 @@ Simon L. Peyton Jones
 Hanne Riis Nielson
 Benjamin C. Pierce
 Todd A. Proebsting
-Didier RŽmy
+Didier R&eacute;my
 Jon G. Riecke
 Martin C. Rinard
 Scott A. Smolka

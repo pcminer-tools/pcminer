@@ -1,5 +1,5 @@
 P:Peter Lee
-G:Didier R&233;my
+G:Didier R&eacute;my
 Lennart Augustsson
 Alain Deutsch
 Sophia Drossopoulou

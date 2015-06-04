@@ -7,7 +7,7 @@ Alain Frisch
 Suresh Jagannathan
 Patricia Johann
 Yukiyoshi Kameyama
-Andres L&246;h
+Andres L&ouml;h
 Simon Marlow
 Greg Morrisett
 Riccardo Pucella
