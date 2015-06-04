@@ -120,9 +120,9 @@ III. Feedback, Suggestions, and Acknowledgements
 I originally developed this as a tool for identifying PC member
 candidates for the ISSTA'11 and PLDI'12 program committees. Since then,
 it has been used by several other PC chairs for conferences such as
-ISMM, ISSTA, ICSE, FSE, PLDI, ASE, ECOOP, and OOPSLA.  Feedback, suggestions, and
+ISMM, ISSTA, ICFP, ICSE, FSE, PLDI, ASE, ECOOP, and OOPSLA.  Feedback, suggestions, and
 improvements are most welcome, as is additional conference data.
-Contributions from Steve Blackburn, Giuseppe Castagna, Matt Dwyer, Cormac Flanagan, David Grove,
+Contributions from Steve Blackburn, Giuseppe Castagna, Matt Dwyer, Cormac Flanagan, Jeremy Gibbons, David Grove,
 Sam Guyer, Richard Jones, Alex Orso, Max Schaefer, Yannis Smaragdakis, Manu Sridharan, Sam Tobin-Hochstadt, Jan Vitek, 
 and Andreas Zeller are gratefully acknowledged.
 
