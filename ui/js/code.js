@@ -503,11 +503,11 @@ var pcminer = function(){
 		 $("#slider").rangeSlider({
 		    	bounds:{
 		    		min: 1995,
-		    		max: 2014
+		    		max: 2016
 		    		},
 		    	defaultValues:{
 		    		min: 1995,
-		    		max: 2014
+		    		max: 2016
 		    		},
 		    	step: 1,	 
 				scales : [
