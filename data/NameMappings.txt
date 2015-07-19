@@ -16,3 +16,10 @@ Timothy E. Sheard->Tim Sheard
 J. Gregory Morrisett->Greg Morrisett
 S. Doaitse Swierstra->Doaitse Swierstra
 J. B. Wells->Joe Wells
+Robert Bruce Findler->Robby Findler
+Andy Gordon->Andrew D. Gordon
+Neel Krishnaswami->Neelakantan R. Krishnaswami
+Umut Acar->Umut A. Acar
+Emery Berger->Emery D. Berger
+Neelakantan Krishnaswami->Neelakantan R. Krishnaswami
+Sriram Rajamani->Sriram K. Rajamani
