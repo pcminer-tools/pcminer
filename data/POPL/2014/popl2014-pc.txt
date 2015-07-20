@@ -1,0 +1,29 @@
+G:Suresh Jagannathan
+P:Peter Sewell
+Andrew W. Appel
+Gilles Barthe
+Nick Benton
+Lars Birkedal
+Ahmed Bouajjani
+James Cheney
+Mads Dam
+Dino Distefano
+Thomas Dillig
+Sophia Drossopoulou
+Nate Foster
+Atsushi Igarashi
+Alan Jeffrey
+Neelakantan R. Krishnaswami
+Aditya V. Nori
+Noam Rinetzky
+Xavier Rival
+Andrey Rybalchenko
+Jeremy G. Siek
+Nikhil Swamy
+Ross Tate
+Tayssir Touili
+Aaron J. Turon
+Viktor Vafeiadis
+Stephanie Weirich
+Thomas Wies
+Elena Zucca
