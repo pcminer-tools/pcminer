@@ -1,7 +1,7 @@
 G:Graham Hutton
 P:Andrew P. Tolmach
 Amal Ahmed
-Mar&237;a Alpuente
+Mar&#237;a Alpuente
 Lennart Augustsson
 Lars Birkedal
 Manuel M. T. Chakravarty

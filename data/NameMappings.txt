@@ -23,3 +23,321 @@ Umut Acar->Umut A. Acar
 Emery Berger->Emery D. Berger
 Neelakantan Krishnaswami->Neelakantan R. Krishnaswami
 Sriram Rajamani->Sriram K. Rajamani
+John Reppy->John H. Reppy
+Vikram Adve->Vikram S. Adve
+Eddie Aftandilian->Edward Aftandilian
+George Alm&aacute;si->Gheorghe S. Alm&aacute;si
+Gheorghe Alm&aacute;si->Gheorghe S. Alm&aacute;si
+George Almasi->Gheorghe S. Alm&aacute;si
+George S. Almasi->Gheorghe S. Alm&aacute;si
+J. Nelson Amaral->Jos&eacute; Nelson Amaral
+Saman Amarasinghe->Saman P. Amarasinghe
+Hany Ammar->Hany H. Ammar
+Kenneth Mark Anderson->Kenneth M. Anderson
+Zena Ariola->Zena M. Ariola
+Joe Armstrong->Joe L. Armstrong
+Jo Atlee->Joanne M. Atlee
+Jeff van Baalen->Jeffrey Van Baalen
+Dave F. Bacon->David F. Bacon
+Sara S Baghsorkhi->Sara S. Baghsorkhi
+Henri Bal->Henri E. Bal
+Len Bass->Leonard J. Bass
+Pete Beckman->Peter H. Beckman
+Ayse Bener->Ayse Basar Bener
+Laxmi N. Bhuyan->Laxmi Narayan Bhuyan
+Gavin Bierman->Gavin M. Bierman
+Ken Birman->Kenneth P. Birman
+Guy E Blelloch->Guy E. Blelloch
+Hans-J. Boehm->Hans-Juergen Boehm
+Michael Bond->Michael D. Bond
+Koen De Bosschere->Koenraad De Bosschere
+John Boyland->John Tang Boyland
+Victor Braberman->V&iacute;ctor A. Braberman
+Guillaume Brat->Guillaume P. Brat
+Travis Breaux->Travis D. Breaux
+Karin Koogan Breitman->Karin Breitman
+Lionel Briand->Lionel C. Briand
+Steve Brookes->Stephen D. Brookes
+David Brooks->David M. Brooks
+Angela Brown->Angela Demke Brown
+Christopher Bull->Christopher N. Bull
+Michael Burke->Michael G. Burke
+Greg Butler->Gregory Butler
+Shawn Butler->Shawn A. Butler
+Ugo Buy->Ugo A. Buy
+Luis Caires->Lu&iacute;s Caires
+Marcelo Campo->Marcelo R. Campo
+Jeffrey Carver->Jeffrey C. Carver
+Dhruva Chakrabarti->Dhruva R. Chakrabarti
+Manuel Chakravarty->Manuel M. T. Chakravarty
+Brad Chamberlain->Bradford L. Chamberlain
+W. K. Chan->Wing Kwong Chan
+Barbara Chapman->Barbara M. Chapman
+Arthur Chargueraud->Arthur Chargu&eacute;raud
+Betty H.C. Cheng->Betty H. C. Cheng
+Ophelia Chesley->Ophelia C. Chesley
+S. C. Cheung->Shing-Chi Cheung
+Adam Chlipala->Adam J. Chlipala
+John Clark->John A. Clark
+Dave Clarke->David G. Clarke
+Myra Cohen->Myra B. Cohen
+Robert Cohn->Robert S. Cohn
+Christian Convey->Christopher L. Conway
+Jonathan Cook->Jonathan E. Cook
+William Cook->William R. Cook
+James Coplien->James O. Coplien
+Ron Cytron->Ron K. Cytron
+Daniela Damian->Daniela E. Damian
+Rob DeLine->Robert DeLine
+Zach DeVito->Zachary DeVito
+Saumya Debray->Saumya K. Debray
+Dave Detlefs->David Detlefs
+Prem Devanbu->Premkumar T. Devanbu
+Mariangiola Dezani->Mariangiola Dezani-Ciancaglini
+Dave Dice->David Dice
+Isil Dillig->I&#351;&#305;l Dillig
+Juergen Dingel->J&uuml;rgen Dingel
+Pedro Diniz->Pedro C. Diniz
+Alastair Donaldson->Alastair F. Donaldson
+Nick Edmonds->Nicholas Gerard Edmonds
+Rudi Eigenmann->Rudolf Eigenmann
+Conal Elliott->Conal M. Elliott
+Brian Ellis->Bill J. Ellis
+Jesse Fang->Jesse Z. Fang
+M. Feather->Martin S. Feather
+Alexandra Fedorova->Alexandra (Sasha) Fedorova
+Marc Feeley->Michael J. Feeley
+Maribel Fern&aacute;ndez->Maribel F. Fern&aacute;ndez
+Mary F. Fern&aacute;ndez->Maribel F. Fern&aacute;ndez
+Maribel Fernandez->Maribel F. Fern&aacute;ndez
+Mary F. Fernandez->Maribel F. Fern&aacute;ndez
+Robby Findler->Robert Bruce Findler
+Jeremy T Fineman->Jeremy T. Fineman
+Stephen J Fink->Stephen J. Fink
+Steve Fink->Stephen J. Fink
+Donald Firesmith->Donald G. Firesmith
+Jeffrey Fischer->Jeffrey S. Fischer
+Christine Flood->Christine H. Flood
+Jeff Foster->Jeffrey S. Foster
+Cedric Fournet->C&eacute;dric Fournet
+Robert France->Robert B. France
+Matt Frank->Matthew Frank
+Bjom Freeman-Benson->Bj&oslash;rn N. Freeman-Benson
+Stephen Freund->Stephen N. Freund
+Harald Gall->Harald C. Gall
+Malay Ganai->Malay K. Ganai
+Guang Gao->Guang R. Gao
+Alessandro Garcia->Alessandro F. Garcia
+Stephane Gaubert->St&eacute;phane Gaubert
+Thomas Gawlitza->Thomas Martin Gawlitza
+Pierre Geneves->Pierre Genev&egrave;s
+Dan Ghica->Dan R. Ghica
+Phil Gibbons->Phillip B. Gibbons
+K. Gopinath->Kanchi Gopinath
+Michael Gordon->Michael J. C. Gordon
+Naga Govindaraju->Naga K. Govindaraju
+Jon Gray->Jonathan Gray
+Kathryn E Gray->Kathryn E. Gray
+Sol Greenspan->Sol J. Greenspan
+Andrew Grimshaw->Andrew S. Grimshaw
+William Gropp->William D. Gropp
+Thomas Gross->Thomas R. Gross
+John Grundy->John C. Grundy
+Sam Guyer->Samuel Z. Guyer
+Tibor Gyim&#8212;thy->Tibor Gyim&oacute;thy
+William G.J. Halfond->William G. J. Halfond
+A. Hall->Anthony Hall
+John Hall->Jon G. Hall
+Mary Hall->Mary W. Hall
+Tim Harris->Timothy L. Harris
+Rob Harrison->Robert J. Harrison
+William Harrison->William H. Harrison
+A. Hartman->Alan Hartman
+Ahmed Hassan->Ahmed E. Hassan
+Mats Heimdahl->Mats Per Erik Heimdahl
+Kim Herzig->Kim Sebastian Herzig
+Jeff Hollingsworth->Jeffrey K. Hollingsworth
+John Hosking->John G. Hosking
+John Hughes->John F. Hughes
+DeLesley Hutchins->DeLesley S. Hutchins
+Hoh In->Hoh Peter In
+Val&#381;rie Issarny->Val&eacute;rie Issarny
+David Janzen->David S. Janzen
+Patty Johann->Patricia Johann
+Jeremy Johnson->Jeremy R. Johnson
+Philip Johnson->Philip M. Johnson
+Ralph Johnson->Ralph E. Johnson
+Pramod Joisha->Pramod G. Joisha
+Christopher Grant Jones->Christopher G. Jones
+James A Jones->James A. Jones
+Mark Jones->Mark P. Jones
+Richard Jones->Richard E. Jones
+Roy Ju->Roy Dz-Ching Ju
+Mahmut Kandemir->Mahmut T. Kandemir
+Mahmut Taylan Kandemir->Mahmut T. Kandemir
+Kyo Chul Kang->Kyo-Chul Kang
+Paul H J Kelly->Paul H. J. Kelly
+Paul H.J. Kelly->Paul H. J. Kelly
+Andrew Kennedy->Andrew J. Kennedy
+Christoph Kessler->Christoph W. Kessler
+A. J. Kfoury->Assaf J. Kfoury
+Dave King->David J. King
+David Kirk->David Blair Kirk
+Barbara Kitchenham->Barbara A. Kitchenham
+John Knight->John C. Knight
+Jorgen Lindskov Knudsen->J&oslash;rgen Lindskov Knudsen
+Andrew Ko->Andrew Jensen Ko
+Andrew J. Ko->Andrew Jensen Ko
+Ken Koster->Kenneth Koster
+Christos Kozyrakis->Christoforos E. Kozyrakis
+Ingolf Kr&uuml;ger->Ingolf H. Kr&uuml;ger
+Aditya Kulkarni->Aditya Rajeev Kulkarni
+Naveen Kulkarni->Naveen N. Kulkarni
+Shuvendu Lahiri->Shuvendu K. Lahiri
+Albert Lai->Albert Y. C. Lai
+Erica Lan->Erica S.-C. Lan
+Jim Larus->James R. Larus
+James Larus->James R. Larus
+James Leifer->James J. Leifer
+Benjamin S. Lerner->Barbara Staudt Lerner
+Timothy Lethbridge->Timothy C. Lethbridge
+Ho-fung Leung->Ho-Fung Leung
+Paul Levy->Paul Blain Levy
+Jeffrey Lewis->Jeffrey R. Lewis
+Ondrej Lhotak->Ondrej Lhot&aacute;k
+Dan Licata->Daniel R. Licata
+Karl Lieberherr->Karl J. Lieberherr
+Ben Livshits->Benjamin Livshits
+Mary Loomis->Mary E. S. Loomis
+Cristina Lopes->Cristina Videira Lopes
+David Lowenthal->David K. Lowenthal
+Ewing Lusk->Ewing L. Lusk
+David MacQueen->David B. MacQueen
+P. Madhusudan->Parthasarathy Madhusudan
+T. S. E. Maibaum->Tom Maibaum
+Neil Maiden->Neil A. M. Maiden
+Jonathan Maletic->Jonathan I. Maletic
+Virendra J Marathe->Virendra J. Marathe
+Jean-Phillipe Martin->Jean-Philippe Martin
+Milo Martin->Milo M. K. Martin
+S. Matsuoka->Satoshi Matsuoka
+Chris Mattmann->Chris A. Mattmann
+Conor McBride->Conor Thomas McBride
+Jay McCarthy->Jay A. McCarthy
+Kathryn S McKinley->Kathryn S. McKinley
+Ken McMillan->Kenneth L. McMillan
+Paul-Andre Mellies->Paul-Andr&eacute; Melli&egrave;s
+John Mellor-Crummey->John M. Mellor-Crummey
+Walc&#381;lio L. Melo->Walc&eacute;lio L. Melo
+Eric Mercer->Eric G. Mercer
+Leo Meyerovich->Leo A. Meyerovich
+Maged Michael->Maged M. Michael
+Sam Midkiff->Samuel P. Midkiff
+James Miller->James S. Miller
+Robert C. Miller->Rob Miller
+Robert Miller->Rob Miller
+Todd Millstein->Todd D. Millstein
+David Molnar->David A. Molnar
+Michael Mozer->Michael C. Mozer
+C&eacute;sar Mu&ntilde;oz->C&eacute;sar A. Mu&ntilde;oz
+Andrzej Murawski->Andrzej S. Murawski
+Toby Murray->Toby C. Murray
+Leonardo Murta->Leonardo Gresta Paulino Murta
+Madanlal Musuvathi->Madanlan Musuvathi
+Andrew Myers->Andrew C. Myers
+Ryan Newton->Ryan R. Newton
+Hoang D. T. Nguyen->Hoang Duong Thien Nguyen
+Tien Nguyen->Tien N. Nguyen
+Tien Nhut Nguyen->Tien N. Nguyen
+Alex Nicolau->Alexandru Nicolau
+Dimitrios Nikolopoulos->Dimitrios S. Nikolopoulos
+Michael O'Boyle->Michael F. P. O'Boyle
+Robert O'Callahn->Robert O'Callahan
+Bruno Oliveira->Bruno C. d. S. Oliveira
+Jeffrey Overbey->Jeffrey L. Overbey
+John Owens->John D. Owens
+David Padua->David A. Padua
+Richard Paige->Richard F. Paige
+Matthew Parkinson->Matthew J. Parkinson
+Corina Pasareanu->Corina S. Pasareanu
+Lori Pollock->Lori L. Pollock
+Adam Porter->Adam A. Porter
+Francois Pottier->Fran&ccedil;ois Pottier
+Mukul Prasad->Mukul R. Prasad
+Dan Quinlan->Daniel J. Quinlan
+Rodric Rabbah->Rodric M. Rabbah
+Ariel Rabkin->Ariel S. Rabkin
+David Raffo->David M. Raffo
+Vaclav Rajlich->V&aacute;clav Rajlich
+G. Ramalingam->Ganesan Ramalingam
+Vijay Reddi->Vijay Janapa Reddi
+Ralf Reussner->Ralf H. Reussner
+Martin Rinard->Martin C. Rinard
+Alexander Romanovsky->Alexander B. Romanovsky
+David Rosenblum->David S. Rosenblum
+H. Saiedian->Hossein Saiedian
+Edans F. de O. Sandes->Edans Flavius de Oliveira Sandes
+Andr&eacute; Santos->Andr&eacute; Luis M. Santos
+Vijay Saraswat->Vijay A. Saraswat
+Jennifer Sartor->Jennifer B. Sartor
+Michael S. Schlansker->Michael Schl&auml;pfer
+David Schmidt->David A. Schmidt
+Ed Schonberg->Edith Schonberg
+Rob Schreiber->Robert Schreiber
+Robert Schreiber->Robert S. Schreiber
+Mathias Schwarz->Martin D. Schwarz
+Michael Scott->Michael Lee Scott
+Michael L. Scott->Michael Lee Scott
+Carolyn Seaman->Carolyn B. Seaman
+David Sehr->David C. Sehr
+Helen Sharp->Helen C. Sharp
+Mary Shaw->Mary M. Shaw
+Martin Shepperd->Martin J. Shepperd
+Jeremy Siek->Jeremy G. Siek
+J&amp;233;r&amp;244;me Sim&amp;233;on->J&eacute;r&ocirc;me Sim&eacute;on
+Vibha Sinha->Vibha Singhal Sinha
+Edwin Smith->Edward K. Smith
+Edwin Smith->Edwin W. Smith
+Geoff Smith->Geoffrey Smith
+Lauren Smith->Lauren L. Smith
+Matt Sottile->Matthew Sottile
+Cleidson De Souza->Cleidson R. B. de Souza
+Michael Spear->Michael F. Spear
+Mike Spertus->Michael Spertus
+Paul Steckler->Paul A. Steckler
+Paul Strooper->Paul A. Strooper
+Michelle Strout->Michelle Mills Strout
+Kevin Sullivan->Kevin J. Sullivan
+Peter Sweeney->Peter F. Sweeney
+Nathan Tallent->Nathan R. Tallent
+Richard Taylor->Richard N. Taylor
+SaiDeep Tetali->Sai Deep Tetali
+Dave Thomas->Dave A. Thomas
+Jim Thompson->Jeffrey M. Thompson
+Simon Thompson->Simon J. Thompson
+Ben Titzer->Ben L. Titzer
+Josep Torrellas->Josep Torrellas
+Jesse Tov->Jesse A. Tov
+Guilherme Travassos->Guilherme Horta Travassos
+Aaron Turon->Aaron J. Turon
+Aaron Joseph Turon->Aaron J. Turon
+Vasco T. Vasconcelos->Vasco Thudichum Vasconcelos
+Martin Vechev->Martin T. Vechev
+Todd Veldhuizen->Todd L. Veldhuizen
+Jeff Vetter->Jeffrey S. Vetter
+Marlon Vieira->Marlon E. R. Vieira
+Jerome Vouillon->J&eacute;r&ocirc;me Vouillon
+Richard Vuduc->Richard W. Vuduc
+Rich Vuduc->Richard W. Vuduc
+David Warren->David Scott Warren
+David Weiss->David M. Weiss
+Joe Wells->Joe B. Wells
+Claudia Maria Lima Werner->Cl&aacute;udia Maria Lima Werner
+Michael Whalen->Michael W. Whalen
+Laurie Williams->Laurie A. Williams
+Andreas Wolf->Alexander L. Wolf
+Rich Wolski->Richard Wolski
+Mark Woodman->Mark D. R. Woodman
+Kathy Yelick->Katherine A. Yelick
+Katherine Yelick->Katherine A. Yelick
+M. Zelkowitz->Marvin V. Zelkowitz

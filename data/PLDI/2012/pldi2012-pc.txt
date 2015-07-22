@@ -64,7 +64,7 @@ E:Jenq-Kuen Lee
 E:Sorin Lerner
 E:Kathryn S. McKinley
 E:Matthew Might
-E:Hanspeter M�ssenb�ck
+E:Hanspeter M&ouml;ssenb&ouml;ck
 E:Satish Narayanasamy
 E:James Noble
 E:Shaz Qadeer

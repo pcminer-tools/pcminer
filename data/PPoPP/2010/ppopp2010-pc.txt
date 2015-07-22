@@ -2,7 +2,7 @@ G: R. Govindarajan
 G: David Padua
 P: Mary Hall
 Sanjeev Aggarwal
-Francois Bodin
+Fran&ccedil;ois Bodin
 Brad Chamberlain
 Barbara Chapman
 Guang Gao

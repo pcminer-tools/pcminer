@@ -18,5 +18,5 @@ J. Michael Spivey
 Kristian Støvring
 Doaitse Swierstra
 David Van Horn
-Ren&233; Vestergaard
+Ren&#233; Vestergaard
 Edwin M. Westbrook
