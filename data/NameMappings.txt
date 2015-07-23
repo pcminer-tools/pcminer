@@ -14,9 +14,10 @@ R. Govindarajan->Ramaswamy Govindarajan
 Robby Bruce Findler->Robert Bruce Findler
 Timothy E. Sheard->Tim Sheard
 J. Gregory Morrisett->Greg Morrisett
-S. Doaitse Swierstra->Doaitse Swierstra
-J. B. Wells->Joe Wells
-Robert Bruce Findler->Robby Findler
+Doaitse Swierstra->S. Doaitse Swierstra
+J. B. Wells->Joe B. Wells
+Joe Wells->Joe B. Wells
+Robby Findler->Robert Bruce Findler
 Andy Gordon->Andrew D. Gordon
 Neel Krishnaswami->Neelakantan R. Krishnaswami
 Umut Acar->Umut A. Acar
@@ -122,7 +123,7 @@ Jeff Foster->Jeffrey S. Foster
 Cedric Fournet->C&eacute;dric Fournet
 Robert France->Robert B. France
 Matt Frank->Matthew Frank
-Bjom Freeman-Benson->Bj&oslash;rn N. Freeman-Benson
+Bjorn Freeman-Benson->Bj&oslash;rn N. Freeman-Benson
 Stephen Freund->Stephen N. Freund
 Harald Gall->Harald C. Gall
 Malay Ganai->Malay K. Ganai
@@ -283,7 +284,7 @@ Jennifer Sartor->Jennifer B. Sartor
 Michael S. Schlansker->Michael Schl&auml;pfer
 David Schmidt->David A. Schmidt
 Ed Schonberg->Edith Schonberg
-Rob Schreiber->Robert Schreiber
+Rob Schreiber->Robert S. Schreiber
 Robert Schreiber->Robert S. Schreiber
 Mathias Schwarz->Martin D. Schwarz
 Michael Scott->Michael Lee Scott
@@ -319,8 +320,8 @@ Ben Titzer->Ben L. Titzer
 Josep Torrellas->Josep Torrellas
 Jesse Tov->Jesse A. Tov
 Guilherme Travassos->Guilherme Horta Travassos
-Aaron Turon->Aaron J. Turon
-Aaron Joseph Turon->Aaron J. Turon
+Aaron Turon->Aaron Joseph Turon
+Aaron J. Turon->Aaron Joseph Turon
 Vasco T. Vasconcelos->Vasco Thudichum Vasconcelos
 Martin Vechev->Martin T. Vechev
 Todd Veldhuizen->Todd L. Veldhuizen
