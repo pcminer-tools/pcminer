@@ -260,7 +260,15 @@ public final class Author implements Comparable<Author> {
 		result = result.replace("&#0253;", "&yacute;");
 		
 		if (result.contains("&#")){
-			System.err.println("WARNING: unmapped character in author name: " + authorName);
+			
+			// Turkish character codes &#351; and &#305; don't have a friendly code -- suppress warning in that case
+			result = result.replace("&#305;", "");
+			result = result.replace("&#351;", "");
+			result = result.replace("&#0305;", "");
+			result = result.replace("&#0351;", "");
+			if (result.contains("&#")){
+				System.err.println("WARNING: unmapped character in author name: " + authorName);
+			}
 		}
 		
 		if (nameMappings.containsKey(result)){

@@ -3,7 +3,7 @@ pcminer
 
 PC-miner is a tool that analyzes publications and program committee service in the top conferences 
 in Programming Languages and Software Engineering. Currently, the tool supports the following 
-conferences: ASE, ECOOP, ESOP, FSE, ICFP, ICSE, ISMM, ISSTA, OOPSLA, PLDI, POPL, and PPoPP and it covers the years 1995-2014. 
+conferences: ASE, ECOOP, ESOP, FSE, ICFP, ICSE, ISMM, ISSTA, OOPSLA, PLDI, POPL, and PPoPP and it covers the years 1995-2015. 
 Publication data was obtained from [DBLP](http://www.informatik.uni-trier.de/~ley/db/), and program committee data was scraped from various 
 conference web sites. 
 
