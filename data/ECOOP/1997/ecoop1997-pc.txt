@@ -10,7 +10,7 @@ Pierre Cointe
 Derek Coleman 
 Theo D'Hondt 
 Peter Dickman 
-Bjom Freeman-Benson 
+Bjorn Freeman-Benson 
 Rachid Guerraoui 
 Dieter Hammer 
 Urs H&#0246;lzle 

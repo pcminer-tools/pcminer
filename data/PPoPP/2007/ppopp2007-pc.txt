@@ -1,6 +1,6 @@
 G: Katherine Yelick
 P: John Mellor-Crummey
-Eduard Ayguadé
+Eduard Ayguad&eacute;
 David Callahan
 Barbara Chapman
 Siddhartha Chatterjee

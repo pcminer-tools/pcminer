@@ -65,7 +65,7 @@ E:Samuel P. Midkiff
 E:Nick Mitchell
 E:Anders M&oslash;ller
 E:J. Eliot B. Moss
-E:Hanspeter Mšssenbšck
+E:Hanspeter M&ouml;ssenb&ouml;ck
 E:Alan Mycroft
 E:Yunheung Paek
 E:Sanjay V. Rajopadhye
