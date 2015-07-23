@@ -62,7 +62,7 @@ E:Keith D. Cooper
 E:Vijay Menon
 E:Kenjiro Taura
 E:Jack W. Davidson
-E:Hanspeter M���ssenb���ck
+E:Hanspeter M&ouml;ssenb&ouml;ck
 E:Petr Tuma
 E:Derek Dreyer
 E:Frank Mueller

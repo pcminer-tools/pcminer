@@ -9,7 +9,7 @@ Zhenjiang Hu
 Erik Meijer
 Manuel Serrano
 Peter Sewell
-J&233;r&244;me Sim&233;on
+J&#233;r&#244;me Sim&#233;on
 Christopher A. Stone
 Martin Sulzmann
 David Walker

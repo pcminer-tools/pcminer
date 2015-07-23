@@ -37,7 +37,7 @@ E:Sebastian Burckhardt
 E:Shigeru Chiba
 E:Ferruccio Damiani
 E:Werner Dietl
-E:Sophia Drossopolou
+E:Sophia Drossopoulou
 E:Erik Ernst
 E:Matthew Flatt
 E:Michael Franz

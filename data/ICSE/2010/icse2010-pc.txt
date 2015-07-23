@@ -4,7 +4,7 @@ P:Premkumar T. Devanbu
 P:Sebasti&aacute;n Uchitel
 Joanne M. Atlee
 Antonia Bertolino
-Víctor A. Braberman
+V&iacute;tor A. Braberman
 Lionel C. Briand
 Antonio Carzaniga
 Satish Chandra
@@ -20,7 +20,7 @@ Holger Giese
 Paul Gr&uuml;nbacher
 Ahmed E. Hassan
 James D. Herbsleb
-Ingolf H. Krüger
+Ingolf H. Kr&uuml;ger
 Michele Lanza
 Emmanuel Letier
 Jeff Magee
