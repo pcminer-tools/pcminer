@@ -1,9 +1,9 @@
 G:Olivier Danvy
 P:Benjamin C. Pierce
 Mariangiola Dezani
-Mary F. Fern&225;ndez
+Mary F. Fern&#225;ndez
 Matthew Flatt
-C&233;dric Fournet
+C&#233;dric Fournet
 Jacques Garrigue
 Jason Hickey
 John Hughes

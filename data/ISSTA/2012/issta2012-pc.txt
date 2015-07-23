@@ -2,7 +2,7 @@ G:Mats Per Erik Heimdahl
 P:Zhendong Su
 George S. Avrunin
 Antonia Bertolino
-Victor Braberman
+V&iacute;ctor Braberman
 Myra B. Cohen
 Mark Harman
 William G. J. Halfond

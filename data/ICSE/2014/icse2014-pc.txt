@@ -1,0 +1,81 @@
+G:Pankaj Jalote
+P:Lionel Briand
+P:Andr&eacute; van der Hoek
+Daniel Amyot
+Giuliano Antoniol
+Sven Apel
+Andrea Arcuri
+Dirk Beyer
+Christian Bird
+Travis Breaux
+Yuriy Brun
+Tsong Yueh Chen
+Myra Cohen
+Charles Consel
+Jonathan Cook
+Bojan Cukic
+Krzysztof Czarnecki
+Rob DeLine
+Andrea De Lucia
+Cleidson De Souza
+Prem Devanbu
+Juergen Dingel
+Jin Song Dong
+Robert France
+Thomas Fritz
+Harald Gall
+Carlo Ghezzi
+Tony Gorschek
+Mark Grechanik
+Paul Grunbacher
+Ahmed E. Hassan
+Mats Heimdahl
+John Hosking
+Katsuro Inoue
+James A Jones
+Natalia Juristo
+Miryung Kim
+Moonzoo Kim
+Andrew Ko
+Rainer Koschke
+Patricia Lago
+Yves Le Traon
+Sam Malek
+Jonathan Maletic
+Andrian Marcus
+Leonardo Mariani
+Darko Marinov
+Phil McMinn
+Tom Mens
+Tim Menzies
+Mira Mezini
+Todd Millstein
+Audris Mockus
+Henry Muccini
+Leonardo Murta
+Nachiappan Nagappan
+Iulian Neamtiu
+Tien Nguyen
+Manuel Oriol
+Alessandro Orso
+Richard Paige
+Victor Pankratius
+Marian Petre
+Dorina Petriu
+Martin Pinzger
+Lori Pollock
+Denys Poshyvanyk
+Bj&ouml;rn Regnell
+Roshanak Roshandel
+Carolyn Seaman
+Martin Shepperd
+Paul Strooper
+Eleni Stroulia
+Lin Tan
+Suresh Thummalapenta
+Richard Torkar
+Kapil Vaswani
+Michael Whalen
+Jon Whittle
+Andreas Zeller
+Charles Zhang
