@@ -105,6 +105,26 @@ var pcminer = function(){
 	};
 	
 	/**
+	 * computes how many committees an author has served:
+	 *   committees(x) : committees for author x (any conference, PC member role)
+	 *   committees(x, c) : committees for author x at conference c (PC member role) 
+	 */
+	function pc(x, conf){
+		if (conf == undefined){
+			return x.committees.length;
+		} else {
+			var count = 0;
+			for (var i=0; i < x.committees.length; i++){
+				var committee = x.committees[i];
+				if (committee.conference.series == conf && committee.role.indexOf("PC Member") != -1 && withinRange(committee)){
+					count++; 
+				}  
+			}
+			return count;
+		}
+	};
+	
+	/**
 	 * Determines if this author has been chair of the specified conference
 	 */
 	function chair(x, conf){
