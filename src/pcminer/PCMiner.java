@@ -27,6 +27,8 @@ import org.htmlparser.nodes.TagNode;
 import org.htmlparser.nodes.TextNode;
 import org.htmlparser.tags.BulletList;
 import org.htmlparser.tags.HeadingTag;
+import org.htmlparser.tags.LinkTag;
+import org.htmlparser.tags.Span;
 import org.htmlparser.util.NodeList;
 import org.htmlparser.util.ParserException;
 import org.htmlparser.util.SimpleNodeIterator;
@@ -226,6 +228,19 @@ public class PCMiner {
 						Author author = Author.findOrCreate(authorName);
 						theAuthors.add(author);
 					}
+				} else if (tag instanceof Span){
+					Span span = (Span)tag;
+					String prop = span.getAttribute("itemprop");
+					if (prop != null && prop.equals("author")){
+						NodeList children = span.getChildren();
+						Node firstChild = children.elementAt(0);
+						if (firstChild instanceof LinkTag){
+							LinkTag linkTag = (LinkTag)firstChild;
+							String authorName = linkTag.getLinkText(); 
+							Author author = Author.findOrCreate(authorName);
+							theAuthors.add(author);
+						}
+					}
 				}
 				super.visitTag(tag);
 			}
@@ -245,7 +260,15 @@ public class PCMiner {
 				if (tagName.equals("DIV")){
 					if (tag.getAttribute("class") != null && tag.getAttribute("class").equals("data")){
 						NodeList nodeList = tag.getChildren();
-						thePageNums = nodeList.elementAt(nodeList.size()-1).getText(); 
+						Node lastNode = nodeList.elementAt(nodeList.size()-1);
+						if (lastNode instanceof Span){
+							Span span = (Span)lastNode;
+							NodeList spanChildren = span.getChildren();
+							Node firstChild = spanChildren.elementAt(0);
+							thePageNums = firstChild.getText(); 
+						} else {
+							thePageNums = lastNode.getText(); 							
+						}	
 						Conference conf = Conference.findOrCreate(theConference);
 						ConferenceInstance ci = ConferenceInstance.findOrCreate(conf, theYear);
 						Publication pub = new Publication(theTitle, ci, thePageNums, theAuthors, theSession);
