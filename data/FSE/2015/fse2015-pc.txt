@@ -1,0 +1,40 @@
+G:Elisabetta Di Nitto
+P:Mark Harman
+P:Patrick Heymans
+Joanne M. Atlee
+Luciano Baresi
+Earl T. Barr
+Benoit Baudry
+Nelly Bencomo
+Antonia Bertolino
+Domenico Bianculli
+Paulo Borba
+Betty H. C. Cheng
+Jane Cleland-Huang
+Anthony Cleve
+Myra B. Cohen
+Daniela Damian
+Gordon Fraser
+Tibor Gyim&oacute;thy
+Sunghun Kim
+Jens Krinke
+Wes Masri
+Tim Menzies
+Andreas Metzger
+Mira Mezini
+Ana Milanova
+Audris Mockus
+John Penix
+Mauro Pezz&egrave;
+Alessandra Russo
+Martin J. Shepperd
+Marin Silic
+Saurabh Sinha
+Zhengdong Su
+Peri L. Tarr
+Paolo Tonella
+Sebastian Uchitel
+Arie van Deursen
+Jianjun Zhao
+Andreas Zeller
+Andrea Zisman

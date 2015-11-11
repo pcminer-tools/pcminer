@@ -8,6 +8,13 @@ var pcminer = function(){
 	var conferences = { };
 	
 	/**
+	 * Arrays for storing the range of years for which is data is available,
+	 * for each conference.
+	 */
+	var minYear = [];
+	var maxYear = [];
+	
+	/**
 	 * The list of colors to be used for conferences. Maps each conference to a string
 	 * value indicating the color or hex code. Populated dynamically.
 	 */
@@ -62,6 +69,23 @@ var pcminer = function(){
 	}
 	
 	/**
+	 * add a year to a conference. Used for keeping track of the range of
+	 * years for which data is available.
+	 */
+    function addConfYear(confName, year){
+        if (!minYear[confName]){
+          minYear[confName] = year;
+        } else if (minYear[confName] > year){
+          minYear[confName] = year;
+        }
+        if (!maxYear[confName]){
+          maxYear[confName] = year;
+        } else if (maxYear[confName] < year){
+          maxYear[confName] = year;
+        }
+    }
+	
+	/**
 	 * add a conference color.  
 	 */
 	function addConfColor(confName, color){
@@ -105,7 +129,7 @@ var pcminer = function(){
 	};
 	
 	/**
-	 * computes how many committees an author has served:
+	 * computes on how many committees an author has served:
 	 *   committees(x) : committees for author x (any conference, PC member role)
 	 *   committees(x, c) : committees for author x at conference c (PC member role) 
 	 */
@@ -515,6 +539,16 @@ var pcminer = function(){
 		}
 		return text;
 	};
+
+    /**
+     * return a label like "ICSE (1999-2015)" indicating the range of covered years
+     * for a given conference
+     */
+    
+    function getConfRange(confName){
+      return confName + " (" + minYear[confName] + "-" + maxYear[confName] + ")";
+    };
+
 	
 	/**
 	 * installs the date range slider on the page
@@ -582,17 +616,17 @@ var pcminer = function(){
 			form += "id=\"" + confName + "\" ";
 			form += "checked onclick='pcminer.confSelected(\"" + confName + "\")'> ";
 			form += "<font id=\"" + confName + "color\" ";
-			form += "class=\"conf\">" + confName + "</font></label>\n";
+			form += "class=\"conf\">" + confName + "</font>"; 
+			form += "</label>\n";
 		}
 		form += "</form>\n";
 		document.getElementById("checkboxes").innerHTML = form;
 		for (conf in confColors){
 			document.getElementById(conf + "color").style.color = confColors[conf];
+			document.getElementById(conf + "color").title = getConfRange(conf);
 		}
 		
 	}
-	
-
 	
 	/**
 	 * initializes the page
@@ -606,6 +640,8 @@ var pcminer = function(){
 	return {
 		addConference : addConference,
 		addConfColor : addConfColor,
+		addConfYear : addConfYear,
+		getConfRange : getConfRange,
 		mouseOverAuthor : mouseOverAuthor,
 		mouseOutAuthor : mouseOutAuthor,
 		authorClicked : authorClicked,

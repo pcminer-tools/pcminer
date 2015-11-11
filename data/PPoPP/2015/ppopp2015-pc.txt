@@ -1,0 +1,67 @@
+G:Albert Cohen
+P:David Grove
+Rajesh Bordawekar
+Barbara M. Chapman
+Daniel G. Chavarría
+Yifeng Chen
+Brian Demsky 
+Alastair F. Donaldson
+Pascal Felber
+Jeremy T. Fineman
+Basilio B. Fraguela
+Michael Garland
+Maria J. Garzaran
+Timothy L. Harris
+Alexander Matveev
+Frank Mueller
+Madan Musuvathi
+Rupesh Nasre
+Iulian Neamtiu
+Dimitrios Nikolopoulos
+Vijay Reddi
+P. Sadayappan
+Martin Schulz
+Michelle Mills Strout
+Olivier Tardieu
+Philippas Tsigas
+Robert A. van de Geijn
+Richard W. Vuduc
+Peng Wu
+Francesco Zappa Nardelli
+Antonia Zhai
+E:Gheorghe Almasi
+E:Michael Bauer
+E:Greg Bronevetsky
+E:Martin Burtscher
+E:Franck Cappello
+E:Sung-Eun Choi
+E:David Cunningham
+E:Chen Ding
+E:Aleksandar Dragojevic
+E:Todd Gamblin
+E:Ganesh Gopalakrishnan
+E:R. Govindrajan
+E:Thomas R. Gross
+E:Jeff R. Hammond
+E:Bingsheng He
+E:Mahmut Kandemir
+E:Milind Kulkarni
+E:Tongping Liu
+E:Andrew Lumsdaine
+E:Maged M. Michael
+E:Samuel P. Midkiff
+E:Josh Milthorpe
+E:Erez Petrank
+E:Sanjay Rajopadhye
+E:Alistair P. Rendell
+E:John H. Reppy
+E:Koushik Sen
+E:Xipeng Shen
+E:Stelios Sidiroglou-Douskos
+E:Michael F. Spear
+E:Peter E. Strazdins
+E:Jim Sukha
+E:Jesper Tr&auml;ff
+E:Martin T. Vechev
+E:Chen Wenguang
+E:Eddy Z. Zhang

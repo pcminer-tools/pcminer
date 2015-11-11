@@ -1,0 +1,36 @@
+G:Shing-Chi Cheung
+P:Alessandro Orso
+P:Margaret-Anne D. Storey
+Luciano Baresi
+V&Iacute;ctor A. Braberman
+Tevfik Bultan
+Antonio Carzaniga
+Wing-Kwong Chan
+Satish Chandra
+Jane Cleland-Huang
+Prem Devanbu
+Massimiliano Di Penta
+Matthew B. Dwyer
+Alessandro Garcia
+Mark Harman
+James D. Herbsleb
+Valerie Issarny
+James A. Jones
+Sarfraz Khurshid
+Miryung Kim
+Rainer Koschke
+Leonardo Mariani
+Nenad Medvidovic
+Aditya Nori
+Martin P. Robillard
+Grigore Rosu
+Yannis Smaragdakis
+Paolo Tonella
+Sebastian Uchitel
+Arie van Deursen
+Willem Visser
+Chao Wang
+Charles Zhang
+Lu Zhang
+Jianjun Zhao
+Thomas Zimmermann

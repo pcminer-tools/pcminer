@@ -1,0 +1,42 @@
+G:Ivica Crnkovic
+P:Marsha Chechik
+P:Paul Gr&uuml;nbacher
+Benoit Baudry
+Nelly Bencomo
+Christian Bird
+Yuriy Brun
+Tevfik Bultan
+Jordi Cabot
+Yuanfang Cai
+Radu Calinescu
+Michel Chaudron
+Jane Cleland-Huang
+Myra B. Cohen
+Vittorio Cortellessa
+Elisabetta Di Nitto
+Massimiliano Di Penta
+Danny Dig
+Schahram Dustdar
+Bernd Fischer
+Robert France
+Gordon Fraser
+Diego Garbervetsky
+Michael Goedicke
+Lars Grunske
+Arie Gurfinkel
+Robert J. Hall
+Reiko Heckel
+Mats Per Erik Heimdahl
+John G. Hosking
+Christian K&auml;stner
+David Lo
+Shahar Maoz
+Henry Muccini
+Shiva Nejati
+Tien N. Nguyen
+Jocelyn Simmonds
+Tetsuo Tamai
+Lin Tan
+Daniel Varro
+Michael W. Whalen
+Andreas Zeller

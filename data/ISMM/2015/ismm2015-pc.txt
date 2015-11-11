@@ -1,0 +1,24 @@
+G:Antony L. Hosking
+P:Michael D. Bond
+Hans-Juergen Boehm
+Richard Jones
+Rifat Shahriyar
+Jeremy Singer
+Bjarne Steensgaard
+Guoqing (Harry) Xu
+Zheng Zhang
+E:Sara S. Baghsorkhi
+E:Perry Cheng
+E:Daniel Frampton
+E:Dan Grossman
+E:Samuel Z. Guyer
+E:Martin Hirzel
+E:Hyesoon Kim
+E:Simon Marlow
+E:Kathryn S. McKinley
+E:J. Eliot B. Moss
+E:Onur Mutlu
+E:Jennifer B. Sartor
+E:Andreas Sewe
+E:Martin T. Vechev
+E:Christian Wimmer

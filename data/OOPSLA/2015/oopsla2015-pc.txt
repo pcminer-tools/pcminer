@@ -1,0 +1,56 @@
+G:Jonathan Aldrich
+P:Patrick Eugster
+Stephen M. Blackburn
+John Tang Boyland
+Sebastian Burckhardt
+Adam Chlipala
+Werner Dietl
+Julian Dolby
+John Field
+Nate Foster
+Zhenyu Guo
+G&ouml;rel Hedin
+Laurie J. Hendren
+Gail E. Kaiser
+Murali Krishna Ramanathan
+Julia L. Lawall
+Todd D. Millstein
+Peter M&uuml;ller
+Mayur Naik
+James Noble
+Michael Pradel
+Tiark Rompf
+Grigore Rosu
+Indrajit Roy
+Jeremy G. Siek
+Yannis Smaragdakis
+Robert Soul&eacute;
+Jaswanth Sreeram
+&Eacute;ric Tanter
+Frank Tip
+Eelco Visser
+Tobias Wrigstad
+Eran Yahav
+Nobuko Yoshida
+Charles Zhang
+E:Craig Anslow
+E:Kenneth P. Birman
+E:Hans-Juergen Boehm
+E:Alvin Cheung
+E:Ravi Chugh
+E:Wolfgang De Meuter
+E:Sophia Drossopoulou
+E:Erik Ernst
+E:Atsushi Igarashi
+E:Sarfraz Khurshid
+E:Doug Lea
+E:Gary T. Leavens
+E:Kathryn S. McKinley
+E:Mira Mezini
+E:Anders M&oslash;ller
+E:Gregor Richards
+E:Friedrich Steimann
+E:Zhendong Su
+E:Philippe Suter
+E:Adam Welc
+E:Tao Xie

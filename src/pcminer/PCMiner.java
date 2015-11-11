@@ -44,6 +44,7 @@ import org.htmlparser.visitors.NodeVisitor;
 public class PCMiner {
 	
 	private List<String> conferences = new ArrayList<String>();
+	private Map<String,Set<String>> confYears = new HashMap<String,Set<String>>();
 	private Map<String,String> confColors = new HashMap<String,String>();
 	private String theConference = null;
 	private String theYear = null;
@@ -104,6 +105,10 @@ public class PCMiner {
 						File file = subDirFiles[j];
 						if (file.isDirectory()){ // one subdirectory for each year
 							theYear = file.getName();
+							if (!confYears.containsKey(theConference)){
+								confYears.put(theConference, new HashSet<String>());
+							}
+							confYears.get(theConference).add(theYear);	
 							File[] subsubDirFiles = file.listFiles();
 							for (int k=0; k < subsubDirFiles.length; k++){
 								File file2 = subsubDirFiles[k];
@@ -430,6 +435,13 @@ public class PCMiner {
 			String color = confColors.get(confName);
 			stream.println("pcminer.addConfColor(\"" + confName + "\", \"" + color + "\");");
 		}
+		// initialize conference years
+		for (String confName : confYears.keySet()){
+			for (String year : confYears.get(confName)){
+				stream.println("pcminer.addConfYear(\"" + confName + "\", \"" + year + "\");");
+			}
+		}
+		
 		stream.println("");
 	}
 }
