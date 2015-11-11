@@ -206,6 +206,57 @@ var pcminer = function(){
 	};
 	
 	/**
+	 * computes author profile
+	 */
+	function authorProfile(x){ 
+	  var pubs = {}; 
+	  var committees = {}; 
+	  var hasPubs = false;
+	  var hasCommittees = false;
+	  
+	  for (var i=0; i < x.publications.length; i++){
+		  var pub = x.publications[i];
+		  if (withinRange(pub)){	  
+			  var confName = pub.conference.series;
+			  hasPubs = true;
+			  if (pubs[confName]){
+			    pubs[confName]++;
+			  } else {
+			    pubs[confName] = 1;
+			  }
+		  }
+	  }
+	  for (var j=0; j < x.committees.length; j++){
+		  var committee = x.committees[j];
+		  if (withinRange(committee)){
+		      var confName = committee.conference.series;
+		       hasCommittees = true;
+		      if (committees[confName]){
+			    committees[confName]++;
+			  } else {
+			    committees[confName] = 1;
+			  }
+		  }
+	  }
+	  
+	  var result = "";
+	  
+	  if (hasPubs){
+	    result += "publications:\n";
+	    for (confName in pubs){
+	       result += "  " + confName + ": " + pubs[confName] + "\n";
+	    }
+	  }
+	  if (hasCommittees){
+	    result += "committees:\n";
+	    for (confName in committees){
+	       result += "  " + confName + ": " + committees[confName] + "\n";
+	    }
+	  }
+	  return result;
+	};
+		
+	/**
 	 * invoked when the dateFilter has changed (using the slider)
 	 */
 	function dateFilterChanged(sY, eY) {
@@ -261,6 +312,12 @@ var pcminer = function(){
 	 */
 	function mouseOverAuthor(arg){
 		arg.style.textDecoration = 'underline';
+		var profile = authorProfile(getAuthor(arg.textContent));
+		if (profile != ""){
+			arg.title = profile;
+		} else {
+			arg.title = "no publications/committees in selected timespan";
+		}
 	};
 	
 	/**
@@ -428,6 +485,19 @@ var pcminer = function(){
 			return $('<div />').html(s).text();
 		}
 	};
+	
+	/**
+	 * find author by name
+	 */
+	function getAuthor(authorName){
+		for (var i=0; i < list.length; i++){
+		    if (mapCharacters(list[i].author) == authorName){ 
+		      return list[i];
+			}
+		}
+		return undefined;
+	}
+	
 	
 	/**
 	 * update the displayed publications and committees to reflect the
