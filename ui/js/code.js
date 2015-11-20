@@ -243,14 +243,24 @@ var pcminer = function(){
 	  
 	  if (hasPubs){
 	    result += "publications:\n";
+	    var pubsArray = [];
 	    for (confName in pubs){
-	       result += "  " + confName + ": " + pubs[confName] + "\n";
+	       pubsArray.push("  " + confName + ": " + pubs[confName] + "\n");
+	    }
+	    pubsArray.sort();
+	    for (var p in pubsArray){
+	    	result += pubsArray[p];
 	    }
 	  }
 	  if (hasCommittees){
 	    result += "committees:\n";
+	    var commsArray = [];
 	    for (confName in committees){
-	       result += "  " + confName + ": " + committees[confName] + "\n";
+	       commsArray.push("  " + confName + ": " + committees[confName] + "\n");
+	    }
+	    commsArray.sort();
+	    for (var c in commsArray){
+	    	result += commsArray[c];
 	    }
 	  }
 	  return result;
