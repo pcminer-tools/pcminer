@@ -1,0 +1,54 @@
+P:Yannis Smaragdakis
+Jonathan Aldrich
+Emery Berger
+Gilad Bracha
+Michael Carbin
+Shigeru Chiba
+Wei Ngan Chin
+Stephen Chong
+Isil Dillig
+Sophia Drossopoulou
+Patrick Eugster
+Robby Findler
+David Grove
+Shan Shan Huang
+Richard Jones
+Milind Kulkarni
+Julia Lawall
+Ben Livshits
+Anders M&oslash;ller
+James Noble
+Klaus Ostermann
+Jens Palsberg
+Sukyoung Ryu
+Caitlin Sadowski
+Manu Sridharan
+Olivier Tardieu
+Frank Tip
+Laurence Tratt
+Jan Vitek
+Tijs van der Storm
+E:Davide Ancona
+E:David Bacon
+E:Hans J. Boehm
+E:Michael Bond
+E:John Boyland
+E:Michael D. Ernst
+E:Julian Dolby
+E:Stephen J. Fink
+E:Jeffrey S. Foster
+E:Yossi Gil
+E:Thomas Gross
+E:Shriram Krishnamurthi
+E:Doug Lea
+E:Mira Mezini
+E:Emerson Murphy-Hill
+E:Bruno C. d. S. Oliviera
+E:Erez Petrank
+E:Bill Pugh
+E:Jeremy Siek
+E:&Eacute;ric Tanter
+E:Eli Tilevich
+E:Martin Vechev
+E:Tobias Wrigstad
+
