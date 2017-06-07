@@ -1,6 +1,7 @@
-C:Emery Berger
+G:Chandra Krintz
+P:Emery Berger
 Martha A. Kim
-Hans J. Boehm
+Hans-Juergen Boehm
 David Brumley
 Cristian Cadar
 Michael Carbin
@@ -9,12 +10,12 @@ Charlie Curtsinger
 Loris D'Antoni
 Isil Dillig
 Bryan Ford
-Matthew Fredrikson
+Matt Fredrikson
 Patrice Godefroid
 Arjun Guha
-Samuel Guyer
-Manuel Hermenegildo
-Michael Hicks
+Sam Guyer
+Manuel V. Hermenegildo
+Michael W. Hicks
 Tony Hosking
 Ranjit Jhala
 Brandon Lucia
@@ -23,7 +24,7 @@ Todd Millstein
 Todd Mytkowicz
 Santosh Nagarakatte
 Guilherme Ottoni
-Cindy Rubio-Gonzalez
+Cindy Rubio-Gonz&aacute;lez
 Caitlin Sadowski
 Adrian Sampson
 Yannis Smaragdakis
@@ -35,7 +36,7 @@ Jean Yang
 Greta Yorsh
 E:Vikram Adve
 E:Steve Blackburn
-E:Rastislav Bodik
+E:Rastislav Bod&iacute;k
 E:Swarat Chaudhuri
 E:Michael D. Ernst
 E:Cormac Flanagan
@@ -57,7 +58,7 @@ E:Guy L. Steele Jr.
 E:Michelle Strout
 E:David Walker
 E:Benjamin Zorn
-E:Edward Aftandilian
+E:Eddie Aftandilian
 E:Aws Albarghouthi
 E:Owen Arden
 E:George Balatsouras
@@ -70,7 +71,7 @@ E:John Criswell
 E:Eva Darulova
 E:George Fourtounis
 E:Sicun Gao
-E:Colin S. Gordon
+E:Colin Gordon
 E:William Harris
 E:Hank Hoffman
 E:Justin Hsu

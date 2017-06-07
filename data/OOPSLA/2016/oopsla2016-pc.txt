@@ -1,3 +1,4 @@
+G:Eelco Visser
 P:Yannis Smaragdakis
 Jonathan Aldrich
 Emery Berger
@@ -9,7 +10,7 @@ Stephen Chong
 Isil Dillig
 Sophia Drossopoulou
 Patrick Eugster
-Robby Findler
+Robert Bruce Findler
 David Grove
 Shan Shan Huang
 Richard Jones
@@ -30,11 +31,11 @@ Jan Vitek
 Tijs van der Storm
 E:Davide Ancona
 E:David Bacon
-E:Hans J. Boehm
+E:Hans-Juergen Boehm
 E:Michael Bond
 E:John Boyland
-E:Michael D. Ernst
 E:Julian Dolby
+E:Michael D. Ernst
 E:Stephen J. Fink
 E:Jeffrey S. Foster
 E:Yossi Gil
@@ -43,12 +44,11 @@ E:Shriram Krishnamurthi
 E:Doug Lea
 E:Mira Mezini
 E:Emerson Murphy-Hill
-E:Bruno C. d. S. Oliviera
+E:Bruno C. d. S. Oliveira
 E:Erez Petrank
 E:Bill Pugh
-E:Jeremy Siek
+E:Jeremy G. Siek
 E:&Eacute;ric Tanter
 E:Eli Tilevich
 E:Martin Vechev
 E:Tobias Wrigstad
-

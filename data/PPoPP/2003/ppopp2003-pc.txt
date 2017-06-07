@@ -1,5 +1,5 @@
-G: Rudolf Eigenmann 
-P: Martin Rinard 
+G:Rudolf Eigenmann 
+P:Martin C. Rinard 
 Vikram Adve
 Rajeev Alur
 Henri Bal

@@ -1,0 +1,60 @@
+G:Gail Murphy
+P:Jonathan Aldrich
+Suparna Bhattacharya
+Hans-Juergen Boehm
+Viviana Bono
+Kim Bruce
+Jens Dietrich
+Gabriel Dos Reis
+Irene Finocchi
+Elisa Gonzalez Boix
+Kathryn E. Gray
+Atsushi Igarashi
+Ciera Jaspan
+Rezwana Karim
+Doug Lea
+Shane McIntosh
+Kathryn S. McKinley
+Mira Mezini
+Ana Milanova
+Heather Miller
+Sasa Misailovic
+Peter M&uuml;ller
+Sarah Nadi
+Erez Petrank
+Gregor Richards
+Romain Robbes
+Jennifer B. Sartor
+Joshua Sunshine
+Tom Van Cutsem
+Julien Verlaguet
+Peng Wu
+Lu Zhang
+Elena Zucca
+E:John Altidor
+E:Davide Ancona
+E:Tom Ball
+E:Eric Bodden
+E:Nicholas Cameron
+E:Wolfgang De Meuter
+E:Mariangiola Dezani
+E:Jonathan Edwards
+E:Erik Ernst
+E:Christian Hammer
+E:Kiyokuni Kawachiya
+E:Yanhong A. Liu
+E:Erik Meijer
+E:James Noble
+E:Bruno C. d. S. Oliveira
+E:M&aacute;rcio Ribeiro
+E:Sukyoung Ryu
+E:Marco Servetto
+E:Tatiana Shpeisman
+E:Alexander J. Summers
+E:&Eacute;ric Tanter
+E:Ewan Tempero
+E:Mandana Vaziri
+E:Mario Wolczko
+E:Eran Yahav
+E:Zheng Zhang
+E:Hao Zhong
