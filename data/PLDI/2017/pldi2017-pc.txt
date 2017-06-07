@@ -1,0 +1,37 @@
+G:Albert Cohen
+P:Martin Vechev
+Eddie Aftandilian
+David F. Bacon
+Uday Bondhugula
+Bor-Yuh Evan Chang
+Swarat Chaudhuri
+Alvin Cheung
+Ravi Chugh
+Joseph Devietti
+Cezara Dragoi
+Jeffrey S. Foster
+Franz Franchetti
+Dan Grossman
+Tim Harris
+Jan Hoffmann
+Jeff Huang
+Zachary Kincaid
+Milind Kulkarni
+Francesco Logozzo
+Shan Lu
+Vikash Mansinghka
+Sasa Misailovic
+Madan Musuvathi
+Onur Mutlu
+Anders M&oslash;ller
+Mayur Naik
+Marco Pistoia
+Michael Pradel
+Andrey Rybalchenko
+Sharon Shoham
+Alexandra Silva
+Rishabh Singh
+Charles Sutton
+Eran Yahav
+Junfeng Yang
+Andreas Zeller
