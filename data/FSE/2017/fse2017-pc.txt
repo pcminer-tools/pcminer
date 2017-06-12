@@ -1,0 +1,43 @@
+G:Eric Bodden
+G:Wilhelm Sch&#228;fer
+P:Arie van Deursen
+P:Andrea Zisman
+Rui Abreu
+Alberto Bacchelli
+Arosha Bandara
+Luciano Baresi
+Antonia Bertolino
+Dirk Beyer
+V&iacute;ctor A. Braberman
+Antonio Carzaniga
+Satish Chandra
+Marsha Chechik
+Jane Cleland-Huang
+Massimiliano Di Penta
+Matthew B. Dwyer
+Bernd Fischer
+Alessandro Garcia
+Tony Gorschek
+Mark Harman
+Natalia Juristo
+Christian K&#228;stner
+Patricia Lago
+Claire Le Goues
+Ali Mesbah
+James Noble
+Chris Parnin
+Corinna Pasareanu
+Liliana Pasquale
+Martin Pinzger
+Lori L. Pollock
+Denys Poshyvanyk
+Abhik Roychoudhury
+Alessandra Russo
+Mehrdad Sabetzadeh
+Caitlin Sadowski
+Diomidis Spinellis
+Tetsuo Tamai
+Andrzej Wasowski
+Yijun Yu
+Andreas Zeller 
+Dongmei Zhang

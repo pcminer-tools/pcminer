@@ -1,0 +1,40 @@
+G:Thomas Zimmermann
+P:Jane Cleland-Huang
+P:Zhendong Su
+Earl Barr
+Christian Bird
+Eric Bodden
+V&iacute;ctor A. Braberman
+Margaret M. Burnett
+Yuanfang Cai
+Satish Chandra
+James A. Clause
+Arie van Deursen
+Massimiliano Di Penta
+Matthew B. Dwyer
+Vladimir Filkov
+Harald Gall
+Alessandro Garcia
+Yann-Ga&#235;l Gu&#233;h&#233;neuc
+Mark Harman
+Jeff Huang
+Paola Inverardi
+Lingxiao Jiang
+Zhi Jin
+Sarfraz Khurshid
+Patrick Maeder
+Audris Mockus
+Henry Muccini
+Shiva Nejati
+Nan Niu
+Aditya Nori
+Corina Pasareanu
+Denys Poshyvanyk
+Alessandra Russo
+Saurabh Sinha
+Margaret-Anne D. Storey
+Peri L. Tarr
+Tao Xie
+Dongmei Zhang
+Xiangyu Zhang
+Andrea Zisman
