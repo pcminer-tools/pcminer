@@ -1,0 +1,72 @@
+G:Camil Demetrescu
+P:Shriram Krisnamurthi
+Nada Amin
+Stephen Chong
+Ravi Chugh
+Dominique Devriese
+Werner Dietl
+Christos Dimoulas
+Julian Dolby
+Sebastian Erdweg
+Erik Ernst
+Patrick Eugster
+Matthew Flatt
+Ronald Garcia
+Michael Greenberg
+Radu Grigore
+Philipp Haller
+Shahar Maoz
+Ana Milanova
+Peter M&uuml;ller
+Alex Potanin
+Michael Pradel
+G Ramalingam
+M&aacute;rcio Ribeiro
+Atanas Rountev
+Sukyoung Ryu
+Jennifer Sartor
+Witawas Srisa-an
+David Van Horn
+Mandana Vaziri
+Tobias Wrigstad
+Harry Xu
+E:Sven Apel
+E:Carl Friedrich Bolz
+E:Mike Dodds
+E:Sophia Drossopoulou
+E:Martin Erwig
+E:Colin S. Gordon
+E:Stefan Hanenberg
+E:Ben Hardekopf
+E:Reiner H&auml;hnle
+E:Atsushi Igarishi
+E:Limin Jia
+E:Tomas Kalibera
+E:Matthias Keil
+E:Sarfraz Khurshid
+E:Eric Koskinen
+E:Lindsey Kuper
+E:Christian K&auml;stner
+E:Ben L. Titzer
+E:Yu David Liu
+E:Ben Livshits
+E:Heather Miller
+E:Anders M&oslash;ller
+E:David Naumann
+E:Pavel Parizek
+E:David Pearce
+E:Joe Gibbs Politz
+E:Veselin Raychev
+E:Vijay Saraswat
+E:Federica Sarro
+E:Xipeng Shen
+E:Christian Skalka
+E:Yannis Smaragdakis
+E:Armando Solar-Lezama
+E:Robert Soul&eacute;
+E:Friedrich Steimann
+E:Emma Tosch
+E:Eric Van Wyk
+E:Tao Xie
+E:Francesco Zappa Nardelli
+E:Charles Zhang

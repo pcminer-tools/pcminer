@@ -1,0 +1,33 @@
+C:Peter M&uuml;ller
+Mark Batty
+Sebastian Burckhardt
+Bor-Yuh Evan Chang
+Maria Christakis
+Mike Dodds
+Patrick Eugster
+Colin S. Gordon
+Philipp Haller
+Matthias Hauswirth
+Klaus Havelund
+Gorel Hedin
+Bart Jacobs
+Christian K&auml;stner
+Vu Le
+Doug Lea
+Brandon Lucia
+Nichalas Matsakis
+Anders M&oslash;ller
+Bruno C. d. S. Oliveira
+Klaus Ostermann
+Matthew J. Parkinson
+Corina Pasareanu
+Tiark Rompf
+Grigore Rosu
+Yannis Smaragdakis
+Frank Tip
+Omer Tripp
+Jan Vitek
+Thomas Wies
+Tobias Wrigstad
+Nobuko Yoshida
+Francesco Zappa Nardelli
