@@ -1,6 +1,30 @@
 G:Pankaj Jalote
 P:Lionel Briand
 P:Andr&eacute; van der Hoek
+B:Joanne M. Atlee
+B:Luciano Baresi
+B:Margaret M. Burnett
+B:Gerardo Canfora
+B:Betty H.C. Cheng
+B:Vittorio Cortellessa
+B:Arie van Deursen
+B:Massimiliano Di Penta, 
+B:Sebastian Elbaum
+B:Mark Harman
+B:Patrick Heymans
+B:Jean-Marc J&eacute;z&eacute;quel
+B:Christine Julien
+B:Michele Lanza
+B:Cristina Videira Lopes
+B:Gail Murphy
+B:Kumiyo Nakakoji
+B:Alexander Pretschner
+B:Per Runeson
+B:Wilhelm Sch&auml;fer
+B:Peri L. Tarr
+B:Paolo Tonella
+B:Willem Visser
+B:Laurie A. Williams
 Daniel Amyot
 Giuliano Antoniol
 Sven Apel

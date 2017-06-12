@@ -355,6 +355,10 @@ public class PCMiner {
 					authorName = authorName.substring(2);
 					Author author = Author.findOrCreate(authorName); 
 					author.addERCMember(ci);
+				} else if (authorName.startsWith("B:")){
+					authorName = authorName.substring(2);
+					Author author = Author.findOrCreate(authorName); 
+					author.addProgramBoardMember(ci);
 				} else {
 					Author author = Author.findOrCreate(authorName); 
 					author.addPCMembership(ci);

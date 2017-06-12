@@ -56,6 +56,10 @@ public final class Author implements Comparable<Author> {
 		committees.add(new ERCMember(ci));
 	}
 	
+	public void addProgramBoardMember(ConferenceInstance ci){
+		committees.add(new ProgramBoardMember(ci));
+	}
+	
 	@Override
 	public String toString() {
 		return name;
