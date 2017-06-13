@@ -1,0 +1,90 @@
+C:Andrew D. Gordon
+G:Giuseppe Castagna
+Mart&#237;n Abadi
+Josh Berdine
+Johannes Borgstr&#246;m
+Avik Chaudhuri
+Adam Chlipala
+Derek Dreyer
+Kathleen Fisher
+Marco Gaboardi
+Ronald Garcia
+Catalin Hritcu
+Bart Jacobs
+Ranjit Jhala
+Limin Jia
+Zachary Kincaid
+Dexter Kozen
+Akash Lal
+Isabella Mastroeni
+Andrew C. Myers
+Michele Pagani
+Mooly Sagiv
+Ilya Sergey
+Sharon Shoham
+Rishabh Singh
+Sam Staton
+Eijiro Sumii
+David Van Horn
+Nobuko Yoshida
+Francesco Zappa Nardelli
+E:Nada Amin
+E:June Andronick
+E:Karthikeyan Bhargavan
+E:Lars Birkedal
+E:Nikolaj Bj&#248;rner
+E:Mihai Budiu
+E:Krishendu Chatterjee
+E:Loris D'Antoni
+E:Mila Dalla Preda
+E:Benjamin Delaware
+E:Delphine Demange
+E:Isil Dillig
+E:R. Kent Dybvig
+E:Azadeh Farzan
+E:Cormac Flanagan
+E:Benjamin Gregoire
+E:Dan Grossman
+E:Martin Hofmann
+E:Chung-Kil Hur
+E:Chantal Keller
+E:Naoki Kobayashi
+E:Robbert Krebbers
+E:Ben L. Titzer
+E:Xavier Leroy
+E:Mohsen Lesani
+E:Sam Lindley
+E:Francesco Logozzo
+E:Nuno P. Lopes
+E:P. Madhusudan
+E:Roman Manevich
+E:Luc Maranget
+E:Damiano Mazza
+E:Mira Mezini
+E:Andrzej Murawski
+E:Peter M&#252;ller
+E:Santosh Nagarakatte
+E:Vivek Nigam
+E:Scott Owens
+E:Frank Pfenning
+E:Damien Pous
+E:G. Ramalingam
+E:Aseem Rastogi
+E:Daniel Roy
+E:Andrey Rybalchenko
+E:David Sands
+E:Alexandra Silva
+E:Nicolas Tabareau
+E:Tachio Terauchi
+E:Peter Thiemann
+E:Sam Tobin-Hochstadt
+E:Mirco Tribastone
+E:Viktor Vafeiadis
+E:Martin Vechev
+E:Eran Yahav
+E:Hongseok Yang
+E:Steve Zdancewic
+E:Noam Zeilberger
+E:Elena Zucca
+E:Damien Zufferey
+
