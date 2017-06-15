@@ -71,7 +71,7 @@ E:John Criswell
 E:Eva Darulova
 E:George Fourtounis
 E:Sicun Gao
-E:Colin Gordon
+E:Colin S. Gordon
 E:William Harris
 E:Hank Hoffman
 E:Justin Hsu

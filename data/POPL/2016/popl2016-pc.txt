@@ -1,0 +1,80 @@
+G:Rastislav Bod&#237;k
+P:Rupak Majumdar
+Robert Atkey
+Andrej Bauer
+Bor-Yuh Evan Chang
+Alastair Donaldson
+Philippa Gardner
+Alexey Gotsman
+Arie Gurfinkel
+Chung-Kil Hur
+Somesh Jha
+Aditya Kanade
+Laura Kovacs
+Shriram Krishnamurthi
+Viktor Kuncak
+Marta Kwiatkowska
+Boris K&#246;pf
+Matteo Maffei
+David Monniaux
+Madan Musuvathi
+Prakash Panangaden
+Corina Pasareanu
+Frank Pfenning
+Frank Piessens
+Tiark Rompf
+Alexandra Silva
+Manu Sridharan
+Ashish Tiwari
+Emina Torlak
+E:Umut A. Acar
+E:Mohamed Faouzi Atig
+E:Nick Benton
+E:Pavol Cern&#253;
+E:Supratik Chakraborty
+E:Krishnendu Chatterjee
+E:Avik Chaudhuri
+E:Stephen Chong
+E:Loris D'Antoni
+E:Isil Dillig
+E:Derek Dreyer
+E:Michael Emmi
+E:Azadeh Farzan
+E:Nate Foster
+E:Jeffrey S. Foster
+E:Vijay Ganesh
+E:Roberto Giacobazzi
+E:Andrew D. Gordon
+E:Arjun Guha
+E:Sumit Gulwani
+E:Joxan Jaffar
+E:Patricia Johann
+E:Christoph Kirsch
+E:Eric Koskinen
+E:Daniel Kroening
+E:K. Narayan Kumar
+E:Lindsey Kuper
+E:Sorin Lerner
+E:Peter M&#252;ller
+E:Mayur Naik
+E:Tobias Nipkow
+E:Jens Palsberg
+E:Brigitte Pientka
+E:Andrew M. Pitts
+E:Maurizio Proietti
+E:Sylvie Putot
+E:Xiaokang Qiu
+E:Koushik Sen
+E:Zhong Shao
+E:Rahul Sharma
+E:Elaine Shi
+E:Rishabh Singh
+E:Yannis Smaragdakis
+E:Zachary Tatlock
+E:Tachio Terauchi
+E:Peter Thiemann
+E:David Van Horn
+E:Guy Van den Broeck
+E:Martin Vechev
+E:Thomas Wies
+

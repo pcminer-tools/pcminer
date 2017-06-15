@@ -1,4 +1,4 @@
-C:Peter M&uuml;ller
+C:Peter M&#252;ller
 Mark Batty
 Sebastian Burckhardt
 Bor-Yuh Evan Chang
