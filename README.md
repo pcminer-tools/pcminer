@@ -91,7 +91,10 @@ Adding a conference involves the following steps:
      - a file "<ConfName><year>-pc.txt" providing the list of PC members.
 
        If the PC member data is available on a conference site using [Researchr](http://conf.researchr.org/),
-       you can run the `data/pc-from-researchr.sh` script to generate the PC member list.  General usage is
+       you can run the `data/pc-from-researchr.sh` script to generate the PC member list.
+       The script requires [Tidy](http://www.html-tidy.org/) to be on your PATH.  On Mac with
+       [Homebrew](https://brew.sh/), you can get Tidy by running `brew install tidy-html5`.
+       Script usage is
        `./pc-from-researchr.sh [-e] URL`.  Pass `-e` if the page is for ERC/EPC members.  The PC list is
        printed to `STDOUT`, so you need to pipe it to the desired output file, e.g.:
        ```bash
