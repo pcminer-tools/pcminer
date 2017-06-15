@@ -94,7 +94,7 @@ Adding a conference involves the following steps:
        you can run the `data/pc-from-researchr.sh` script to generate the PC member list.  General usage is
        `./pc-from-researchr.sh [-e] URL`.  Pass `-e` if the page is for ERC/EPC members.  The PC list is
        printed to `STDOUT`, so you need to pipe it to the desired output file, e.g.:
-       ```
+       ```bash
        $ cd data
        $ ./pc-from-researchr.sh http://2017.splashcon.org/committee/splash-2017-oopsla-program-committee > OOPSLA/2017/oopsla2017-pc.txt
        # using >> to append
