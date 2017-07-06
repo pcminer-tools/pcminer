@@ -55,7 +55,9 @@ II. Adding conferences to PC-miner
 ----------------------------------
 The PC-miner generator tool is a Java application that you can build and run using
 Eclipse. To run PC-miner, right-click on the class pcminer.PCMiner, and select 
-Run As->Java Application. No configuration should be necessary.  
+Run As->Java Application. No configuration should be necessary.  From the command
+line, you can run `./gradlew run` from the `pcminer` root directory to run the
+generator tool.
 
 The input to the generator tool is provided in the data subdirectory, which
 contains one subdirectory for each conference (e.g., "PLDI"). Each
@@ -87,7 +89,21 @@ Adding a conference involves the following steps:
      - a file "<ConfName><year>.html" providing the HTML source code 
        for that year of that conference as provided by DBLP. 
      - a file "<ConfName><year>-pc.txt" providing the list of PC members.
-      
+
+       If the PC member data is available on a conference site using [Researchr](http://conf.researchr.org/),
+       you can run the `data/pc-from-researchr.sh` script to generate the PC member list.
+       The script requires [Tidy](http://www.html-tidy.org/) to be on your PATH.  On Mac with
+       [Homebrew](https://brew.sh/), you can get Tidy by running `brew install tidy-html5`.
+       Script usage is
+       `./pc-from-researchr.sh [-e] URL`.  Pass `-e` if the page is for ERC/EPC members.  The PC list is
+       printed to `STDOUT`, so you need to pipe it to the desired output file, e.g.:
+       ```bash
+       $ cd data
+       $ ./pc-from-researchr.sh http://2017.splashcon.org/committee/splash-2017-oopsla-program-committee > OOPSLA/2017/oopsla2017-pc.txt
+       # using >> to append
+       $ ./pc-from-researchr.sh http://2017.splashcon.org/committee/splash-2017-oopsla-external-program-committee >> OOPSLA/2017/oopsla2017-pc.txt
+       ```
+
        Important: *The name of each PC member must match the name and middle initials
        as they are used in DBLP* (otherwise, get duplicate entries will
        appear in the UI). Note that *special characters in people's names
