@@ -118,6 +118,7 @@ Adding a conference involves the following steps:
          - "G:<name>"  - general chair
          - "E:<name>"  - ERC member
          - "C:<name>"  - conference chair
+         - "B:<name>"  - program board member
          
 5. Once your files are all in place, you can generate the UI by running PCMiner.java.
    (To compile and run, you need in your classpath the jar files in subdirectory lib.)
@@ -147,4 +148,4 @@ The data made available in PC-miner contains information from the
 which is made available under the 
 [ODC Attribution License](http://opendatacommons.org/licenses/by/summary/).
  
-(c) 2010-2015 Frank Tip
+(c) 2010-2017 Frank Tip
