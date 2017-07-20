@@ -209,6 +209,7 @@ Ondrej Lhotak->Ondrej Lhot&aacute;k
 Dan Licata->Daniel R. Licata
 Karl Lieberherr->Karl J. Lieberherr
 Ben Livshits->Benjamin Livshits
+V. Benjamin Livshits->Benjamin Livshits
 Mary Loomis->Mary E. S. Loomis
 Cristina Lopes->Cristina Videira Lopes
 David Lowenthal->David K. Lowenthal
