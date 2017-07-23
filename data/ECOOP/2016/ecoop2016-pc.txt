@@ -1,5 +1,5 @@
 G:Camil Demetrescu
-P:Shriram Krisnamurthi
+P:Shriram Krishnamurthi
 Nada Amin
 Stephen Chong
 Ravi Chugh
