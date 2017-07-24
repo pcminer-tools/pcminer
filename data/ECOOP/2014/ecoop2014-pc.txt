@@ -1,4 +1,4 @@
-P: Richard Jones
+P: Richard E. Jones
 Davide Ancona
 Sven Apel
 Walter Binder
