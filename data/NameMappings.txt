@@ -342,3 +342,5 @@ Mark Woodman->Mark D. R. Woodman
 Kathy Yelick->Katherine A. Yelick
 Katherine Yelick->Katherine A. Yelick
 M. Zelkowitz->Marvin V. Zelkowitz
+Gail Murphy->Gail C. Murphy
+Steve Blackburn->Stephen M. Blackburn
