@@ -1,0 +1,13 @@
+Jeremy Gibbons
+Bastiaan Heeren
+John Hughes
+Mark Jones
+Simon Marlow
+Ulf Norell
+Chris Okasaki
+Ross Paterson
+Alexey Rodriguez Yakushev
+Don Stewart
+Janis Voigtlaender
+P:Stephanie Weirich
+

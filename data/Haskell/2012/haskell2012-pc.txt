@@ -1,0 +1,15 @@
+Amal Ahmed
+Jost Berthold
+Nils Anders Danielsson
+Iavor Diatchki
+Jeremy Gibbons
+Jurriaan Hage
+Zhenjiang Hu
+Daan Leijen
+Ben Lippmeier
+Simon Peyton Jones
+Colin Runciman
+Eijiro Sumii
+P:Janis Voigtländer
+Brent Yorgey
+
