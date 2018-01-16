@@ -5,7 +5,7 @@ Alastair Donaldson
 Colin Gordon
 Jeff Huang
 Lindsey Kuper
-Anders Møller
+Anders M&oslash;ller
 Nina Narodytska
 Nadia Polikarpova
 Sukyoung Ryu
@@ -36,7 +36,7 @@ E:Chandra Krintz
 E:Benjamin Livshits
 E:Ana Milanova
 E:Robert O'Callahan
-E:Fernando Magno Quintão Pereira
+E:Fernando Magno Quint&atilde;o Pereira
 E:Noam Rinetzky
 E:Michelle Strout
 E:Martin Vechev
