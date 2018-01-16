@@ -1,0 +1,112 @@
+G:Jeffrey S. Foster
+P:Dan Grossman
+Adam Chlipala
+Isil Dillig
+Kathleen Fisher
+Tony Hosking
+Joxan Jaffar
+Sorin Lerner
+Jason Mars
+Todd Mytkowicz
+Ryan R. Newton
+Ruzica Piskac
+Tiark Rompf
+Grigore Rosu
+Rahul Sharma
+Tatiana Shpeisman
+Deian Stefan
+Emina Torlak
+Dimitrios Vytiniotis
+Harry Xu
+Avik Chaudhuri
+Eva Darulova
+Julian Dolby
+Arjun Guha
+Shachar Itzhaky
+Aditya Kanade
+Benjamin Livshits
+Kathryn S McKinley
+Iulian Neamtiu
+Jens Palsberg
+Jonathan Ragan-Kelley
+Andreas Rossberg
+Sukyoung Ryu
+Xipeng Shen
+Yannis Smaragdakis
+Ross Tate
+Jean-Baptiste Tristan
+Tobias Wrigstad
+Xin Zhang
+E:Umut Acar
+E:Rajeev Alur
+E:Alexandra (Sasha) Fedorova
+E:Mary Hall
+E:Simon Peyton Jones
+E:Patrick Lam
+E:Mira Mezini
+E:Mooly Sagiv
+E:Michelle Strout
+E:Christian Wimmer
+E:Benjamin Zorn
+E:Vikram Adve
+E:Hans-J. Boehm
+E:Stephen Freund
+E:Matthias Hauswirth
+E:Milind Kulkarni
+E:Doug Lea
+E:Klaus Ostermann
+E:Jeremy G. Siek
+E:Kapil Vaswani
+E:Steve Zdancewic
+E:Miltiadis Allamanis
+E:Arthur Azevedo de Amorim
+E:Ryan Beckett
+E:Satish Chandra
+E:Maria Christakis
+E:Loris D'Antoni
+E:Azadeh Farzan
+E:Philippa Gardner
+E:Michael Greenberg
+E:Sam Guyer
+E:Matthew Hammer
+E:Chinawat Isradisaikul
+E:Sriram Krishnamoorthy
+E:Ben L. Titzer
+E:Fan Long
+E:David Menendez
+E:Heather Miller
+E:Scott Owens
+E:Erez Petrank
+E:Nadia Polikarpova
+E:Alastair Reid
+E:Xavier Rival
+E:Koushik Sen
+E:Vincent St-Amour
+E:Xi Wang
+E:Jingling Xue
+E:Nada Amin
+E:Osbert Bastani
+E:Michael Bond
+E:Sheng Chen
+E:E:Matteo Cimini
+E:Yaniv David
+E:Matthew Fluet
+E:Alessandra Gorla
+E:Ronghui Gu
+E:Sebastian Hack
+E:Ben Hermann
+E:Shoaib Kamil
+E:Lindsey Kuper
+E:Yu David Liu
+E:Martin Maas
+E:Vijay Menon
+E:ThanhVu Nguyen
+E:David Pearce
+E:Phitchaya Mangpo Phothilimthana
+E:Xiaokang Qiu
+E:Tamara Rezk
+E:Jennifer B. Sartor
+E:Tyler Sorensen
+E:Sean Treichler
+E:Thomas Wuerthinger
+E:Qirun Zhang
