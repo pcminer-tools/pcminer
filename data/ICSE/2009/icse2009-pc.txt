@@ -17,7 +17,7 @@ Kokichi Futatsugi
 Holger Giese
 Volker Gruhn
 John C. Grundy
-Tibor Gyimóthy
+Tibor Gyim&oacute;thy
 Andr&eacute; van der Hoek
 Val&#233;rie Issarny
 Pankaj Jalote

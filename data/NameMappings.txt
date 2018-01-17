@@ -39,7 +39,7 @@ Zena Ariola->Zena M. Ariola
 Joe Armstrong->Joe L. Armstrong
 Jo Atlee->Joanne M. Atlee
 Jeff van Baalen->Jeffrey Van Baalen
-Dave F. Bacon->David F. Bacon
+David Bacon->David F. Bacon
 Sara S Baghsorkhi->Sara S. Baghsorkhi
 Henri Bal->Henri E. Bal
 Len Bass->Leonard J. Bass

@@ -1,5 +1,5 @@
-G: Siddhartha Chatterjee
-P: Michael L. Scott
+G:Siddhartha Chatterjee
+P:Michael L. Scott
 Cristiana Amza
 Emery Berger
 Greg Bronevetsky

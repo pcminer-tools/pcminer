@@ -1,4 +1,4 @@
-G: Simon Peyton Jones
+G:Simon Peyton Jones
 P:Mads Tofte
 Alex Aiken
 Andrew W. Appel
