@@ -15,7 +15,7 @@ Frank Pfenning
 Paola Quaglia
 Alexis Saurin
 J. Michael Spivey
-Kristian Støvring
+Kristian St&oslash;vring
 Doaitse Swierstra
 David Van Horn
 Ren&#233; Vestergaard

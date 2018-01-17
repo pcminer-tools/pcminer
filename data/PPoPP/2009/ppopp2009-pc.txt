@@ -1,5 +1,5 @@
-G: Daniel Reed
-P: Vivek Sarkar
+G:Daniel Reed
+P:Vivek Sarkar
 Nancy M. Amato
 David E. Bernholdt
 Martin Burtscher

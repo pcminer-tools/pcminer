@@ -13,7 +13,7 @@ Peter Dickman
 Bjorn Freeman-Benson 
 Rachid Guerraoui 
 Dieter Hammer 
-Urs H&#0246;lzle 
+Urs H&ouml;lzle
 Shinichi Honiden 
 Mehdi Jazayeri 
 Eric Jul 

@@ -1,6 +1,6 @@
-G: Keshav Pingali
-P: Kathy Yelick
-P: Andrew Grimshaw
+G:Keshav Pingali
+P:Kathy Yelick
+P:Andrew Grimshaw
 Pete Beckman
 Denis Caromel
 Brad Chamberlain

@@ -1,5 +1,5 @@
-G: Calin Cascaval
-P: Pen-Chung Yew 
+G:Calin Cascaval
+P:Pen-Chung Yew
 George Almasi
 Fran&ccedil;ois Bodin
 Dhruva Chakrabarti

@@ -1,5 +1,5 @@
-G: Jose Moreira
-P: Jim Larus
+G:Jose Moreira
+P:Jim Larus
 Sara S Baghsorkhi
 Guy E Blelloch
 Greg Bronevetsky

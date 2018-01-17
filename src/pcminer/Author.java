@@ -22,8 +22,8 @@ public final class Author implements Comparable<Author> {
 	
 	private Author(String name){
 		this.name = name;
-		this.firstName = (name.indexOf(" ") != -1) ? name.substring(0, name.lastIndexOf(" ")) : "";
-		this.lastName = (name.indexOf(" ") != -1) ? name.substring(name.lastIndexOf(" ") + 1) : name;
+		this.firstName = (name.indexOf(" ") != -1) ? name.substring(0, name.lastIndexOf(" ")).trim() : "";
+		this.lastName = (name.indexOf(" ") != -1) ? name.substring(name.lastIndexOf(" ") + 1).trim() : name;
 		this.publications = new HashSet<Publication>();
 		this.committees = new HashSet<CommitteeRole>();
 	}
@@ -186,6 +186,7 @@ public final class Author implements Comparable<Author> {
 	 * A complete can be found here: http://www.ascii.cl/htmlcodes.htm
 	 */
 	private static String normalize(String authorName){
+		authorName = authorName.trim();
 		String result = authorName;
 		result = result.replace("&#193;","&Aacute;");
 		result = result.replace("&#197;","&Aring;");

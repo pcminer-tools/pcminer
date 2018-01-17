@@ -18,7 +18,7 @@ David Garlan
 Carlo Ghezzi 
 William G. Griswold 
 Volker Gruhn 
-Tibor Gyim—thy 
+Tibor Gyim&oacute;thy
 John Hatcliff 
 Mats Per Erik Heimdahl
 Katsuro Inoue 
