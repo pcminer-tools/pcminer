@@ -1,4 +1,4 @@
-pcminer
+pcminer [![Build Status](https://travis-ci.org/pcminer-tools/pcminer.svg?branch=master)](https://travis-ci.org/pcminer-tools/pcminer)
 =======
 
 PC-miner is a tool that analyzes publications and program committee service in the top conferences 
