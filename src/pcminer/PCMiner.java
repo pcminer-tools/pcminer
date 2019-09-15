@@ -172,7 +172,7 @@ public class PCMiner {
 								}
 							}
 						} else if (tag instanceof HeadingTag){
-							HeadingTag ht = (HeadingTag)tag; 
+							HeadingTag ht = (HeadingTag)tag;
 							if (ish2(ht)){
 								for (SimpleNodeIterator it = ht.elements(); it.hasMoreNodes(); ){
 									Node node = it.nextNode();
@@ -256,12 +256,12 @@ public class PCMiner {
 	 * helper function to find the page numbers of a paper.
 	 */
 	private void findPageNums(Node node){
-		node.accept(new NodeVisitor() {
-			 
+        thePageNums = null;
+        node.accept(new NodeVisitor() {
 			@Override
 			public void visitTag(Tag tag) {
-				String tagName = tag.getTagName(); 
-				 
+				String tagName = tag.getTagName();
+
 				if (tagName.equals("DIV")){
 					if (tag.getAttribute("class") != null && tag.getAttribute("class").equals("data")){
 						NodeList nodeList = tag.getChildren();
@@ -270,23 +270,33 @@ public class PCMiner {
 							Span span = (Span)lastNode;
 							NodeList spanChildren = span.getChildren();
 							Node firstChild = spanChildren.elementAt(0);
-							thePageNums = firstChild.getText(); 
+							thePageNums = firstChild.getText();
 						} else {
-							thePageNums = lastNode.getText(); 							
-						}	
-						Conference conf = Conference.findOrCreate(theConference);
-						ConferenceInstance ci = ConferenceInstance.findOrCreate(conf, theYear);
-						Publication pub = new Publication(theTitle, ci, thePageNums, theAuthors, theSession);
-						for (Author author : theAuthors){ 						
-							author.addPublication(pub);
+							thePageNums = lastNode.getText();
 						}
-						publications.add(pub);
 					}
-				}
+				} else if (tag instanceof Span){
+                    Span span = (Span)tag;
+                    String prop = span.getAttribute("itemprop");
+                    if (prop != null && prop.equals("pagination")){
+                        NodeList children = span.getChildren();
+                        Node firstChild = children.elementAt(0);
+                        thePageNums = firstChild.getText();
+                    }
+                }
 				super.visitTag(tag);
 			}
 		});
-	}
+        if (thePageNums != null) {
+            Conference conf = Conference.findOrCreate(theConference);
+            ConferenceInstance ci = ConferenceInstance.findOrCreate(conf, theYear);
+            Publication pub = new Publication(theTitle, ci, thePageNums, theAuthors, theSession);
+            for (Author author : theAuthors){
+                author.addPublication(pub);
+            }
+            publications.add(pub);
+        }
+    }
 	
 	/**
 	 * The data/nameMappings file provides a mechanism to normalize author names. This
