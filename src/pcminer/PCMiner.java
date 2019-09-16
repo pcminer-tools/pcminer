@@ -68,9 +68,9 @@ public class PCMiner {
 		String outputDirectory = "." + File.separator + "ui" + File.separator + "js"; 
 		
 		readNameMappings(inputDirectory + File.separator + "NameMappings.txt");
-		
+
 		scan(inputDirectory);
-		
+
 		String jsonFileName = outputDirectory + File.separator + "data.js";
 		FileOutputStream jsonFos = new FileOutputStream(jsonFileName);
 		PrintStream jsonStream = new PrintStream(jsonFos);
@@ -105,10 +105,7 @@ public class PCMiner {
 						File file = subDirFiles[j];
 						if (file.isDirectory()){ // one subdirectory for each year
 							theYear = file.getName();
-							if (!confYears.containsKey(theConference)){
-								confYears.put(theConference, new HashSet<String>());
-							}
-							confYears.get(theConference).add(theYear);	
+							ensureConfYear(theConference, theYear);
 							File[] subsubDirFiles = file.listFiles();
 							for (int k=0; k < subsubDirFiles.length; k++){
 								File file2 = subsubDirFiles[k];
@@ -142,8 +139,15 @@ public class PCMiner {
 			System.err.println();
 		}
 	}
-	
-	/**
+
+    private void ensureConfYear(String confName, String year) {
+        if (!confYears.containsKey(confName)){
+            confYears.put(confName, new HashSet<String>());
+        }
+        confYears.get(confName).add(year);
+    }
+
+    /**
 	 * helper function to scan the HTML files from DBLP.
 	 */
 	private void scanConference(File file){
@@ -163,7 +167,7 @@ public class PCMiner {
 								Node child = bl.childAt(i);
 								if (child instanceof TagNode){
 									String classAtt = ((TagNode)child).getAttribute("class");
-									if (classAtt != null && classAtt.equals("entry inproceedings")){ 
+									if (classAtt != null && classAtt.startsWith("entry ")){
 										theAuthors = new ArrayList<Author>();
 										findTitle(child);
 										findAuthors(child);
@@ -173,7 +177,15 @@ public class PCMiner {
 							}
 						} else if (tag instanceof HeadingTag){
 							HeadingTag ht = (HeadingTag)tag;
-							if (ish2(ht)){
+							if (ish2(ht) && ht.getAttribute("id") != null && ht.getAttribute("id").startsWith("nr")){
+                                // This entry is a PACMPL journal entry. The 'id' tag has the format "nrCONFNAME".
+                                String confName = ht.getAttribute("id").substring(2);
+                                theConference = confName;
+                                theSession = "";
+                                ensureConfYear(theConference, theYear);
+                            } else if (ish2(ht)) {
+							    // This is a regular conference entry
+
 								for (SimpleNodeIterator it = ht.elements(); it.hasMoreNodes(); ){
 									Node node = it.nextNode();
 									if (node instanceof TextNode){
