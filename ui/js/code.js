@@ -634,14 +634,15 @@ var pcminer = function(){
 	 * installs the date range slider on the page
 	 */
 	function installSlider(){
+	    var currentYear = new Date().getFullYear();
 		 $("#slider").rangeSlider({
 		    	bounds:{
 		    		min: 1995,
-		    		max: 2018
+		    		max: currentYear
 		    		},
 		    	defaultValues:{
 		    		min: 1995,
-		    		max: 2018
+		    		max: currentYear
 		    		},
 		    	step: 1,	 
 				scales : [
