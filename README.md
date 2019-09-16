@@ -139,7 +139,7 @@ candidates for the ISSTA'11 and PLDI'12 program committees. Since then,
 it has been used by several other PC chairs for conferences such as
 ISMM, ISSTA, ICFP, ICSE, FSE, PLDI, ASE, ECOOP, and OOPSLA.  Feedback, suggestions, and
 improvements are most welcome, as is additional conference data.
-Contributions from Steve Blackburn, Giuseppe Castagna, Matt Dwyer, Cormac Flanagan, Jeremy Gibbons, Colin Gordon, David Grove,
+Contributions from Steve Blackburn, Giuseppe Castagna, Matt Dwyer, Sebastian Erdweg, Cormac Flanagan, Jeremy Gibbons, Colin Gordon, David Grove,
 Sam Guyer, Richard Jones, Alex Orso, Max Schaefer, Yannis Smaragdakis, Manu Sridharan, Eijiro Sumii, Sam Tobin-Hochstadt, Jan Vitek, 
 and Andreas Zeller are gratefully acknowledged.
 
