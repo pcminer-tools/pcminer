@@ -387,7 +387,13 @@ var pcminer = function(){
 		  if (nameFilter == ""  || x.author.indexOf(nameFilter) == 0){
 			  if (nrPublicationsAndCommittees(x) > 0 && eval(conditionFilter)){ // evil call to eval()
 				  selector.append("<option>" + x.author + "</option>");
-				  clip.append(x.author + "<br>"); // REJ
+				  clip.append(x.author+","); //REJ
+                  for(var j=0; j<x.committees.length; j++){
+                  	clip.append(x.committees[j].conference.series+" "+x.committees[j].conference.year+" ");
+				  }
+                  clip.append("<br />");
+
+
 			  }
 		  }  
 	  }    
