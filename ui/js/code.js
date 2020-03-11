@@ -739,7 +739,7 @@ var pcminer = function(){
 		}
 
 		form += '<label><input type="checkbox" id="all-technical" checked onclick="pcminer.confsSelected(\'all-technical\'' + techTrackNames + ')" /> <b>Technical Tracks</b></label><br />' + technicalTracks + "<hr />";
-		form += '<label><input type="checkbox" id="all-artifacts" onclick="pcminer.confsSelected(\'all-artifacts\'' + artifactTrackNames + ')" /><b>Artifact Tracks</b></label><br />' + artifactTracks + "<br />";
+		form += '<label><input type="checkbox" id="all-artifacts" onclick="pcminer.confsSelected(\'all-artifacts\'' + artifactTrackNames + ')" /> <b>Artifact Tracks</b></label><br />' + artifactTracks + "<br />";
 
 		form += "</form>\n";
 		document.getElementById("checkboxes").innerHTML = form;
