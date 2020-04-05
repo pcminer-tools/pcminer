@@ -1,5 +1,13 @@
+plugins {
+    id "com.github.sherter.google-java-format" version "0.8"
+}
+
 apply plugin: 'java'
 apply plugin: 'application'
+
+repositories {
+    mavenCentral()
+}
 
 sourceCompatibility = 1.8
 version = '0.1'
@@ -14,6 +22,10 @@ sourceSets {
 
 dependencies {
     implementation files('lib/htmllexer.jar', 'lib/htmlparser.jar')
+}
+
+googleJavaFormat {
+    toolVersion = "1.7"
 }
 
 mainClassName = "pcminer.PCMiner"
