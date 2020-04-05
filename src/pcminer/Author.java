@@ -221,11 +221,11 @@ public final class Author implements Comparable<Author> {
 		result = result.replace("&#245;", "&otilde;");
 		result = result.replace("&#246;", "&ouml;");
 		result = result.replace("&#248;", "&oslash;");
+		result = result.replace("&#249;", "&ugrave;");
 		result = result.replace("&#250;", "&uacute;");
 		result = result.replace("&#251;", "&ucirc;");
 		result = result.replace("&#252;", "&uuml;");
 		result = result.replace("&#253;", "&yacute;");
-		
 		result = result.replace("&#0193;","&Aacute;");
 		result = result.replace("&#0197;","&Aring;");
 		result = result.replace("&#0198;","&AElig;");
@@ -272,7 +272,7 @@ public final class Author implements Comparable<Author> {
 			result = result.replace("&#0305;", "");
 			result = result.replace("&#0351;", "");
 			if (result.contains("&#")){
-				System.err.println("WARNING: unmapped character in author name: " + authorName);
+				throw new RuntimeException("ERROR: unmapped character in author name: " + authorName);
 			}
 		}
 		
