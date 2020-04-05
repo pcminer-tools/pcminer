@@ -1,0 +1,41 @@
+Alastair Donaldson
+Robert Atkey
+Eva Darulova
+Mariangiola Dezani
+Dino Distefano
+Derek Dreyer
+Sophia Drossopoulou
+Cezara Drăgoi
+Alexey Gotsman
+Christian Hammer
+Tim Harris
+Matthias Hauswirth
+Akash Lal
+Doug Lea
+Heather Miller
+Bruno C. d. S. Oliveira
+Corina S Pasareanu
+David Pearce
+Luís Pina
+Alex Potanin
+Azalea Raad
+Ajitha Rajan
+Ilya Sergey
+Manu Sridharan
+Emma Söderberg
+Tijs van der Storm
+E:Suparna Bhattacharya
+E:Viviana Bono
+E:Junjie Chen
+E:Mike Dodds
+E:Susan Eisenbach
+E:Ganesh Gopalakrishnan
+E:Bart Jacobs
+E:Jeroen Ketema
+E:Ana Milanova
+E:Jessica Paquette
+E:Gregor Richards
+E:Philipp Ruemmer
+E:Alexander J. Summers
+E:Martin Vechev
+E:John Wickerson
