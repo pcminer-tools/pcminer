@@ -26,6 +26,6 @@ if [ "$EXTERNAL" == "true" ]; then
     SED_PROG="$SED_PROG;s/^/E:/";
 fi
 
-curl $URL | tidy | grep "media-heading" | sed ''"$SED_PROG"''
+curl $URL | tidy | grep "<h3 class=\"media-heading" | sed ''"$SED_PROG"''
 
 
