@@ -76,7 +76,10 @@ file that was created for PLDI 2000).
 Adding a conference involves the following steps:
 
 1. create a new subdirectory in the "data" directory with a name matching the conference
-   acronym (e.g., "PLDI")
+   acronym (e.g., "PLDI").  **Note:** Data for conferences corresponding to
+   [PACMPL](https://dl.acm.org/journal/pacmpl) issues (currently POPL, ICFP, and
+   OOPSLA) is now stored in the `data/PACMPL` directory (from the year of the
+   PACMPL switch onward).
    
 2. create a file "color" inside of this directory. This file should contain a single
    line that provides a name or hexcode of your preferred color (e.g, "#3BB9FF")
@@ -93,7 +96,7 @@ Adding a conference involves the following steps:
        If the PC member data is available on a conference site using [Researchr](http://conf.researchr.org/),
        you can run the `data/pc-from-researchr.sh` script to generate the PC member list.
        The script requires [Tidy](http://www.html-tidy.org/) to be on your PATH.  (On Mac OS X (as of Mojave),
-       the default version of `tidy` that comes with the OS is *too old*.  Install a newer version with
+       the default version of `tidy` that comes with the OS is **too old**.  Install a newer version with
        [Homebrew](https://brew.sh/), by running `brew install tidy-html5`.)
        Script usage is
        `./pc-from-researchr.sh [-e] URL`.  Pass `-e` if the page is for ERC/EPC members.  The PC list is
