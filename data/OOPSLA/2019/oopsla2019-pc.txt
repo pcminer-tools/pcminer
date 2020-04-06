@@ -1,0 +1,64 @@
+P:Eelco Visser 
+Sara Achour
+Nada Amin
+Bor-Yuh Evan Chang
+Arthur Charguéraud
+Yufei Ding
+Alastair Donaldson
+Sebastian Erdweg
+Ronald Garcia
+David Grove
+Gorel Hedin
+Martin Hirzel
+Marieke Huisman
+Gail Kaiser
+Eric Koskinen
+Ondřej Lhoták
+Yu David Liu
+Brandon Lucia
+Heather Miller
+Todd Mytkowicz
+Alex Potanin
+Tiark Rompf
+Manu Sridharan
+Friedrich Steimann
+Éric Tanter
+Ross Tate
+Emina Torlak
+David Van Horn
+Eric Van Wyk
+Harry Xu
+Nobuko Yoshida
+Francesco Zappa Nardelli
+E:Aggelos Biboudis
+E:Gavin Bierman
+E:Walter Binder
+E:Eva Darulova
+E:Werner Dietl
+E:Isil Dillig
+E:Sophia Drossopoulou
+E:Susan Eisenbach
+E:Matthew Flatt
+E:Jeremy Gibbons
+E:Elisa Gonzalez Boix
+E:Sam Guyer
+E:Christine H. Flood
+E:Jeff Huang
+E:Ranjit Jhala
+E:Stephen Kell
+E:Viktor Kunčak
+E:Christian Kästner
+E:Crista Lopes
+E:Sasa Misailovic
+E:Andrew Myers
+E:Iulian Neamtiu
+E:Benjamin C. Pierce
+E:G. Ramalingam
+E:Grigore Rosu
+E:Malavika Samak
+E:Jennifer B. Sartor
+E:Peter Sewell
+E:Xipeng Shen
+E:Michael Steindorfer
+E:Peter Thiemann
+E:Viktor Vafeiadis
