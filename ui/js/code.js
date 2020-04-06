@@ -722,8 +722,12 @@ var pcminer = function(){
 		for (confName in conferences) {
 			var row = "<label><input type=\"checkbox\" ";
 			row += "id=\"" + confName + "\" ";
+			// only select technical conferences (not artifact evaluation) initially
 			if (!confName.endsWith("-AE")) {
 				row += " checked ";
+			} else {
+				// unset the flag in the conferences map
+				conferences[confName] = false;
 			}
 			row += "onclick='pcminer.confSelected(\"" + confName + "\")'> ";
 			row += "<font id=\"" + confName + "color\" ";
