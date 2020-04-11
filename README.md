@@ -94,18 +94,18 @@ Adding a conference involves the following steps:
      - a file "<ConfName><year>-pc.txt" providing the list of PC members.
 
        If the PC member data is available on a conference site using [Researchr](http://conf.researchr.org/),
-       you can run the `data/pc-from-researchr.sh` script to generate the PC member list.
-       The script requires [Tidy](http://www.html-tidy.org/) to be on your PATH.  (On Mac OS X (as of Mojave),
-       the default version of `tidy` that comes with the OS is **too old**.  Install a newer version with
-       [Homebrew](https://brew.sh/), by running `brew install tidy-html5`.)
+       you can run the `pc-from-researchr.py` script to generate the PC member list.
+       The script requires Python 3; the `python3` executable should be on your path.
        Script usage is
-       `./pc-from-researchr.sh [-e] URL`.  Pass `-e` if the page is for ERC/EPC members.  The PC list is
-       printed to `STDOUT`, so you need to pipe it to the desired output file, e.g.:
+       `./pc-from-researchr.sh CONF_NAME CONF_YEAR PC_URL [EXT_URL...]`.
+       `CONF_NAME` is the conference name (e.g., PLDI) and `CONF_YEAR` is the
+       year (e.g., 2019).  `PC_URL` is the URL of the Researchr page listing the
+       program committee.  Optionally, you can provide URLs for any external
+       review / program committees at the end.  Example:
        ```bash
-       $ cd data
-       $ ./pc-from-researchr.sh http://2017.splashcon.org/committee/splash-2017-oopsla-program-committee > OOPSLA/2017/oopsla2017-pc.txt
-       # using >> to append
-       $ ./pc-from-researchr.sh http://2017.splashcon.org/committee/splash-2017-oopsla-external-program-committee >> OOPSLA/2017/oopsla2017-pc.txt
+       $ ./pc-from-researchr.py PLDI 2020 "https://pldi20.sigplan.org/committee/pldi-2020-papers-program-committee" "https://pldi20.sigplan.org/committee/pldi-2020-papers-external-program-committee" "https://pldi20.sigplan.org/committee/pldi-2020-papers-external-review-committee"
+       Wrote PC data to data/PLDI/2020/pldi2020-pc.txt
+       Please check for errors and to add information on chairs
        ```
 
        Important: *The name of each PC member must match the name and middle initials
@@ -113,7 +113,7 @@ Adding a conference involves the following steps:
        appear in the UI). Note that *special characters in people's names
        need to be encoded* (see [here](http://www.utexas.edu/learn/html/spchar.html)
        for a list of HTML character codes).  For example, you'll need to
-       encode a lowercase 'a' with an umlaut as '&auml;' or '&#228;'.
+       encode a lowercase 'a' with an umlaut as `&auml;` or `&#228;`.
 
        By default, including a person's name in the committee-file means
        that they are assumed to be a PC member. For other roles (e.g.,
