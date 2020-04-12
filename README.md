@@ -109,7 +109,7 @@ Adding a conference involves the following steps:
        ```
 
        Important: *The name of each PC member must match the name and middle initials
-       as they are used in DBLP* (otherwise, get duplicate entries will
+       as they are used in DBLP* (otherwise, duplicate entries will
        appear in the UI). Note that *special characters in people's names
        need to be encoded* (see [here](http://www.utexas.edu/learn/html/spchar.html)
        for a list of HTML character codes).  For example, you'll need to
