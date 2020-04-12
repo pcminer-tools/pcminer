@@ -97,7 +97,7 @@ Adding a conference involves the following steps:
        you can run the `pc-from-researchr.py` script to generate the PC member list.
        The script requires Python 3; the `python3` executable should be on your path.
        Script usage is
-       `./pc-from-researchr.sh CONF_NAME CONF_YEAR PC_URL [EXT_URL...]`.
+       `./pc-from-researchr.py CONF_NAME CONF_YEAR PC_URL [EXT_URL...]`.
        `CONF_NAME` is the conference name (e.g., PLDI) and `CONF_YEAR` is the
        year (e.g., 2019).  `PC_URL` is the URL of the Researchr page listing the
        program committee.  Optionally, you can provide URLs for any external
