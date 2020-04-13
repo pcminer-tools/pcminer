@@ -1,0 +1,62 @@
+P:Matthew Flatt
+Sandrine Blazy
+David Thrane Christiansen
+Martin Elsman
+Marco Gaboardi
+Sam Lindley
+Heather Miller
+J. Garrett Morris
+Henrik Nilsson
+François Pottier
+Alejandro Russo
+Ilya Sergey
+Michael Sperber
+Wouter Swierstra
+Éric Tanter
+Katsuhiro Ueno
+Niki Vazou
+Jeremy Yallop
+E:Michael D. Adams
+E:Amal Ahmed
+E:Nada Amin
+E:Zena M. Ariola
+E:Lars Bergstrom
+E:Lars Birkedal
+E:Edwin Brady
+E:William E. Byrd
+E:Giuseppe Castagna
+E:Sheng Chen
+E:Koen Claessen
+E:Ugo Dal Lago
+E:David Darais
+E:Joshua Dunfield
+E:Richard A. Eisenberg
+E:Matthew Fluet
+E:Nate Foster
+E:Jurriaan Hage
+E:Zhenjiang Hu
+E:Suresh Jagannathan
+E:Simon Peyton Jones
+E:Naoki Kobayashi
+E:Neel Krishnaswami
+E:Kazutaka Matsuda
+E:Trevor L. McDonell
+E:Hernan Melgratti
+E:Akimasa Morihata
+E:Aleksandar Nanevski
+E:Kim Nguyễn
+E:Cosmin Oancea
+E:Bruno C. d. S. Oliveira
+E:Tomas Petricek
+E:Benjamin C. Pierce
+E:Christine Rizkallah
+E:Tom Schrijvers
+E:Manuel Serrano
+E:Jeremy G. Siek
+E:Josef Svenningsson
+E:Nicolas Tabareau
+E:David Van Horn
+E:Dimitrios Vytiniotis
+E:Philip Wadler
+E:Meng Wang
+

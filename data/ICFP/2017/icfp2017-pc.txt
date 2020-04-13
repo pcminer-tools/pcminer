@@ -1,0 +1,24 @@
+P:Mark Jones
+Robert Atkey
+Adam Chlipala
+Dominique Devriese
+Martin Erwig
+Matthew Flatt
+Ronald Garcia
+Kathryn E. Gray
+John Hughes
+Chung-Kil Hur
+Graham Hutton
+Alan Jeffrey
+Ranjit Jhala
+Shin-ya Katsumata
+Lindsey Kuper
+Dan Licata
+Ben Lippmeier
+Gabriel Scherer
+Alexandra Silva
+Nikhil Swamy
+Sam Tobin-Hochstadt
+Nicolas Wu
+Beta Ziliani
+
