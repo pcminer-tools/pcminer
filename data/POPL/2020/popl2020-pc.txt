@@ -1,0 +1,55 @@
+P:Lars Birkedal
+Alastair Donaldson
+Alexandra Silva
+Alexey Gotsman
+Andrej Bauer
+Andrew Appel
+Andrzej Murawski
+Arjun Guha
+Armando Solar-Lezama
+Arthur Azevedo de Amorim
+Arthur Charguéraud
+Azalea Raad
+Beta Ziliani
+Bor-Yuh Evan Chang
+Cédric Fournet
+Cezara Drăgoi
+Christine Tasson
+Chung-Kil Hur
+Colin Gordon
+Dominique Devriese
+Eran Yahav
+Eric Koskinen
+Filippo Bonchi
+Francesco Ranzato
+Hiroshi Unno
+Jeffrey S. Foster
+Jeremy G. Siek
+Jesper Cockx
+Limin Jia
+Magnus O. Myreen
+Margus Veanes
+Matteo Cimini
+Mirco Tribastone
+Mohsen Lesani
+Noam Rinetzky
+Ohad Kammar
+Osbert Bastani
+Peter Thiemann
+Pierre-Yves Strub
+Radha Jagadeesan
+Rastislav Bodik
+Roopsha Samanta
+Sam Lindley
+Sandrine Blazy
+Shuvendu K. Lahiri
+Steve Zdancewic
+Sukyoung Ryu
+Susmit Sarkar
+Sylvie Putot
+Thomas Wies
+Tiark Rompf
+Ugo Dal Lago
+Vijay Ganesh
+Xavier Rival
+
