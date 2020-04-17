@@ -1,0 +1,110 @@
+P: Kathleen Fisher
+Neha Agarwal
+Amal Ahmed
+June Andronick
+Walter Binder
+Camil Demetrescu
+Alastair Donaldson
+Dana Drachsler Cohen
+Michael Emmi
+Xinyu Feng
+Guy Golan-Gueta
+Michael Greenberg
+Martin Hirzel
+Chung-Kil Hur
+Suresh Jagannathan
+Limin Jia
+Gabriele Keller
+Shriram Krishnamurthi
+Neel Krishnaswami
+Woosuk Lee
+Nuno P. Lopes
+Martin Maas
+Kathryn S McKinley
+Sasa Misailovic
+Nadia Polikarpova
+Louis-Noel Pouchet
+Michael Pradel
+Shaz Qadeer
+Martin Rinard
+Cindy Rubio-González
+Jennifer B. Sartor
+Ilya Sergey
+Zhendong Su
+Zachary Tatlock
+Ben L. Titzer
+Emina Torlak
+John Wickerson
+Ayal Zaks
+Eddy (Zheng) Zhang
+E:Jade Alglave
+E:Saman Amarsinghe
+E:Steve Blackburn
+E:Rastislav Bodik
+E:Satish Chandra
+E:Swarat Chaudhuri
+E:Albert Cohen
+E:Isil Dillig
+E:Mary Hall
+E:Ranjit Jhala
+E:James Larus
+E:Andrew Myers
+E:Guilherme Ottoni
+E:Erez Petrank
+E:John Reppy
+E:Sukyoung Ryu
+E:Rahul Sharma
+E:Guy L. Steele Jr.
+E:Eran Yahav
+E:Benjamin Zorn
+E:Rajeev Alur
+E:Thomas Ball
+E:Osbert Bastani
+E:Swarnendu Biswas
+E:Eric Bodden
+E:Marc Brockschmidt
+E:Ting Cao
+E:Stephen Chang
+E:Shing-Chi Cheung
+E:Stephen Chong
+E:Christina Delimitriou
+E:Chen Ding
+E:Yufei Ding
+E:Alexandra (Sasha) Fedorova
+E:Aarti Gupta
+E:Peter Hawkins
+E:Kihong Heo
+E:Jeff Huang
+E:Alexandra Jimborean
+E:Mahmut Taylan Kandemir
+E:Eric Koskinen
+E:Lindsey Kuper
+E:Doug Lea
+E:Ondřej Lhoták
+E:Tongping Liu
+E:Anil Madhavapeddy
+E:Michaël Marcozzi
+E:Darko Marinov
+E:Saurav Muralidharan
+E:Magnus O. Myreen
+E:Santosh Nagarakatte
+E:Mayur Naik
+E:Michael O'Boyle
+E:Sreepathi Pai
+E:Luís Pina
+E:Markus Püschel
+E:Sriram Rajamani
+E:Aseem Rastogi
+E:Veselin Raychev
+E:Roopsha Samanta
+E:Chris Seaton
+E:Sharon Shoham
+E:Manu Sridharan
+E:Ankur Taly
+E:Petar Tsankov
+E:Laurent Vanbever
+E:Thomas F. Wenisch
+E:Minjia Zhang
+E:Qirun Zhang
+E:Xiangyu Zhang
+
