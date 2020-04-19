@@ -27,7 +27,7 @@ Louis-Noel Pouchet
 Michael Pradel
 Shaz Qadeer
 Martin Rinard
-Cindy Rubio-González
+Cindy Rubio-Gonz&aacute;lez
 Jennifer B. Sartor
 Ilya Sergey
 Zhendong Su
