@@ -35,16 +35,16 @@ Frank Tip
 Jan Vitek
 Tobias Wrigstad
 Tijs van der Storm
-Erik Ernst
-Matthew Flatt
-Jeremy Gibbons
-Doug Lea
-Crista Lopes
-Toni Mattis
-Todd Millstein
-Jens Palsberg
-Tomas Petricek
-Benjamin C. Pierce
-Joe Gibbs Politz
-Tiark Rompf
-Laurence Tratt
+E: Erik Ernst
+E: Matthew Flatt
+E: Jeremy Gibbons
+E: Doug Lea
+E: Crista Lopes
+E: Toni Mattis
+E: Todd Millstein
+E: Jens Palsberg
+E: Tomas Petricek
+E: Benjamin C. Pierce
+E: Joe Gibbs Politz
+E: Tiark Rompf
+E: Laurence Tratt
