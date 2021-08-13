@@ -11,5 +11,5 @@ Simon Peyton Jones
 Colin Runciman
 Eijiro Sumii
 P:Janis Voigtl&auml;nder
-Brent Yorgey
+Brent A. Yorgey
 

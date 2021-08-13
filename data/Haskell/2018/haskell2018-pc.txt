@@ -15,4 +15,4 @@ Mark Shinwell
 Niki Vazou
 Marcos Viera
 Ryan Yates
-Brent Yorgey
+Brent A. Yorgey
