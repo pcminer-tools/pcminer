@@ -1,4 +1,4 @@
-P:Micha&#322; Pa&#322;ka
+P:Michal H. Palka
 P:Magnus Myreen
 Soichiro Hidaka
 Meng Wang
