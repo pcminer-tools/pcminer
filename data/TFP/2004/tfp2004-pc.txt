@@ -1,0 +1,12 @@
+P:Hans-Wolfgang Loidl
+Stephen Gilmore
+Gaetan Hains
+Kevin Hammond
+John Hughes
+Rita Loogen
+Greg Michaelson
+John O'Donnell
+Ricardo Pena
+Philip W. Trinder
+Marko van Eekelen
+Philip Wadler
