@@ -8,7 +8,7 @@ Ivica Crnkovic
 Lori A. Clarke
 Harald Gall
 Carlo Ghezzi
-Tibor Gyimóthy
+Tibor Gyim&oacute;thy
 Wilhelm Hasselbring
 James D. Herbsleb
 Paola Inverardi
@@ -21,7 +21,7 @@ Cecilia Mascolo
 Jeff Magee
 Nenad Medvidovic
 Atif M. Memon
-Hausi A. Müller
+Hausi A. M&uuml;ller
 Gail C. Murphy
 Kumiyo Nakakoji
 Bashar Nuseibeh

@@ -1,0 +1,50 @@
+P:Robert Hirschfeld
+Karim Ali
+Davide Ancona
+Carl Friedrich Bolz-Tereick
+John Boyland
+Shigeru Chiba
+Theo D'Hondt
+Wolfgang De Meuter
+Sebastian Erdweg
+Tim Felgentreff
+Olivier Flückiger
+Lidia Fuentes
+Richard P. Gabriel
+Anitha Gollamudi
+Elisa Gonzalez Boix
+Philipp Haller
+Christian Hammer
+Felienne Hermans
+Atsushi Igarashi
+Stephen Kell
+Raffi Khatchadourian
+Yu David Liu
+Hidehiko Masuhara
+James Noble
+Klaus Ostermann
+Patrick Rein
+Guido Salvaneschi
+Manuel Serrano
+Jeremy G. Siek
+Friedrich Steimann
+Emma Söderberg
+Peter Thiemann
+Eli Tilevich
+Frank Tip
+Jan Vitek
+Tobias Wrigstad
+Tijs van der Storm
+E: Erik Ernst
+E: Matthew Flatt
+E: Jeremy Gibbons
+E: Doug Lea
+E: Crista Lopes
+E: Toni Mattis
+E: Todd Millstein
+E: Jens Palsberg
+E: Tomas Petricek
+E: Benjamin C. Pierce
+E: Joe Gibbs Politz
+E: Tiark Rompf
+E: Laurence Tratt

@@ -15,7 +15,7 @@ Nate Nystrom
 Michael Pradel
 Jennifer B. Sartor
 Ina Schaefer
-Max Schaefer
+Max Sch&auml;fer
 Xipeng Shen
 Jeremy G. Siek
 Scott F. Smith

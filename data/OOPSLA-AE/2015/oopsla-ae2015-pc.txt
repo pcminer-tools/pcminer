@@ -1,0 +1,35 @@
+C:Robby Findler
+C:Michael Hind
+Stavros Aronis
+Mohammad Reza Azadmanesh
+Titus Barik
+Jonathan Bell
+Kumud Bhandari
+Swarnendu Biswas
+Stephen Chang
+Will Dietz
+Robert Dyer
+Niklas Fors
+Adrien Guatto
+Eric Holk
+Brandon Holt
+Timothy Jones
+Vojin Jovanovic
+Erick Lavoie
+Qingzhou Luo
+Pallavi Maiya
+Dmitri Makarov
+Jabier Martinez
+Trevor L. McDonell
+Na Meng
+Matthew Milano
+Julie L. Newcomb
+Jens Nicolay
+Luís Pina
+Boaz Rosenan
+Malavika Samak
+Malte Schwerhoff
+Asumu Takikawa
+John Vilk
+Shiyi Wei
+Minjia Zhang

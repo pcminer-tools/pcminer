@@ -1,4 +1,4 @@
-pcminer
+pcminer [![Build Status](https://travis-ci.org/pcminer-tools/pcminer.svg?branch=master)](https://travis-ci.org/pcminer-tools/pcminer)
 =======
 
 PC-miner is a tool that analyzes publications and program committee service in the top conferences 
@@ -76,7 +76,10 @@ file that was created for PLDI 2000).
 Adding a conference involves the following steps:
 
 1. create a new subdirectory in the "data" directory with a name matching the conference
-   acronym (e.g., "PLDI")
+   acronym (e.g., "PLDI").  **Note:** Data for conferences corresponding to
+   [PACMPL](https://dl.acm.org/journal/pacmpl) issues (currently POPL, ICFP, and
+   OOPSLA) is now stored in the `data/PACMPL` directory (from the year of the
+   PACMPL switch onward).
    
 2. create a file "color" inside of this directory. This file should contain a single
    line that provides a name or hexcode of your preferred color (e.g, "#3BB9FF")
@@ -91,25 +94,26 @@ Adding a conference involves the following steps:
      - a file "<ConfName><year>-pc.txt" providing the list of PC members.
 
        If the PC member data is available on a conference site using [Researchr](http://conf.researchr.org/),
-       you can run the `data/pc-from-researchr.sh` script to generate the PC member list.
-       The script requires [Tidy](http://www.html-tidy.org/) to be on your PATH.  On Mac with
-       [Homebrew](https://brew.sh/), you can get Tidy by running `brew install tidy-html5`.
+       you can run the `pc-from-researchr.py` script to generate the PC member list.
+       The script requires Python 3; the `python3` executable should be on your path.
        Script usage is
-       `./pc-from-researchr.sh [-e] URL`.  Pass `-e` if the page is for ERC/EPC members.  The PC list is
-       printed to `STDOUT`, so you need to pipe it to the desired output file, e.g.:
+       `./pc-from-researchr.py CONF_NAME CONF_YEAR PC_URL [EXT_URL...]`.
+       `CONF_NAME` is the conference name (e.g., PLDI) and `CONF_YEAR` is the
+       year (e.g., 2019).  `PC_URL` is the URL of the Researchr page listing the
+       program committee.  Optionally, you can provide URLs for any external
+       review / program committees at the end.  Example:
        ```bash
-       $ cd data
-       $ ./pc-from-researchr.sh http://2017.splashcon.org/committee/splash-2017-oopsla-program-committee > OOPSLA/2017/oopsla2017-pc.txt
-       # using >> to append
-       $ ./pc-from-researchr.sh http://2017.splashcon.org/committee/splash-2017-oopsla-external-program-committee >> OOPSLA/2017/oopsla2017-pc.txt
+       $ ./pc-from-researchr.py PLDI 2020 "https://pldi20.sigplan.org/committee/pldi-2020-papers-program-committee" "https://pldi20.sigplan.org/committee/pldi-2020-papers-external-program-committee" "https://pldi20.sigplan.org/committee/pldi-2020-papers-external-review-committee"
+       Wrote PC data to data/PLDI/2020/pldi2020-pc.txt
+       Please check for errors and to add information on chairs
        ```
 
        Important: *The name of each PC member must match the name and middle initials
-       as they are used in DBLP* (otherwise, get duplicate entries will
+       as they are used in DBLP* (otherwise, duplicate entries will
        appear in the UI). Note that *special characters in people's names
        need to be encoded* (see [here](http://www.utexas.edu/learn/html/spchar.html)
        for a list of HTML character codes).  For example, you'll need to
-       encode a lowercase 'a' with an umlaut as '&auml;' or '&#228;'.
+       encode a lowercase 'a' with an umlaut as `&auml;` or `&#228;`.
 
        By default, including a person's name in the committee-file means
        that they are assumed to be a PC member. For other roles (e.g.,
@@ -139,7 +143,7 @@ candidates for the ISSTA'11 and PLDI'12 program committees. Since then,
 it has been used by several other PC chairs for conferences such as
 ISMM, ISSTA, ICFP, ICSE, FSE, PLDI, ASE, ECOOP, and OOPSLA.  Feedback, suggestions, and
 improvements are most welcome, as is additional conference data.
-Contributions from Steve Blackburn, Giuseppe Castagna, Matt Dwyer, Cormac Flanagan, Jeremy Gibbons, Colin Gordon, David Grove,
+Contributions from Steve Blackburn, Giuseppe Castagna, Matt Dwyer, Sebastian Erdweg, Cormac Flanagan, Jeremy Gibbons, Colin Gordon, David Grove,
 Sam Guyer, Richard Jones, Alex Orso, Max Schaefer, Yannis Smaragdakis, Manu Sridharan, Eijiro Sumii, Sam Tobin-Hochstadt, Jan Vitek, 
 and Andreas Zeller are gratefully acknowledged.
 

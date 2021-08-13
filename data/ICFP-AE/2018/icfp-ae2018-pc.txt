@@ -1,0 +1,35 @@
+C:Simon Marlow 
+Martin Avanzini
+Shrutarshi Basu
+Jost Berthold
+Aleš Bizjak
+Guido Chari
+Vikraman Choudhury
+Robert Clifton-Everest
+Jonathan DiLorenzo
+Jesus Dominguez
+Gian Pietro Farina
+Michael Gale
+Francesco Gavazzo
+Mark Grebe
+Armaël Guéneau
+Kristoffer Just Arndal Andersen
+Gowtham Kaki
+David Kaloper-Meršinjak
+Hsiang-Shang ‘Josh’ Ko
+Wen Kokke
+Chaitanya Koparkar
+Victor Lanvin
+Fengyun Liu
+Liam O'Connor
+Ivan Perez
+Tommaso Petrucciani
+Amos Robinson
+Alejandro Serrano
+Thomas Sewell
+Thomas Sibut-Pinote
+KC Sivaramakrishnan
+Jacob Stanley
+Marco Vassena
+Theo Winterhalter
+Erik de Castro Lopo

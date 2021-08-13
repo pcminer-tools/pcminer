@@ -1,0 +1,72 @@
+P:François Pottier
+Lennart Beringer
+Joachim Breitner
+Laura M. Castro
+Ezgi Çiçek
+Pierre-Evariste Dagand
+Christos Dimoulas
+Jacques-Henri Jourdan
+Andrew Kennedy
+Daan Leijen
+Kazutaka Matsuda
+Bruno C. d. S. Oliveira
+Klaus Ostermann
+Jennifer Paykin
+Frank Pfenning
+Mike Rainey
+Chung-chieh Shan
+Sam Staton
+Pierre-Yves Strub
+German Vidal
+E:Michael D. Adams
+E:Robert Atkey
+E:Sheng Chen
+E:James Cheney
+E:Adam Chlipala
+E:Evelyne Contejean
+E:Germán Andrés Delbianco
+E:Dominique Devriese
+E:Richard A. Eisenberg
+E:Conal Elliott
+E:Sebastian Erdweg
+E:Michael Greenberg
+E:Adrien Guatto
+E:Jennifer Hackett
+E:Troels Henriksen
+E:Chung-Kil Hur
+E:Roberto Ierusalimschy
+E:Ranjit Jhala
+E:Ralf Jung
+E:Ohad Kammar
+E:Oleg Kiselyov
+E:Hsiang-Shang ‘Josh’ Ko
+E:Ondřej Lhoták
+E:Dan Licata
+E:Geoffrey Mainland
+E:Simon Marlow
+E:Akimasa Morihata
+E:Shin-Cheng Mu
+E:Guillaume Munch-Maccagnoni
+E:Kim Nguyễn
+E:Ulf Norell
+E:Atsushi Ohori
+E:Rex Page
+E:Zoe Paraskevopoulou
+E:Nadia Polikarpova
+E:Jonathan Protzenko
+E:Tiark Rompf
+E:Andreas Rossberg
+E:Konstantinos (Kostis) Sagonas
+E:KC Sivaramakrishnan
+E:Nicholas Smallbone
+E:Matthieu Sozeau
+E:Sandro Stucki
+E:Don Syme
+E:Zachary Tatlock
+E:Sam Tobin-Hochstadt
+E:Takeshi Tsukada
+E:Tarmo Uustalu
+E:Benoit Valiron
+E:Daniel Winograd-Cort
+E:Nicolas Wu
+

@@ -1,0 +1,53 @@
+Aaron Stump
+Alan Jeffrey
+Andreas Abel
+Andreas Podelski
+Andrew Tolmach
+Aws Albarghouthi
+Benjamin Delaware
+Claudio Russo
+Danel Ahman
+David Naumann
+Dimitrios Vytiniotis
+Dominic Orchard
+Gabriel Scherer
+Gavin Bierman
+Heather Miller
+Hongjin Liang
+Hugo Herbelin
+Ichiro Hasuo
+Ilya Sergey
+Jacques Garrigue
+Jan Hoffmann
+Jean-Philippe Bernardy
+June Andronick
+Justin Hsu
+P. Madhusudan
+Martin Erwig
+Matthew Parkinson
+Mayur Naik
+Michael D. Adams
+Michael Emmi
+Michael Greenberg
+Nate Foster
+Nicolas Tabareau
+Nikhil Swamy
+Niki Vazou
+Nils Anders Danielsson
+Noam Zeilberger
+Ori Lahav
+Patricia Johann
+Peter O'Hearn
+Peter Selinger
+Radu Grigore
+Robbert Krebbers
+Robert Atkey
+Ryan R. Newton
+Sam Tobin-Hochstadt
+Scott Owens
+Suresh Jagannathan
+Swarat Chaudhuri
+Zhenjiang Hu
+Matthew Hammer
+P:Stephanie Weirich
+

@@ -1,0 +1,48 @@
+C:Ben Hermann 
+C:Nico Rosner 
+Nazareno Aguirre
+Amin Alipour
+Alexandre Bartel
+Moritz Beller
+Manuel Benz
+Bernhard Berger
+Tegawendé F. Bissyandé
+Richard Bubel
+Marcel Böhme
+Jürgen Cito
+Renzo Degiovanni
+Philipp Dominik Schubert
+Mattia Fazzini
+Johannes Geismann
+Byron Hawkins
+Michael Hilton
+Shin Hong
+Petr Hosek
+Aftab Hussain
+Reyhaneh Jabbarvand
+Gunel Jahangirova
+René Just
+Timotej Kapus
+Fitsum Kifetew
+Stefan Krüger
+Konstantin Kuznetsov
+Wing Lam
+Ding Li
+Li Li
+Ravi Mangal
+Alexandru Marginean
+Srdjan Matic
+Rashmi Mudduluru
+André N. Meyer
+Lisa Nguyen Quang Do
+Jihyeok Park
+Gervasio Daniel Perez
+Quoc-Sang Phan
+Goran Piskachev
+Sebastian Proksch
+José Miguel Rojas
+Sina Shamshiri
+Yulei Sui
+Stefan Winter
+Wei Yang
+Qirun Zhang

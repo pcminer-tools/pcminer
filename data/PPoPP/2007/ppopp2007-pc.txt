@@ -1,5 +1,5 @@
-G: Katherine Yelick
-P: John Mellor-Crummey
+G:Katherine Yelick
+P:John Mellor-Crummey
 Eduard Ayguad&eacute;
 David Callahan
 Barbara Chapman

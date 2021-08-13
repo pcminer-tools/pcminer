@@ -309,7 +309,24 @@ var pcminer = function(){
 	 */
 	function confSelected(conf){
 		var selected = document.conferences[conf].checked;
-		conferences[conf] = selected; 
+		conferences[conf] = selected;
+		if (currentAuthor != undefined){
+			authorClicked(currentAuthor);
+		} else {
+			resetSelector();
+		}
+	};
+
+	/**
+	 * invoked when a user selects/unselects a group of conferences using the checkboxes
+	 */
+	function confsSelected(group){
+		var selected = document.conferences[group].checked;
+		for(var i = 1; i < arguments.length; i++){
+	    	var conf = arguments[i];
+	    	document.conferences[conf].checked = selected;
+			conferences[conf] = selected;
+		}
 		if (currentAuthor != undefined){
 			authorClicked(currentAuthor);
 		} else {
@@ -387,7 +404,13 @@ var pcminer = function(){
 		  if (nameFilter == ""  || x.author.indexOf(nameFilter) == 0){
 			  if (nrPublicationsAndCommittees(x) > 0 && eval(conditionFilter)){ // evil call to eval()
 				  selector.append("<option>" + x.author + "</option>");
-				  clip.append(x.author + "<br>"); // REJ
+				  clip.append(x.author+","); //REJ
+                  for(var j=0; j<x.committees.length; j++){
+                  	clip.append(x.committees[j].conference.series+" "+x.committees[j].conference.year+" ");
+				  }
+                  clip.append("<br />");
+
+
 			  }
 		  }  
 	  }    
@@ -634,14 +657,15 @@ var pcminer = function(){
 	 * installs the date range slider on the page
 	 */
 	function installSlider(){
+	    var currentYear = new Date().getFullYear();
 		 $("#slider").rangeSlider({
 		    	bounds:{
 		    		min: 1995,
-		    		max: 2018
+		    		max: currentYear
 		    		},
 		    	defaultValues:{
 		    		min: 1995,
-		    		max: 2018
+		    		max: currentYear
 		    		},
 		    	step: 1,	 
 				scales : [
@@ -691,14 +715,36 @@ var pcminer = function(){
 	 */
 	function installCheckboxes(){
 		var form = "<form name=conferences>\n";
-		for (confName in conferences){
-			form += "<label><input type=\"checkbox\" ";
-			form += "id=\"" + confName + "\" ";
-			form += "checked onclick='pcminer.confSelected(\"" + confName + "\")'> ";
-			form += "<font id=\"" + confName + "color\" ";
-			form += "class=\"conf\">" + confName + "</font>"; 
-			form += "</label>\n";
+		var technicalTracks = "";
+		var artifactTracks = "";
+		var techTrackNames ="";
+		var artifactTrackNames ="";
+		for (confName in conferences) {
+			var row = "<label><input type=\"checkbox\" ";
+			row += "id=\"" + confName + "\" ";
+			// only select technical conferences (not artifact evaluation) initially
+			if (!confName.endsWith("-AE")) {
+				row += " checked ";
+			} else {
+				// unset the flag in the conferences map
+				conferences[confName] = false;
+			}
+			row += "onclick='pcminer.confSelected(\"" + confName + "\")'> ";
+			row += "<font id=\"" + confName + "color\" ";
+			row += "class=\"conf\">" + confName + "</font>";
+			row += "</label>\n";
+			if (confName.endsWith("-AE")) {
+				artifactTracks += row;
+				artifactTrackNames += ",'" + confName + "'";
+			} else {
+				technicalTracks += row;
+				techTrackNames += ",'" + confName + "'";
+			}
 		}
+
+		form += '<label><input type="checkbox" id="all-technical" checked onclick="pcminer.confsSelected(\'all-technical\'' + techTrackNames + ')" /> <b>Technical Tracks</b></label><br />' + technicalTracks + "<hr />";
+		form += '<label><input type="checkbox" id="all-artifacts" onclick="pcminer.confsSelected(\'all-artifacts\'' + artifactTrackNames + ')" /> <b>Artifact Tracks</b></label><br />' + artifactTracks + "<br />";
+
 		form += "</form>\n";
 		document.getElementById("checkboxes").innerHTML = form;
 		for (conf in confColors){
@@ -730,6 +776,7 @@ var pcminer = function(){
 		dateFilterChanged : dateFilterChanged,
 		conditionFilterChanged : conditionFilterChanged,
 		confSelected : confSelected,
+		confsSelected: confsSelected,
 		copyToClipboard : copyToClipboard,
 		main : main
 	};

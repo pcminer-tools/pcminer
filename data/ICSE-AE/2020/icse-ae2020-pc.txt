@@ -1,0 +1,31 @@
+C:Tim Menzies 
+C:Leandro Minku
+Silvia Abrahão 
+Hamid Bagheri 
+Marcio Barros 
+Tanmay Bhowmik 
+Kelly Blincoe 
+George Cabral 
+Tao Chen 
+Xuan Bach D. Le 
+Daniel Alencar Da Costa 
+Giuseppe Destefanis 
+Neil Ernst 
+Antonio Filieri 
+Regina Hebig 
+Jennifer Horkoff 
+Yasutaka Kamei 
+Eric Knauss 
+Anne Koziolek 
+Rahul Krishna 
+Yepang Liu 
+Daniel Mendez 
+Martin Monperrus 
+Lloyd Montgomery 
+Maria Teresa Baldassarre 
+Sira Vegas 
+Andreas Vogelsang 
+Shuai Wang 
+Hironori Washizaki 
+Hongyu Zhang 
+Tianyi Zhang 
