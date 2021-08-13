@@ -8,12 +8,12 @@ Ranjit Jhala
 Patricia Johann
 Yukiyoshi Kameyama
 George Karachalias
-Ralf Lämmel
+Ralf L&auml;mmel
 Daan Leijen
 Ben Lippmeier
 Neil Mitchell
 Alberto Pardo
 Matt Roberts
-Janis Voigtländer
+Janis Voigtl&auml;nder
 Nicolas Wu
 

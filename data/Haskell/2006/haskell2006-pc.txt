@@ -4,7 +4,7 @@ Paul Hudak
 Isaac Jones
 Gabriele Keller
 Oleg Kiselyov
-P:Andres Löh
+P:Andres L&ouml;h
 Conor McBride
 Shin-Cheng Mu
 Andrew Tolmach

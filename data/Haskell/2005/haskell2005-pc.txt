@@ -1,9 +1,9 @@
 Martin Erwig
 John Hughes
 Mark Jones
-Ralf Lämmel
+Ralf L&auml;mmel
 P:Daan Leijen
-Andres Löh
+Andres L&ouml;h
 Andrew Moran
 Simon Thompson
 Malcolm Wallace

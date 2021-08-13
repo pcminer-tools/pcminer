@@ -1,7 +1,7 @@
 P:Richard Eisenberg
 Ki-Yung Ahn
 Christiaan Baaij
-José Manuel Calderón Trilla
+Jos&eacute; Manuel Calder&oacute;n Trilla
 Benjamin Delaware
 Jennifer Hackett
 Kazutaka Matsuda

@@ -10,6 +10,6 @@ Ben Lippmeier
 Simon Peyton Jones
 Colin Runciman
 Eijiro Sumii
-P:Janis Voigtländer
+P:Janis Voigtl&auml;nder
 Brent Yorgey
 

@@ -1,4 +1,4 @@
-Jörgen Gustavsson
+J&ouml;rgen Gustavsson
 Thomas Hallgren
 Jerzy Karczmarczuk
 Daan Leijen

@@ -7,9 +7,9 @@ Graham Hutton
 Mauro Jaskelioff
 Oleg Kiselyov
 Sam Lindley
-Andres Löh
+Andres L&ouml;h
 Bruno Oliveira
-Maciej Piróg
+Maciej Pir&oacute;g
 Wren Romano
 Mark Shinwell
 Niki Vazou
