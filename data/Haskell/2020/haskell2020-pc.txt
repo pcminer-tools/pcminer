@@ -1,0 +1,19 @@
+P:Tom Schrijvers
+Arthur Azevedo de Amorim
+Manuel Chakravarty
+Jan Christiansen
+Youyou Cong
+Pierre-Evariste Dagand
+Anton Ekblad
+Jurriaan Hage
+Graham Hutton
+Jos&eacute; Pedro Magalh&atilde;es
+Clare Martin
+Andrey Mokhov
+Shin-Cheng Mu
+Nikolaos Papaspyrou
+Simon Peyton Jones
+Norman Ramsey
+Exequiel Rivas
+Martin Sulzmann Karlsruhe
+

@@ -1,0 +1,23 @@
+P:Peter Achten
+P:Pieter Koopman
+Andrew Butterfield
+Manuel Chakravarty
+John Clements
+Matthias Felleisen
+Jurriaan Hage
+Michael Hanus
+Ralf Hinze
+Graham Hutton
+Johan Jeuring
+Shriram Krishnamurthi
+Hans-Wolfgang Loidl
+Rita Loogen
+Greg Michaelson
+Marco T. Moraz&aacute;n
+Sven-Bodo Scholz
+Ulrik Schultz
+Clara Segura
+Olin Shivers
+Philip W. Trinder
+Varmo Vene
+Vikt&oacute;ria Zs&oacute;k

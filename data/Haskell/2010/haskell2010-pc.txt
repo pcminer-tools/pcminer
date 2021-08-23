@@ -1,0 +1,13 @@
+P:Jeremy Gibbons
+James Cheney
+Duncan Coutts
+Sharon Curtis
+Fritz Henglein
+Tom Schrijvers
+Chung-chieh Shan
+Martin Sulzmann
+Wouter Swierstra
+Peter Thiemann
+Andrew Tolmach
+Malcolm Wallace
+
