@@ -1,0 +1,120 @@
+P: Isil Dillig
+Sara Achour
+Aws Albarghouthi
+Sorav Bansal
+Osbert Bastani
+James Bornholt
+Fraser Brown
+Ting Cao
+Tej Chajed
+Bor-Yuh Evan Chang
+Sarah E. Chasins
+Shumo Chu
+Albert Cohen
+Brian Demsky
+Mike Dodds
+Dana Drachsler Cohen
+Constantin Enea
+Yu Feng
+Kostas Ferles
+Nate Foster
+Nick Giannarakis
+Klaus v. Gleissenthall
+Laure Gonnord
+Colin Gordon
+Justin Gottschlich
+Neville Grech
+Vinod Grover
+Ronghui Gu
+Hui Guan
+Mary Hall
+Kihong Heo
+Steven Holtzen
+Tony Hosking
+Justin Hsu
+Jeff Huang
+Jeevana Priya Inala
+Susmit Jha
+Zhihao Jia
+Ralf Jung
+Jeehoon Kang
+Manos Kapritsos
+Vineeth Kashyap
+Baris Kasikci
+Zachary Kincaid
+Milind Kulkarni
+Shuvendu K. Lahiri
+Akash Lal
+Patrick Lam
+James Larus
+Doug Lea
+Hugh Leather
+Caroline Lemieux
+Hongjin Liang
+Fan Long
+Rupak Majumdar
+Saeed Maleki
+Vikash K. Mansinghka
+Ruben Martins
+Jedidiah McClurg
+Erik Meijer
+Charith Mendis
+Mira Mezini
+Ana Milanova
+Anders Miltner
+Eliot Moss
+Vijayaraghavan Murali
+Peter Müller
+Vijay Nagarajan
+Santosh Nagarakatte
+Chandrakana Nandi
+Satish Narayanasamy
+Jorge A. Navas
+Michael F. P. O'Boyle
+Hakjoo Oh
+Sreepathi Pai
+Jens Palsberg
+Erez Petrank
+Phitchaya Mangpo Phothilimthana
+Ruzica Piskac
+Clément Pit-Claudel
+Nadia Polikarpova
+Raghu Prabhakar
+Corina S. Păsăreanu
+Shaz Qadeer
+Xiaokang Qiu
+Arjun Radhakrishna
+Mukund Raghothaman
+Robert Rand
+John Regehr
+Talia Ringer
+Gabriel Rodríguez
+Sukyoung Ryu
+Leonid Ryzhyk
+Malavika Samak
+Roopsha Samanta
+Eric Schkufza
+Koushik Sen
+Xipeng Shen
+Xujie Si
+KC Sivaramakrishnan
+Calvin Smith
+Deian Stefan
+Zhendong Su
+Tachio Terauchi
+Aditya V. Thakur
+Sean Treichler
+David Van Horn
+Thomas Wahl
+Chenglong Wang
+Xinyu Wang
+Yuepeng Wang
+Thomas Wies
+Xiaodi Wu
+Nobuko Yoshida
+Danfeng Zhang
+Qirun Zhang
+Xin Zhang
+Yizhou Zhang
+Zhiqiang Zuo
+
