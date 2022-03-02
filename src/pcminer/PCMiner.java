@@ -159,6 +159,8 @@ public class PCMiner {
               public void visitTag(Tag tag) {
                 if (tag instanceof BulletList) {
                   BulletList bl = (BulletList) tag;
+                  if (bl.getChildren() == null)
+                      return;
                   for (int i = 0; i < bl.getChildren().size(); i++) {
                     Node child = bl.childAt(i);
                     if (child instanceof TagNode) {
