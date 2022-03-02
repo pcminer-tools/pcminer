@@ -1,0 +1,127 @@
+P: Eran Yahav
+Adam Chlipala
+Aditya Kanade
+Albert Cohen
+Andreas Rossberg
+Andreas Zeller
+Anil Madhavapeddy
+Armando Solar-Lezama
+Ayal Zaks
+Azalea Raad
+Ben Greenman
+Ben Hardekopf
+Ben Liblit
+Ben L. Titzer
+Ben Zorn
+Bor-Yuh Evan Chang
+Brandon Lucia
+Camil Demetrescu
+Charlie Curtsinger
+Cindy Rubio-González
+Cormac Flanagan
+Cristian Cadar
+Danfeng Zhang
+Darko Marinov
+David I. August
+David Darais
+Doug Lea
+Erez Petrank
+Eva Darulova
+Francesco Logozzo
+Fredrik Kjolstad
+Gagandeep Singh
+Gail Kaiser
+Gerwin Klein
+Görel Hedin
+Grigore Roşu
+Gustavo Petri
+He Zhu
+Heather Miller
+Hila Peleg
+Hongseok Yang
+Jan Hoffmann
+John Sarracino
+José Fragoso Santos
+Joseph Devietti
+Joxan Jaffar
+Julian Dolby
+Julian Shun
+Kapil Vaswani
+Ke Wang
+Kwangkeun Yi
+Lindsey Kuper
+Loris D'Antoni
+Louis-Noël Pouchet
+Madan Musuvathi
+Magnus Madsen
+Magnus O. Myreen
+Mahmut Taylan Kandemir
+Marc Brockschmidt
+Markus Püschel
+Matthew Flatt
+Michael D. Bond
+Michael Hicks
+Michael F. P. O'Boyle
+Michael Pradel
+Milind Kulkarni
+Na Meng
+Nate Foster
+Nathan Chong
+Nikhil Swamy
+Nikos Vasilakis
+Nuno P. Lopes
+Oded Padon
+Osbert Bastani
+Paul Gazzillo
+Pavel Panchekha
+Pavol Bielik
+Rahul Sharma
+Ranjit Jhala
+Ravi Chugh
+Rishabh Singh
+Roopsha Samanta
+Ruzica Piskac
+Ryan R. Newton
+Sandeep Dasgupta
+Sara Achour
+Saswat Padhi
+Saumya Debray
+Saurav Muralidharan
+Sebastian Hack
+Simon Peyton Jones
+Sorav Bansal
+Stephen Kell
+Steve Blackburn
+Sukyoung Ryu
+Suresh Jagannathan
+Tahina Ramananandro
+Tamara Rezk
+Tatiana Shpeisman
+Thomas Reps
+Thomas Shull
+Timon Gehr
+Ting Cao
+Tobias Wrigstad
+Toby Murray
+Todd Millstein
+Tomofumi Yuki
+Tony Hosking
+Uri Alon
+Vijay Ganesh
+Viktor Kunčak
+Viktor Vafeiadis
+Vivek Sarkar
+Willem Visser
+Woosuk Lee
+Xinyu Feng
+Xinyu Wang
+Xulong Tang
+Yaniv David
+Yannis Smaragdakis
+Zachary Tatlock
+Swarat Chaudhuri
+Isil Dillig
+Martin C. Rinard
+Caitlin Sadowski
+Xin Zhang
+
