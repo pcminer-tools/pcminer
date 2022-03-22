@@ -1,0 +1,21 @@
+Jos&eacute; Nelson Amaral
+Eduard Ayguade
+Albert Cohen
+Alain Darte
+Martin Elsman
+M. Anton Ertl
+David Gregg
+Sumit Gulwani
+G&ouml;rel Hedin
+P:Laurie Hendren
+Richard Jones
+Mira Mezini
+Ana Milanova
+Antoine Min&eacute;
+Anders M&oslash;ller
+Michael O'Boyle
+Peter O'Hearn
+Jens Palsberg
+Simon Peyton Jones
+Jan Vitek
+Andreas Zeller
