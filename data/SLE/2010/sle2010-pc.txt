@@ -1,0 +1,47 @@
+P:Brian Malloy
+P:Steffen Staab
+Uwe A&szlig;mann
+Colin Atkinson
+Sonia Bergamaschi
+John Boyland
+Mark van den Brand
+Jordi Cabot
+Silvana Castano
+Anthony Cleve
+Michael Collard
+Charles Consel
+James Cordy
+Stephen Edwards
+Gregor Engels
+Aldo Gangemi
+Chiara Ghidini
+Jeff Gray
+Peter Haase
+G&ouml;rel Hedin
+Geert-Jan Houben
+Adrian Johnstone
+Nicholas Kraft
+Ivan Kurtev
+Julia Lawall
+Brian Malloy
+Marjan Mernik
+Pierre-Etienne Moreau
+Peter Mosses
+Ralf M&ouml;ller
+Istvan Nagy
+Daniel Oberle
+Richard Paige
+Jeff Z. Pan
+Bijan Parsia
+James Power
+Alexander Serebrenik
+Fernando Silva Parreiras
+Anthony Sloane
+Steffen Staab
+Eleni Stroulia
+York Sure
+Gabriele Taentzer
+Eric Van Wyk
+Jurgen Vinju
+Eelco Visser
+Steffen Zschaler

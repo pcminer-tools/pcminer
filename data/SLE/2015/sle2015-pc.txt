@@ -1,0 +1,32 @@
+P:Davide Di Ruscio
+P:Markus V&ouml;lter
+Anya Helene Bagge
+Emilie Balland
+Marco Brambilla
+Jordi Cabot
+Beno&icirc;t Combemale
+Zinovy Diskin
+Sebastian Erdweg
+Jean-Marie Favre
+Holger Giese
+Martin Gogolla
+Thomas Goldschmidt
+Jeff Gray
+Zhenjiang Hu
+Angelo Hulshout
+Adrian Johnstone
+Paul Klint
+Dimitris Kolovos
+Terence Parr
+David J. Pearce
+Alfonso Pierantonio
+Daniel Ratiu
+Eugene Syriani
+Juha-Pekka Tolvanen
+Daniel Varro
+Guido Wachsmuth
+Manuel Wimmer
+Vadim Zaytsev
+Juan de Lara
+Tijs van der Storm
+
