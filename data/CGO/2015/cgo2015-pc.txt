@@ -1,0 +1,41 @@
+P:Robert Hundt
+P:Jason Mars
+Saman Amarasinghe
+Derek Bruening
+Simone Campanoni
+Mike Carbin
+John Cavazos
+Albert Cohen
+Jack Davidson
+Gregory Diamos
+Christophe Dubach
+Evelyn Duesterwald
+Xiaobing Feng
+Mike Ferdman
+Ravi Iyer
+Alexandra Jimborean
+Naveen Kumar
+Calvin Lin
+Scott Mahlke
+Kathryn S. McKinley
+Abdullah Muzahid
+Chris J. Newburn
+Michael F. P. O'Boyle
+David Padua
+Depei Qian
+Fabrice Rastello
+Lawrence Rauchwerger
+Vijay Janapa Reddi
+Behnam Robatmili
+Norm Rubin
+Jennifer B. Sartor
+Xipeng Shen
+Lingjia Tang
+Mike Taylor
+Mohit Tiwari
+James Tuck
+Cheng Wang
+Chenggang Wu
+Jingyue Wu
+Eddy Zhang
+Ben Zorn

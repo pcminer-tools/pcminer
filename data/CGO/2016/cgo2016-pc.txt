@@ -1,0 +1,40 @@
+P:Youfeng Wu
+P:Fabrice Rastello
+Erik Altman
+Saman Amarasinghe
+Edson Borin
+Florian Brandner
+Mauricio Breternitz
+Derek Bruening
+Vugranam C. Sreedhar
+Wenguang Chen
+Mila Dalla Preda
+Evelyn Duesterwald
+Guang Gao
+Antonio Gonzalez
+Christophe Guillon
+Sebastian Hack
+Ben Hardekopf
+Wei-Chung Hsu
+Robert Hundt
+Chris J. Newburn
+Vijay Janapa Reddi
+Alexandra Jimborean
+Alain Ketterlin
+Jaejin Lee
+Mary Lou Soffa
+Scott Mahlke
+Vineeth Mekkat
+John Mellor-Crummey
+Soo-mook Moon
+Tipp Moseley
+Dorit Nuzman
+Michael F. P. O'Boyle
+Ramesh Peri
+Louis-No&euml;l Pouchet
+Aaron Smith
+Cheng Wang
+Chenggang Wu
+Jingling Xue
+Qing Yi
+Antonia Zhai

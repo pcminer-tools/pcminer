@@ -1,0 +1,29 @@
+P:Tom Conte
+Al Aho
+Matthew Arnold
+Brad Calder
+Jeff Collard
+Dan Connors
+Keith Cooper
+Alain Darte
+Jack Davidson
+Brian Deitrich
+Paolo Faraboschi
+Rajiv Gupta
+Kim Hazelwood
+Michael Hind
+Wei Hsu
+Wen-mei Hwu
+Richard Johnson
+Scott Mahlke
+Frank Mueller
+Nacho Navarro
+Chris J. Newburn
+Diego Novillo
+Santosh Pande
+Jim Smith
+Mike Smith
+Katherine Stewart
+Hans van Someren
+Cliff Young
+Ben Zorn
