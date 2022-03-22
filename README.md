@@ -114,6 +114,10 @@ Adding a conference involves the following steps:
        need to be encoded* (see [here](http://www.utexas.edu/learn/html/spchar.html)
        for a list of HTML character codes).  For example, you'll need to
        encode a lowercase 'a' with an umlaut as `&auml;` or `&#228;`.
+       This can be done automatically with the `recode` utility using the
+       command `recode utf8..html` to read/write from standard input/output
+       or the commans `recode utf8..html FILE` to destructively modify the
+       file named FILE.
 
        By default, including a person's name in the committee-file means
        that they are assumed to be a PC member. For other roles (e.g.,
