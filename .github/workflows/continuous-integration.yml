@@ -1,0 +1,31 @@
+name: Continuous integration
+on:
+  pull_request:
+  push:
+concurrency:
+  group: ${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  build_gradle:
+    name: "JDK ${{ matrix.java }} on ${{ matrix.os }}"
+    strategy:
+      matrix:
+        include:
+          - os: ubuntu-latest
+            java: 11
+          - os: macos-latest
+            java: 11
+      fail-fast: false
+    runs-on: ${{ matrix.os }}
+    steps:
+      - name: Check out sources
+        uses: actions/checkout@v2
+      - name: 'Set up JDK ${{ matrix.java }}'
+        uses: actions/setup-java@v2
+        with:
+          java-version: ${{ matrix.java }}
+          distribution: 'temurin'
+      - name: Run and check formatting
+        uses: gradle/gradle-build-action@v2
+        with:
+          arguments: run verGJF
