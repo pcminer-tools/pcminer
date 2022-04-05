@@ -1,0 +1,39 @@
+P:David August
+P:Chris J. Newburn
+Ali-Reza Adl-Tabatabai
+Matthew Arnold
+Andy Ayers
+David Bacon
+Rastislav Bodik
+David Chase
+Cliff Click
+Robert Cohn
+Jeff Collard
+Dan Connors
+Tom Conte
+Jack Davidson
+Jim Dehnert
+Evelyn Duesterwald
+Carol Eidt
+Matthew Frank
+Seth Copen Goldstein
+Antonio Gonzalez
+Mary Hall
+Kim Hazelwood
+Maurice Herlihy
+Wei Hsu
+Richard Johnson
+Teresa Johnson
+Jens Knoop
+Christos Kozyrakis
+Chandra Krintz
+Olof Lindholm
+Toshio Nakatani
+Nacho Navarro
+Diego Novillo
+Michael Paleczny
+Keshav Pingali
+Michael D. Smith
+Olivier Temam
+David Walker
+Cliff Young

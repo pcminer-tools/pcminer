@@ -1,0 +1,40 @@
+P:Dragan Gasevic
+P:Eric Van Wyk
+Uwe A&szlig;mann
+Colin Atkinson
+Jean Bezivin
+Judith Bishop
+Marco Brambilla
+Martin Bravenboer
+Charles Consel
+Torbjorn Ekman
+Gregor Engels
+Robert Fuhrer
+Dragan Gasevic
+Martin Gogolla
+Jeff Gray
+Klaus Havelund
+Reiko Heckel
+Nigel Horspool
+Joe Kiniry
+Paul Klint
+Mitch Kokar
+Thomas Kuehne
+Julia Lawall
+Oege de Moor
+Pierre-Etienne Moreau
+Pierre-Alain Muller
+Richard Paige
+Jeff Z. Pan
+Jo&atilde;o Saraiva
+Michael I. Schwartzbach
+Anthony Sloane
+Steffen Staab
+Laurence Tratt
+Walid Taha
+Eli Tilevich
+Juha-Pekka Tolvanen
+Eric Van Wyk
+Jurgen Vinju
+Mike Whalen
+Steffen Zschaler

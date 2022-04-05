@@ -1,0 +1,44 @@
+P:Emilie Balland
+P:Daniel Varro
+Anya Helene Bagge
+Ruth Breu
+Jordi Cabot
+Marsha Chechik
+Marcus Denker
+Davide Di Ruscio
+Martin Erwig
+Bernd Fischer
+Sebastian Gerard
+Jeremy Gibbons
+Holger Giese
+Martin Gogolla
+Jeff Gray
+Esther Guerra
+G&ouml;rel Hedin
+Michael Homer
+Dimitris Kolovos
+Ralf Laemmel
+Julia Lawall
+Tihamer Levendovszky
+Heather Miller
+Pierre-Etienne Moreau
+Gunter Mussbacher
+Bruno C. d. S. Oliveira
+Terence Parr
+Julia Rubin
+Istv&aacute;n R&aacute;th
+Sibylle Schupp
+Bernhard Sch&auml;tz
+Anthony Sloane
+Eugene Syriani
+Emma S&ouml;derberg
+Gabriele Taentzer
+Eric Van Wyk
+Hans Vangheluwe
+Jurgen Vinju
+Guido Wachsmuth
+Eric Walkingshaw
+Manuel Wimmer
+Andrzej Wasowski
+Tian Zhang
+

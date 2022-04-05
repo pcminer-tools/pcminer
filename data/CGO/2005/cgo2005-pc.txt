@@ -1,0 +1,43 @@
+P:Brad Calder
+Vikram Adve
+David August
+Martin Burtscher
+Trishul Chilimbi
+Michal Cierniak
+Robert Cohn
+Osvaldo Colavin
+Dan Connors
+Tom Conte
+Keith Cooper
+Bob Davidson
+Jack Davidson
+Jim Dehnert
+Chen Ding
+Evelyn Duesterwald
+Antonio Gonzalez
+Mary Hall
+Rick Hank
+Michael Hind
+Roy Ju
+Chandra Krintz
+Ken Lueh
+Scott Mahlke
+Chris J. Newburn
+Kunle Olukotun
+Santosh Pande
+Martin C. Rinard
+Suleyman Sair
+Mike Schlansker
+Jim Smith
+Mike Smith
+Peter F. Sweeney
+Olivier Temam
+Partha Tirumalai
+Dean Tullsen
+Hoi Vo
+David Whalley
+Donald Yeung
+Cliff Young
+Youtao Zhang
+Craig Zilles
+Ben Zorn

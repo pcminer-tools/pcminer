@@ -1,0 +1,18 @@
+Radhia Cousot
+Koen De Bosschere
+Arie van Deursen
+Michael Ernst
+Sergei Gorlatch
+Chris Hankin
+Jens Knoop
+Shriram Krishnamurthi
+K. Rustan M. Leino
+Oege de Moor
+Greg Morrisett
+P:Alan Mycroft
+Morten Rhiger
+Barbara Ryder
+Frank Tip
+Des Watson
+Kwangkeun Yi
+P:Andreas Zeller

@@ -1,0 +1,33 @@
+P:Michael D. Smith
+Erik Altman
+David August
+Rastislav Bodik
+Brad Calder
+Calin Cascaval
+Robert Cohn
+Jeff Collard
+Dan Connors
+Keith Cooper
+Bob Davidson
+Jack Davidson
+Jim Dehnert
+Carole Dulong
+Christine Eisenbeis
+Michael Franz
+Chris Fraser
+Stefan Freudenberger
+Seth Copen Goldstein
+Antonio Gonzalez
+Rajiv Gupta
+Wen-mei Hwu
+Teresa Johnson
+Roy Ju
+Chandra Krintz
+Scott Mahlke
+Scott McFarling
+Chris J. Newburn
+Keshav Pingali
+Mary Lou Soffa
+Mario Wolczko
+Peng Wu
+Cliff Young

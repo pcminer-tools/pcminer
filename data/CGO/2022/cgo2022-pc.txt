@@ -1,0 +1,48 @@
+P:Sebastian Hack
+P:Tatiana Shpeisman
+Erik Altman
+Saman Amarasinghe
+Derek Bruening
+Simone Campanoni
+Jeronimo Castrillon
+Albert Cohen
+Huimin Cui
+Delphine Demange
+Yufei Ding
+Johannes Doerfert
+Christophe Dubach
+Naila Farooqui
+Xiaobing Feng
+Justin Gottschlich
+Tobias Grosser
+Ben Hardekopf
+Bettina Heim
+Wei-Chung Hsu
+Vijay Janapa Reddi
+Alexandra Jimborean
+Timothy M. Jones
+Changhee Jung
+Hanjun Kim
+Fredrik Kjolstad
+Hugh Leather
+Jaejin Lee
+Xu Liu
+Charith Mendis
+Madan Musuvathi
+Santosh Nagarakatte
+Guilherme Ottoni
+Yongjun Park
+Jacques Pienaar
+Markus P&uuml;schel
+Fabrice Rastello
+John Regehr
+Saday Sadayappan
+Michel Steuwer
+Ben L. Titzer
+Wenwen Wang
+Zheng Wang
+Christian Wimmer
+Weng-Fai Wong
+Peng Wu
+Antonia Zhai
+

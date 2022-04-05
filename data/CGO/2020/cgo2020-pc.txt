@@ -1,0 +1,43 @@
+P:Jingling Xue
+P:Peng Wu
+Aaron Smith
+Andrew Adams
+Antonia Zhai
+Ben Hardekopf
+Bj&ouml;rn Franke
+Bruce R. Childers
+Changhee Jung
+Christophe Dubach
+Damian Dechev
+Derek Bruening
+Erik Altman
+Fabrice Rastello
+Fredrik Kjolstad
+Gennady Pekhimenko
+Guilherme Ottoni
+Guoyang Chen
+Huimin Cui
+Jaejin Lee
+Jos&eacute; Nelson Amaral
+Lisa Wu
+Louis-No&euml;l Pouchet
+Mahmut T. Kandemir
+Mar&iacute;a Jes&uacute;s Garzar&aacute;n
+Michel Steuwer
+Pen-Chung Yew
+Rajkishore Barik
+Rajiv Gupta
+Sanjay Rajopadhye
+Simone Campanoni
+Snehasish Kumar
+Sreepathi Pai
+Svilen Kanev
+Teresa Johnson
+Timothy M. Jones
+Tobias Grosser
+Vijay Janapa Reddi
+Walter Binder
+Xipeng Shen
+Xu Liu
+Zheng Wang
+

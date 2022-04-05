@@ -1,0 +1,20 @@
+P:Koen De Bosschere
+P:Ranjit Jhala
+Umut Acar
+Gogul Balakrishnan
+Francois Bodin
+George C. Necula
+Albert Cohen
+Bj&ouml;rn Franke
+Grigori Fursin
+Andreas Gal
+Mary Hall
+Ben Hardekopf
+Jurgen J. Vinju
+Christian Lengauer
+Matt Might
+Alan Mycroft
+Keshav Pingali
+Eelco Visser
+Greta Yorsh
+Bern Zorn
