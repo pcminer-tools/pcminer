@@ -1,0 +1,148 @@
+P:Dan Hao
+P:Denys Poshyvanyk
+Nazareno Aguirre
+Shaukat Ali
+Dalal Alrajeh
+Sven Apel
+Alberto Bacchelli
+Earl T. Barr
+Benoit Baudry
+Gabriele Bavota
+Jonathan Bell
+Tegawend&eacute; F. Bissyand&eacute;
+Amiangshu Bosu
+Ray Buse
+Marcel B&ouml;hme
+Wing-Kwong Chan
+Oscar Chaparro
+Bihuan Chen
+Junjie Chen
+Zhenyu Chen
+Shing-Chi Cheung
+J&uuml;rgen Cito
+Christoph Csallner
+Hoa Khanh Dam
+James C. Davis
+Coen De Roover
+Ewen Denney
+Thomas Durieux
+Jean-R&eacute;my Falleri
+Mattia Fazzini
+Robert Feldt
+Bernd Fischer
+Gordon Fraser
+Cuiyun Gao
+Gregory Gay
+Milos Gligoric
+Michael Goedicke
+Alex Groce
+Lars Grunske
+Paul Gr&uuml;nbacher
+Tianxiao Gu
+Sonia Haiduc
+William G.J. Halfond
+Robert J. Hall
+Hideaki Hata
+Shinpei Hayashi
+Yoshiki Higo
+Michael Hilton
+Marianne Huchard
+Akinori Ihara
+He Jiang
+Jiajun Jiang
+Lingxiao Jiang
+Yanyan Jiang
+Eunsuk Kang
+Gregory Kapfhammer
+Maria Kechagia
+Timo Kehrer
+Fitsum Kifetew
+Jacques Klein
+Raula Gaikovina Kula
+Christian K&auml;stner
+Wei Le
+Xuan-Bach D. Le
+Grace Lewis
+Ge Li
+Li Li
+Ming Li
+Yi Li
+Mario Linares-V&aacute;squez
+Lingfeng Bao
+Ting Liu
+Yang Liu
+Yepang Liu
+David Lo
+Jie M. Zhang
+Lei Ma
+Shahar Maoz
+Leonardo Mariani
+Darko Marinov
+Collin McMillan
+Sergey Mechtaev
+Tim Menzies
+Ana Milanova
+Kevin Moran
+Adwait Nadkarni
+Jaechang Nam
+Christian D. Newman
+Tien N. Nguyen
+Alessandro Orso
+Fabio Palomba
+Rahul Pandita
+Xin Peng
+Justyna Petke
+Michael Pradel
+Mukul Prasad
+Sebastian Proksch
+Rahul Purandare
+Corina S. Pasareanu
+Chaiyong Rakhitwetsagul
+Baishakhi Ray
+Christoph Reichenbach
+Abhik Roychoudhury
+Julia Rubin
+Sukyoung Ryu
+Ripon Saha
+Hitesh Sajnani
+Simone Scalabrino
+Alexander Serebrenik
+Francisco Servant
+Bonita Sharif
+David C. Shepherd
+Elena Sherman
+August Shi
+Stefan Stanciulescu
+Jing Sun
+Jun Sun
+Shin Hwei Tan
+Chakkrit Tantithamthavorn
+Patanamon Thongtanunam
+Yuan Tian
+Michele Tufano
+Burak Turhan
+Christopher Vendome
+Michael Vierhauser
+Neil Walkinshaw
+Chao Wang
+Xiaoyin Wang
+Cody Watson
+Ming Wen
+Hyrum Wright
+Rongxin Wu
+Xin Xia
+Xusheng Xiao
+Zhenchang Xing
+Jifeng Xuan
+Tingting Yu
+Yijun Yu
+Tao Yue
+Andy Zaidman
+Hongyu Zhang
+Lingming Zhang
+Lu Zhang
+Jianjun Zhao
+Hao Zhong
+Minghui Zhou
+Andrea Zisman
+Ying Zou

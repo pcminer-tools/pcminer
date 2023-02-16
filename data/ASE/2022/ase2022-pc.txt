@@ -1,0 +1,157 @@
+P:Julia Rubin
+P:Shahar Maoz
+Silvia Abrah&atilde;o
+Rui Abreu
+Bram Adams
+Daniel Alencar Da Costa
+Saba Alimadadi
+Dalal Alrajeh
+Sven Apel
+Venera Arnaoudova
+Alberto Bacchelli
+Thomas Bach
+Luciano Baresi
+Earl T. Barr
+Gabriele Bavota
+Jonathan Bell
+Alexandre Bergel
+Thorsten Berger
+Ivan Beschastnikh
+Dirk Beyer
+Domenico Bianculli
+Christian Bird
+Tegawend&eacute; F. Bissyand&eacute;
+Timofey Bryksin
+Barbora Buhnova
+Nimrod Busany
+G&uuml;l Calikli
+Gemma Catolino
+Sudipta Chattopadhyay
+Chunyang Chen
+Junjie Chen
+Sen Chen
+Sridhar Chimalakonda
+Jacek Czerwonka
+Hoa Khanh Dam
+Maya Daneva
+Ewen Denney
+Xavier Devroey
+Massimiliano Di Penta
+Julian Dolby
+Alastair F. Donaldson
+Zhen Dong
+Lingling Fan
+Chunrong Fang
+Mattia Fazzini
+Antonio Filieri
+Bernd Fischer
+Gordon Fraser
+Thomas Fritz
+Alessandro Garcia
+Michael Goedicke
+Joel Greenyer
+Paul Gr&uuml;nbacher
+John Grundy
+Lars Grunske
+Arie Gurfinkel
+Alex Gyori
+Robert J. Hall
+Dan Hao
+Hadi Hemmati
+Reid Holmes
+Eunsuk Kang
+Maria Kechagia
+Foutse Khomh
+Jacques Klein
+Vladimir Kovalenko
+Anne Koziolek
+Jacob Kr&uuml;ger
+Raula Gaikovina Kula
+Wing Lam
+Julia Lawall
+Claire Le Goues
+Philipp Leitner
+Grace Lewis
+Ding Li
+Li Li
+Yi Li
+Hui Liu
+Yang Liu
+David Lo
+Fan Long
+Yiling Lou
+Xiapu Luo
+Lei Ma
+Sam Malek
+Leonardo Mariani
+Darko Marinov
+Collin McMillan
+Claudio Menghi
+Daniela Micucci
+Breno Miranda
+Kevin Moran
+Csaba Nagy
+Maleknaz Nayebi
+Shiva Nejati
+Nan Niu
+Yannic Noller
+Ipek Ozkaya
+Annibale Panichella
+Sebastiano Panichella
+Corina S. Pasareanu
+Justyna Petke
+Denys Poshyvanyk
+Michael Pradel
+Sebastian Proksch
+Hridesh Rajan
+Jan Oliver Ringert
+Paige Rodeghero
+Abhik Roychoudhury
+Mehrdad Sabetzadeh
+Houari Sahraoui
+Federica Sarro
+Alexander Serebrenik
+Weiyi Shang
+Bonita Sharif
+Elena Sherman
+Shurui Zhou
+Emma S&ouml;derberg
+Stefan Stanciulescu
+Margaret-Anne Storey
+Daniel Str&uuml;ber
+Yulei Sui
+Jun Sun
+Shin Hwei Tan
+Chakkrit Tantithamthavorn
+Patanamon Thongtanunam
+Yuan Tian
+Frank Tip
+Nikolaos Tsantalis
+Rachel Tzoref-Brill
+Sebastian Uchitel
+Arie van Deursen
+Sira Vegas
+Michael Vierhauser
+Haoyu Wang
+Shaowei Wang
+Shuai Wang
+Ying Wang
+Andrzej Wasowski
+Lili Wei
+Xin Xia
+Lu Xiao
+Xusheng Xiao
+Tao Xie
+Chang Xu
+Jingling Xue
+Yang Feng
+Wei Yang
+Ye Yang
+Tao Yue
+Andy Zaidman
+Vadim Zaytsev
+Charles Zhang
+Hongyu Zhang
+Jie M. Zhang
+Lingming Zhang
+Ying Zou
