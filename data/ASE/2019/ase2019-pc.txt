@@ -1,0 +1,101 @@
+P:Julia Lawall
+P:Darko Marinov
+Nazareno Aguirre
+Iftekhar Ahmed
+Amin Alipour
+Cyrille Artho
+Alberto Bacchelli
+Gabriele Bavota
+Jonathan Bell
+Tegawend&eacute; F. Bissyand&eacute;
+Marcel B&ouml;hme
+Haipeng Cai
+Marsha Chechik
+Feifei Chen
+Maria Christakis
+J&uuml;rgen Cito
+James Clause
+Lucas C. Cordeiro
+Christoph Csallner
+Coen De Roover
+Massimiliano Di Penta
+Matthew B Dwyer
+Nicol&aacute;s D&rsquo;Ippolito
+Jean-R&eacute;my Falleri
+Bernd Fischer
+Gordon Fraser
+Marcelo F. Frias
+Joshua Garcia
+Michael Goedicke
+Mark Grechanik
+Paul Gr&uuml;nbacher
+Jianmei Guo
+Robert J. Hall
+Dan Hao
+Hideaki Hata
+Emily Hill
+Paola Inverardi
+Ren&eacute; Just
+Massila Kamalrudin
+Timo Kehrer
+Marouane Kessentini
+Sarfraz Khurshid
+Raghavan Komondoor
+Christian K&auml;stner
+Claire Le Goues
+Bo Li
+Yang Liu
+David Lo
+Jian-Guang Lou
+Jie M. Zhang
+Lei Ma
+Shane McIntosh
+Sergey Mechtaev
+Tim Menzies
+Naouel Moha
+Sarah Nadi
+Maleknaz Nayebi
+Hoan Anh Nguyen
+Tung Nguyen
+Chris Parnin
+Karthik Pattabiraman
+Sebastian Proksch
+Corina S. Pasareanu
+Hridesh Rajan
+Baishakhi Ray
+Christoph Reichenbach
+Jos&eacute; Miguel Rojas
+Chanchal K. Roy
+Julia Rubin
+Ripon Saha
+Houari Sahraoui
+Ina Schaefer
+Bonita Sharif
+David C. Shepherd
+Elena Sherman
+Junaid Haroon Siddiqui
+Chengnian Sun
+Jun Sun
+Emma S&ouml;derberg
+Gabriele Taentzer
+Shin Hwei Tan
+Yuan Tian
+Bogdan Vasilescu
+Michael Vierhauser
+Kaiyuan Wang
+Weihang Wang
+Xiaoyin Wang
+Michael Whalen
+Xin Xia
+Xusheng Xiao
+Zhenchang Xing
+Yingfei Xiong
+Shin Yoo
+Tingting Yu
+Vadim Zaytsev
+Hongyu Zhang
+Lingming Zhang
+Lu Zhang
+Jianjun Zhao
+Minghui Zhou
+Marcelo d'Amorim

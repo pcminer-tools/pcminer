@@ -1,0 +1,150 @@
+P:Claire Le Goues
+P:David Lo
+Zhenyu Chen
+Titus Barik
+Christian Bird
+Cuiyun Gao
+Lingfeng Bao
+Jun Sun
+Lei Ma
+Ming Li
+Yuan Tian
+Rahul Purandare
+Lingxiao Jiang
+Yang Liu
+Abhik Roychoudhury
+Xuan-Bach D. Le
+Denys Poshyvanyk
+Li Li
+Hideaki Hata
+Alex Groce
+Christoph Treude
+Xin Xia
+Jonathan Bell
+Jianjun Zhao
+Darko Marinov
+Ray Buse
+Raghavan Komondoor
+Christoph Csallner
+Sarfraz Khurshid
+Xin Peng
+Alexander Serebrenik
+Michael Pradel
+Leonardo Mariani
+Andreas Zeller
+Andy Zaidman
+Alberto Bacchelli
+Thomas Durieux
+Julia Lawall
+Tegawend&eacute; F. Bissyand&eacute;
+Nazareno Aguirre
+Lisa Nguyen Quang Do
+Grace Lewis
+Sven Apel
+Jacques Klein
+Mark Harman
+Cor-Paul Bezemer
+Lingming Zhang
+Mukul Prasad
+Kevin Moran
+Elena Sherman
+Timo Kehrer
+Premkumar Devanbu
+Ripon Saha
+Eunsuk Kang
+Shahar Maoz
+Michael Vierhauser
+Fan Long
+Hongyu Zhang
+Gabriele Bavota
+Emerson Murphy-Hill
+Julia Rubin
+Rijnard van Tonder
+Hoa Khanh Dam
+Sebastian Proksch
+Maleknaz Nayebi
+Michael Hilton
+Gregory Kapfhammer
+Shin Hwei Tan
+Marianne Huchard
+Shin Yoo
+Kristin Yvonne Rozier
+Ivan Beschastnikh
+He Jiang
+Bernd Fischer
+Xiaoyuan Xie
+Saba Alimadadi
+Ipek Ozkaya
+Owolabi Legunsen
+Massimiliano Di Penta
+Francisco Servant
+Emma S&ouml;derberg
+Joshua Garcia
+Paul Gr&uuml;nbacher
+Aldeida Aleti
+Chaiyong Ragkhitwetsagul
+Akinori Ihara
+Chao Wang
+Chakkrit (Kla) Tantithamthavorn
+Raula Gaikovina Kula
+Jinqiu Yang
+Yi Li
+Shaowei Wang
+Wing-Kwong Chan
+Jing Sun
+Iftekhar Ahmed
+Tuba Yavuz
+Ting Liu
+Tao Yue
+Yijun Yu
+Marcel B&ouml;hme
+Chengnian Sun
+Yepang Liu
+Venera Arnaoudova
+Tianxiao Gu
+Bihuan Chen
+Gregory Gay
+Fabio Palomba
+Maria Kechagia
+Coen De Roover
+Sebastian Baltes
+Artur Andrzejak
+Sergey Mechtaev
+Neil Walkinshaw
+Jie M. Zhang
+Jifeng Xuan
+Andrea Zisman
+Arie van Deursen
+Earl T. Barr
+Justyna Petke
+ThanhVu Nguyen
+Grigore Ro&#351;u
+Christian K&auml;stner
+Tingting Yu
+Elisabetta Di Nitto
+Ana Milanova
+Rahul Pandita
+Lu Zhang
+Tayana Conte
+Jaechang Nam
+Patanamon Thongtanunam
+Jean-R&eacute;my Falleri
+Fitsum Kifetew
+J&uuml;rgen Cito
+Bonita Sharif
+Kim Herzig
+Shinpei Hayashi
+Eric Bodden
+Ying Zou
+Xiangyu Zhang
+Hitesh Sajnani
+Jaco Geldenhuys
+Minghui Zhou
+Domenico Bianculli
+Janet Siegmund
+Brittany Johnson
+Yuriy Brun
+Ewen Denney
+Zhiyuan Wan
+Xusheng Xiao
+Westley Weimer

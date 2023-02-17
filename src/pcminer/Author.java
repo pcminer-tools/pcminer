@@ -195,6 +195,7 @@ public final class Author implements Comparable<Author> {
     result = result.replace("&#214;", "&Ouml;");
     result = result.replace("&#216;", "&Oslash;");
     result = result.replace("&#218;", "&Uacute;");
+    result = result.replace("&#220;", "&Uuml;");
     result = result.replace("&#223;", "&szlig;");
     result = result.replace("&#224;", "&agrave;");
     result = result.replace("&#225;", "&aacute;");
@@ -233,6 +234,7 @@ public final class Author implements Comparable<Author> {
     result = result.replace("&#0214;", "&Ouml;");
     result = result.replace("&#0216;", "&Oslash;");
     result = result.replace("&#0218;", "&Uacute;");
+    result = result.replace("&#0220;", "&Uuml;");
     result = result.replace("&#0223;", "&szlig;");
     result = result.replace("&#0224;", "&agrave;");
     result = result.replace("&#0225;", "&aacute;");
