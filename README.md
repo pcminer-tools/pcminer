@@ -54,7 +54,7 @@ selector, press the "Display selected names" button.
 II. Adding conferences to PC-miner
 ----------------------------------
 The PC-miner generator tool is a Java application that you can build and run using
-Eclipse. To run PC-miner, right-click on the class pcminer.PCMiner, and select 
+Eclipse. To run PC-miner, right-click on the class pcminer.PCMiner.java, and select
 Run As->Java Application. No configuration should be necessary.  From the command
 line, you can run `./gradlew run` from the `pcminer` root directory to run the
 generator tool.
@@ -130,7 +130,7 @@ Adding a conference involves the following steps:
          
 5. Once your files are all in place, you can generate the UI by running PCMiner.java.
    (To compile and run, you need in your classpath the jar files in subdirectory lib.)
-   This will generate an updated version of the file ui/data.js. Opening
+   This will generate an updated version of the file ui/js/data.js. Opening
    ui/index.html in your browser will bring up a version of PC-miner that
    contains the conference you just added.  Please contribute any data
    you added, so that others can benefit from your efforts.
