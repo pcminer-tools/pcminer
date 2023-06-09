@@ -6,14 +6,14 @@ Laura M. Castro
 John Clements
 Youyou Cong
 Paul Downen
-Kathy Gray
+Kathryn E. Gray
 Ben Greenman
 Jason Hemann
 Patricia Johann
 Alexis King
 Julia Lawall
 Daniel Patterson
-Barak Pearlmutter
+Barak A. Pearlmutter
 Norman Ramsey
 Ilya Sergey
 Melinda T&oacute;th
