@@ -77,9 +77,9 @@ Adding a conference involves the following steps:
 
 1. create a new subdirectory in the "data" directory with a name matching the conference
    acronym (e.g., "PLDI").  **Note:** Data for conferences corresponding to
-   [PACMPL](https://dl.acm.org/journal/pacmpl) issues (currently POPL, ICFP, and
-   OOPSLA) is now stored in the `data/PACMPL` directory (from the year of the
-   PACMPL switch onward).
+   [PACMPL](https://dl.acm.org/journal/pacmpl) issues (currently POPL, ICFP,
+   OOPSLA, and PLDI) is now stored in the `data/PACMPL` directory (from the year
+   of the PACMPL switch onward).
    
 2. create a file "color" inside of this directory. This file should contain a single
    line that provides a name or hexcode of your preferred color (e.g, "#3BB9FF")
