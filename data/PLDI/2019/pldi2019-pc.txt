@@ -67,7 +67,7 @@ E:Ting Cao
 E:Stephen Chang
 E:Shing-Chi Cheung
 E:Stephen Chong
-E:Christina Delimitriou
+E:Christina Delimitrou
 E:Chen Ding
 E:Yufei Ding
 E:Alexandra (Sasha) Fedorova
