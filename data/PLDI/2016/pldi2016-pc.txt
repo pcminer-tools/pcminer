@@ -95,7 +95,7 @@ E:Rodric Rabbah
 E:Arjun Radhakrishna
 E:Cosmin Radoi
 E:Jonathan Ragan-Kelley
-E:Mukund Raghotaman
+E:Mukund Raghothaman
 E:Aseem Rastogi
 E:Veselin Raychev
 E:Cole Schlesinger

@@ -38,7 +38,7 @@ John Wickerson
 Ayal Zaks
 Eddy (Zheng) Zhang
 E:Jade Alglave
-E:Saman Amarsinghe
+E:Saman Amarasinghe
 E:Steve Blackburn
 E:Rastislav Bodik
 E:Satish Chandra
@@ -67,7 +67,7 @@ E:Ting Cao
 E:Stephen Chang
 E:Shing-Chi Cheung
 E:Stephen Chong
-E:Christina Delimitriou
+E:Christina Delimitrou
 E:Chen Ding
 E:Yufei Ding
 E:Alexandra (Sasha) Fedorova
