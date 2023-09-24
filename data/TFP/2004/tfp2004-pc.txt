@@ -6,7 +6,7 @@ John Hughes
 Rita Loogen
 Greg Michaelson
 John O'Donnell
-Ricardo Pena
+Ricardo Pe&ntilde;a
 Philip W. Trinder
 Marko van Eekelen
 Philip Wadler
