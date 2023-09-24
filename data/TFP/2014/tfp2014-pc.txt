@@ -11,7 +11,7 @@ Andrew Kennedy
 Tamas Kozsik
 Ben Lippmeier
 Luc Maranget
-Marco T. Morazan
+Marco T. Moraz&aacute;n
 Ricardo Pena
 Alexey Rodriguez
 Sven-Bodo Scholz
