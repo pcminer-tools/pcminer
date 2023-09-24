@@ -3,7 +3,7 @@ P:Jay McCarthy
 Peter Achten
 Emil Axelsson
 Lucilia Camarao de Figueiredo
-Laura Castro
+Laura M. Castro
 Frank Huch
 Matthew Fluet
 Yukiyoshi Kameyama
@@ -12,12 +12,12 @@ Tamas Kozsik
 Ben Lippmeier
 Luc Maranget
 Marco T. Moraz&aacute;n
-Ricardo Pena
+Ricardo Pe&ntilde;a
 Alexey Rodriguez
 Sven-Bodo Scholz
 Manuel Serrano
 Simon Thompson
 Tarmo Uustalu
 David Van Horn
-Janis Voigtlaender
+Janis Voigtl&auml;nder
 

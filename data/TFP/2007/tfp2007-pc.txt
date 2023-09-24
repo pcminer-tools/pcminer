@@ -10,7 +10,7 @@ Greg Michaelson
 Henrik Nilsson
 Chris Okasaki
 Rex Page
-Ricardo Pena
+Ricardo Pe&ntilde;a
 Benjamin C. Pierce
 John Reppy
 Ulrik P. Schultz
