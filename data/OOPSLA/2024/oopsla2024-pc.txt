@@ -1,0 +1,84 @@
+P:Alex Potanin
+P:Bor-Yuh Evan Chang 
+Jonathan Bell
+Di Wang
+Yu David Liu
+Andreas Zeller
+Yingfei Xiong
+Bruno C. d. S. Oliveira
+Bernardo Toninho
+Stefan Brunthaler
+Matthew Flatt
+Filip Niksic
+Kenji Maillard
+Wei Le
+Tiark Rompf
+Colin Gordon
+Xiaokang Qiu
+Sreepathi Pai
+Swarnendu Biswas
+Pavel Panchekha
+Thanh Vu Nguyen
+Subhajit Roy
+Yu Feng
+Yuepeng Wang
+Ashish Tiwari
+Benjamin Delaware
+Sean Treichler
+David Darais
+Mohamed Faouzi Atig
+Juliana Franco
+Owolabi Legunsen
+Karine Even-Mendoza
+Tomas Petricek
+Tien Nguyen
+Rajiv Gupta
+Sheng Chen
+Matthew Parkinson
+Steve Blackburn
+Lingming Zhang
+Sukyoung Ryu
+Cyrus Omar
+Youyou Cong
+Emma Söderberg
+Fredrik Kjolstad
+Dana Drachsler Cohen
+Guido Salvaneschi
+Justin Hsu
+Rahul Gopinath
+Ben Hermann
+Sylvan Clebsch
+Emma Tosch
+Shigeru Chiba
+Ben Titzer
+Yizhou Zhang
+Damien Zufferey
+Minseok Jeon
+Burcu Kulahcioglu Ozkan
+Hila Peleg
+Ankush Desai
+Jonathan Brachthäuser
+Anitha Gollamudi
+Michael Coblenz
+Fabian Muehlboeck
+Anders Møller
+Joseph Tassarotti
+Jiasi Shen
+Alex Summers
+Pamela Zave
+Shaz Qadeer
+Saman Amarasinghe
+Ana Milanova
+Aleksandar Nanevski
+Corina Pasarenau
+David Pearce
+Wei Zhang 
+Fei He
+Shachar Itzhaky
+Casper Bach Poulsen
+Alexandra Bugariu
+Max Schaefer
+Shriram Krishnamurthi
+Milos Gligoric
+Umut Acar
+Santosh Pande

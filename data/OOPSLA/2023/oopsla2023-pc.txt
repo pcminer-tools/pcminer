@@ -1,0 +1,77 @@
+P:Mira Mezini
+Crista Lopes
+Cindy Rubio-González
+Nadia  Polikarpova
+Mangpo  Phothilimthana
+Dana Drachsler Cohen
+Görel  Hedin
+Philipp  Haller
+Neel  Krishnaswami
+Pascal Weisenburger
+Sebastian  Burkhardt
+Arjun Guha
+Peter Thiemann
+Annette  Bieniusa
+Elisa Gonzalez Boix
+James Noble
+Marianna  Rapoport
+Dan  Grossman
+Stefanie  Balzer
+Fabrizio Montesi
+Burcu  Kulahcioglu Ozkan
+Peter Alvaro
+Benjamin Pierce
+Sarah Nadi
+Guido  Salvaneschi
+Sebastian  Erdweg
+Anitha Gollamudi
+Jonathan Aldrich
+Charles  Sutton
+Manu  Sridharan
+Ilya  Sergey
+Klaus Ostermann
+Karim Ali
+Sukyoung  Ryu
+Dimitrios  Vytiniotis
+Ranjit Jhala
+David  Walker
+Heather Miller
+Conrad Watt
+Hongjin  Liang
+Hidehiko Masuhara
+Steven  Holtzen
+Armando  Solar-Lezama
+Mark  Santolucito
+Atsushi  Igarashi
+Shaz  Qadeer
+Justin  Hsu
+Sorin  Lerner
+Albert Cohen
+Viktor Vafeiadis
+Qirun Zhang
+James  Cheney
+Gowtham  Kaki
+Joseph  Tassarotti
+Matthew  Flatt
+Bruno C. d. S.  Oliveira
+Wolfgang  De Meuter
+Dominique  Devriese
+Michael  Pradel
+Vasco Vasconcelos
+Jeremy  Gibbons
+Anders  Møller
+Andrew  Gordon
+Osbert  Bastani
+Ana  Milanova
+Ross  Tate
+Tijs  van der Storm
+Kenji  Maillard
+Jana  Dunfield
+Bernardo  Toninho
+Satish  Chandra
+Ragnar Mogk
+Derek Dreyer
+Shriram  Krishnamurthi
+Jan Vitek
+Sophia Drosopolou
+Patrick  Eugster
