@@ -82,3 +82,27 @@ Shriram Krishnamurthi
 Milos Gligoric
 Umut Acar
 Santosh Pande
+Jeremy Gibbons
+Tobias Wrigstad
+Andreas Pavlogiannis
+Parosh Aziz Abdulla
+Walter Binder
+Yulei Sui
+Kihong Heo
+Amir Kafshdar Goharshady
+Zhiqiang Zuo
+Earl Barr
+K.C. Sivaramakrishnan
+Noam Rinetzky
+Tobias Grosser
+Tamás Szabó
+Xin Zhang
+Bernhard Scholz
+Ori Lahav
+Sebastian Hack
+Grigore Rosu
+Werner Dietl
+Robbert Krebbers
+James Larus
+Cezara Drăgoi
+Liyi Li
