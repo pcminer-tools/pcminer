@@ -180,7 +180,7 @@ public class PCMiner {
                     // This entry is a PACMPL journal entry. The 'id' tag has the format
                     // "nrCONFNAME".
                     String confName = ht.getAttribute("id").substring(2);
-                    theConference = confName;
+                    theConference = fixPACMPLConfName(confName);
                     theSession = "";
                     ensureConfYear(theConference, theYear);
                   } else if (ish2(ht)) {
@@ -211,6 +211,14 @@ public class PCMiner {
     } catch (ParserException e) {
       // TODO Auto-generated catch block
       e.printStackTrace();
+    }
+  }
+
+  private static String fixPACMPLConfName(String confName) {
+    if (confName.equals("OOPSLA1") || confName.equals("OOPSLA2")) {
+      return "OOPSLA";
+    } else {
+      return confName;
     }
   }
 
