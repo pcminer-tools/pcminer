@@ -242,8 +242,11 @@ public class PCMiner {
               Node child = tag.getChildren().elementAt(0);
               if (child instanceof Text) {
                 String authorName = ((Text) child).getText();
-                Author author = Author.findOrCreate(authorName);
-                theAuthors.add(author);
+                // hack!
+                if (!authorName.contains("dblp.org")) {
+                  Author author = Author.findOrCreate(authorName);
+                  theAuthors.add(author);
+                }
               }
             } else if (tag instanceof Span) {
               Span span = (Span) tag;
