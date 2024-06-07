@@ -180,7 +180,7 @@ public class PCMiner {
                     // This entry is a PACMPL journal entry. The 'id' tag has the format
                     // "nrCONFNAME".
                     String confName = ht.getAttribute("id").substring(2);
-                    theConference = confName;
+                    theConference = fixPACMPLConfName(confName);
                     theSession = "";
                     ensureConfYear(theConference, theYear);
                   } else if (ish2(ht)) {
@@ -214,6 +214,14 @@ public class PCMiner {
     }
   }
 
+  private static String fixPACMPLConfName(String confName) {
+    if (confName.equals("OOPSLA1") || confName.equals("OOPSLA2")) {
+      return "OOPSLA";
+    } else {
+      return confName;
+    }
+  }
+
   /** helper function to find the title of a paper. */
   private void findTitle(Node node) {
     node.accept(
@@ -242,8 +250,11 @@ public class PCMiner {
               Node child = tag.getChildren().elementAt(0);
               if (child instanceof Text) {
                 String authorName = ((Text) child).getText();
-                Author author = Author.findOrCreate(authorName);
-                theAuthors.add(author);
+                // hack!
+                if (!authorName.contains("dblp.org")) {
+                  Author author = Author.findOrCreate(authorName);
+                  theAuthors.add(author);
+                }
               }
             } else if (tag instanceof Span) {
               Span span = (Span) tag;
