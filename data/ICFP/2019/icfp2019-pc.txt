@@ -1,8 +1,8 @@
-P:François Pottier
+P:Fran&#231;ois Pottier
 Lennart Beringer
 Joachim Breitner
 Laura M. Castro
-Ezgi Çiçek
+Ezgi &#199;i&#231;ek
 Pierre-Evariste Dagand
 Christos Dimoulas
 Jacques-Henri Jourdan
@@ -24,7 +24,7 @@ E:Sheng Chen
 E:James Cheney
 E:Adam Chlipala
 E:Evelyne Contejean
-E:Germán Andrés Delbianco
+E:Germ&#225;n Andr&#233;s Delbianco
 E:Dominique Devriese
 E:Richard A. Eisenberg
 E:Conal Elliott
@@ -40,14 +40,14 @@ E:Ralf Jung
 E:Ohad Kammar
 E:Oleg Kiselyov
 E:Hsiang-Shang ‘Josh’ Ko
-E:Ondřej Lhoták
+E:Ondrej Lhot&aacute;k
 E:Dan Licata
 E:Geoffrey Mainland
 E:Simon Marlow
 E:Akimasa Morihata
 E:Shin-Cheng Mu
 E:Guillaume Munch-Maccagnoni
-E:Kim Nguyễn
+E:Kim Nguyen
 E:Ulf Norell
 E:Atsushi Ohori
 E:Rex Page

@@ -10,7 +10,7 @@ Jeff Huang
 Rezwana Karim
 Lindsey Kuper
 Todd Millstein
-Anders Møller
+Anders M&oslash;ller
 Santosh Nagarakatte
 Nina Narodytska
 Hakjoo Oh
@@ -42,7 +42,7 @@ E:Ana Milanova
 E:Madan Musuvathi
 E:Robert O'Callahan
 E:Uday P. Khedker
-E:Fernando Magno Quintão Pereira
+E:Fernando Magno Quint&atilde;o Pereira
 E:Rodric Rabbah
 E:Noam Rinetzky
 E:Tiark Rompf

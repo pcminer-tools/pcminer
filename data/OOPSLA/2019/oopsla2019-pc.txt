@@ -13,7 +13,7 @@ Martin Hirzel
 Marieke Huisman
 Gail Kaiser
 Eric Koskinen
-Ondřej Lhoták
+Ondrej Lhot&aacute;k
 Yu David Liu
 Brandon Lucia
 Heather Miller
@@ -46,7 +46,7 @@ E:Christine H. Flood
 E:Jeff Huang
 E:Ranjit Jhala
 E:Stephen Kell
-E:Viktor Kunčak
+E:Viktor Kuncak
 E:Christian Kästner
 E:Crista Lopes
 E:Sasa Misailovic

@@ -80,10 +80,10 @@ E:Mahmut Taylan Kandemir
 E:Eric Koskinen
 E:Lindsey Kuper
 E:Doug Lea
-E:Ondřej Lhoták
+E:Ondrej Lhot&aacute;k
 E:Tongping Liu
 E:Anil Madhavapeddy
-E:Michaël Marcozzi
+E:Micha&#235;l Marcozzi
 E:Darko Marinov
 E:Saurav Muralidharan
 E:Magnus O. Myreen

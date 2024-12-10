@@ -12,7 +12,7 @@ Robert Hirschfeld
 Jeff Huang
 Atsushi Igarashi
 Chandra Krintz
-Viktor Kunčak
+Viktor Kuncak
 Patrick Lam
 Doug Lea
 Mohsen Lesani
@@ -45,16 +45,16 @@ E:Dan Grossman
 E:Sam Guyer
 E:Philipp Haller
 E:Marieke Huisman
-E:Ondřej Lhoták
+E:Ondrej Lhot&aacute;k
 E:Louis Mandel
 E:Sasa Misailovic
-E:Anders Møller
+E:Anders M&oslash;ller
 E:Hakjoo Oh
 E:Jens Palsberg
 E:Erez Petrank
 E:Benjamin C. Pierce
 E:Michael Pradel
-E:Márcio Ribeiro
+E:M&aacute;rcio Ribeiro
 E:Olivier Tardieu
 E:Zachary Tatlock
 E:Frank Tip
