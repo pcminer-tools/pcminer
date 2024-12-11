@@ -1,7 +1,7 @@
 G:A Min Tjoa
 P:Volker Gruhn
 Israel Ben-Shaul
-Alfred Bršckers
+Alfred Br&#246;ckers
 Johannes Bumiller
 Christine Choppy
 Gianpaolo Cugola
@@ -21,7 +21,7 @@ Gerti Kappel
 Rudolf K. Keller
 Axel van Lamsweerde
 Nenad Medvidovic
-WalcŽlio L. Melo
+Walcï¿½lio L. Melo
 Carlo Montangero
 David Notkin
 Bashar Nuseibeh

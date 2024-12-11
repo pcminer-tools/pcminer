@@ -1,6 +1,7 @@
 Gul Agha->Gul A. Agha
 Amal Ahmed->Amal J. Ahmed
 Alex Aiken->Alexander Aiken
+Kristoffer J. Andersen->Kristoffer Just Andersen
 Stephen Blackburn->Stephen M. Blackburn
 Stephen Fink->Stephen J. Fink
 Simon Gibbs->Simon J. Gibbs
@@ -194,6 +195,7 @@ Christos Kozyrakis->Christoforos E. Kozyrakis
 Ingolf Kr&uuml;ger->Ingolf H. Kr&uuml;ger
 Aditya Kulkarni->Aditya Rajeev Kulkarni
 Naveen Kulkarni->Naveen N. Kulkarni
+Viktor Kunčak->Viktor Kuncak
 Shuvendu Lahiri->Shuvendu K. Lahiri
 Albert Lai->Albert Y. C. Lai
 Erica Lan->Erica S.-C. Lan

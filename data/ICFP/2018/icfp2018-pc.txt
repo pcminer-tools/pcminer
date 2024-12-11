@@ -44,7 +44,7 @@ E:Trevor L. McDonell
 E:Hernan Melgratti
 E:Akimasa Morihata
 E:Aleksandar Nanevski
-E:Kim Nguyễn
+E:Kim Nguyen
 E:Cosmin Oancea
 E:Bruno C. d. S. Oliveira
 E:Tomas Petricek

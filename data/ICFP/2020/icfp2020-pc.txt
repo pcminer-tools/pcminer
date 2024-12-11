@@ -42,7 +42,7 @@ E:Jan Midtgaard
 E:Andrey Mokhov
 E:J. Garrett Morris
 E:Stefan Muller
-E:Rasmus Ejlers Møgelberg
+E:Rasmus Ejlers M&#248;gelberg
 E:Cyrus Omar
 E:Dominic Orchard
 E:Ivan Perez

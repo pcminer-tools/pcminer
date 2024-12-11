@@ -3,7 +3,7 @@ P:William G. Griswold
 P:Bashar Nuseibeh
 Jonathan Aldrich
 George S. Avrunin
-V’ctor A. Braberman
+V&#237;ctor A. Braberman
 Tevfik Bultan
 S. C. Cheung
 Elisabetta Di Nitto
@@ -35,7 +35,7 @@ John Mylopoulos
 Harold Ossher
 Leon J. Osterweil
 Jens Palsberg
-Juan Fernández-Ramil
+Juan Fernï¿½ndez-Ramil
 David S. Rosenblum
 Mary Lou Soffa
 Kevin J. Sullivan

@@ -16,7 +16,7 @@ Naoki Kobayashi
 Viktor Kuncak
 Kenneth L. McMillan
 Anders M&oslash;ller
-Peter MŸller
+Peter M&#252;ller
 Aleksandar Nanevski
 David A. Naumann
 Prakash Panangaden

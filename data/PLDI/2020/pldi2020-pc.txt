@@ -9,7 +9,7 @@ Satish Chandra
 Alvin Cheung
 Isil Dillig
 Yufei Ding
-Cezara Drăgoi
+Cezara Dragoi
 Stephen Freund
 Patrice Godefroid
 Ronghui Gu
@@ -49,9 +49,9 @@ E:Julian Dolby
 E:Nate Foster
 E:Tony Hosking
 E:Aditya Kanade
-E:Viktor Kunčak
+E:Viktor Kuncak
 E:Sorin Lerner
-E:Ondřej Lhoták
+E:Ondrej Lhot&aacute;k
 E:Madan Musuvathi
 E:Guilherme Ottoni
 E:Erez Petrank

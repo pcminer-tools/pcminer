@@ -57,11 +57,11 @@ Minseok Jeon
 Burcu Kulahcioglu Ozkan
 Hila Peleg
 Ankush Desai
-Jonathan Brachthäuser
+Jonathan Immanuel Brachth&#228;user
 Anitha Gollamudi
 Michael Coblenz
 Fabian Muehlboeck
-Anders Møller
+Anders M&oslash;ller
 Joseph Tassarotti
 Jiasi Shen
 Alex Summers
@@ -95,7 +95,7 @@ Earl Barr
 K.C. Sivaramakrishnan
 Noam Rinetzky
 Tobias Grosser
-Tamás Szabó
+Tam&#225;s Szab&#243;
 Xin Zhang
 Bernhard Scholz
 Ori Lahav
@@ -104,5 +104,5 @@ Grigore Rosu
 Werner Dietl
 Robbert Krebbers
 James Larus
-Cezara Drăgoi
+Cezara Dragoi
 Liyi Li
