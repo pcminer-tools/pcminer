@@ -193,8 +193,9 @@ public class PCMiner {
                         TextNode tn = (TextNode) node;
                         String sessionName = tn.getText();
                         sessionName =
-                            sessionName.replace(
-                                "\n", ""); // apparently, some session names contain line breaks
+                            sessionName
+                                .replace("\n", " ")
+                                .replace("\r", " "); // some session names contain line breaks
                         theSession = sessionName;
                       }
                     }
