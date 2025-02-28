@@ -1,7 +1,7 @@
 package pcminer;
 
-import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
 
@@ -145,8 +145,8 @@ public final class Author implements Comparable<Author> {
   private final Set<Publication> publications;
   private final Set<CommitteeRole> committees;
 
-  private static Map<String, String> nameMappings = new HashMap<String, String>();
-  private static Map<Author, Author> authors = new HashMap<Author, Author>();
+  private static Map<String, String> nameMappings = new LinkedHashMap<>();
+  private static Map<Author, Author> authors = new LinkedHashMap<>();
 
   public static void addNameMapping(String from, String to) {
     nameMappings.put(from, to);
