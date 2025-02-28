@@ -561,8 +561,12 @@ var pcminer = (function () {
 
           var text = "";
 
-          // Google Scholar and DBLP search links
+          // search links
           text += "<br><b>search</b><br>";
+          text +=
+            "<a href='https://google.com/search?q=" +
+            encodeForUrl(list[i].author) +
+            '"\' target="_blank">Google</a><br>';
           text +=
             "<a href='https://scholar.google.com/scholar?q=author%3A\"" +
             encodeForUrl(list[i].author) +
