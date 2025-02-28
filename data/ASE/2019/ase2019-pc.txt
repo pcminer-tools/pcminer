@@ -20,7 +20,7 @@ Christoph Csallner
 Coen De Roover
 Massimiliano Di Penta
 Matthew B Dwyer
-Nicol&aacute;s D&rsquo;Ippolito
+Nicol&aacute;s D'Ippolito
 Jean-R&eacute;my Falleri
 Bernd Fischer
 Gordon Fraser
