@@ -67,7 +67,7 @@ Stephen Kell
 Ariel E. Kellison
 Fredrik Kjolstad
 Thomas Koehler
-Viktor Kun&#269;ak
+Viktor Kunčak
 Ignacio Laguna
 Leonidas Lampropoulos
 Daan Leijen

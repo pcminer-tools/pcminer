@@ -263,6 +263,7 @@ public final class Author implements Comparable<Author> {
     result = result.replace("&#0251;", "&ucirc;");
     result = result.replace("&#0252;", "&uuml;");
     result = result.replace("&#0253;", "&yacute;");
+    result = result.replace("&#269;", "&ccaron;");
 
     if (result.contains("&#")) {
 
