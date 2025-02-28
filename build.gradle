@@ -1,5 +1,5 @@
 plugins {
-    id "com.github.sherter.google-java-format" version "0.9"
+    id("com.diffplug.spotless") version "7.0.2"
 }
 
 apply plugin: 'java'
@@ -9,8 +9,13 @@ repositories {
     mavenCentral()
 }
 
-sourceCompatibility = 1.8
 version = '0.1'
+
+java {
+    toolchain {
+        languageVersion.set(JavaLanguageVersion.of(21))
+    }
+}
 
 sourceSets {
     main {
@@ -24,8 +29,10 @@ dependencies {
     implementation files('lib/htmllexer.jar', 'lib/htmlparser.jar')
 }
 
-googleJavaFormat {
-    toolVersion = "1.7"
+spotless {
+    java {
+        googleJavaFormat("1.25.2")
+    }
 }
 
 mainClassName = "pcminer.PCMiner"
