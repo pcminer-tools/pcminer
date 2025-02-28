@@ -1,0 +1,92 @@
+P:Derek Dreyer
+Alastair F. Donaldson
+Alexandra Silva
+Emina Torlak
+Steve Zdancewic
+Ahmed Bouajjani
+Alejandro Aguirre
+Alexey Gotsman
+Amin Timany
+Andreas Pavlogiannis
+Andrei Popescu
+Andrew K. Hirsch
+Andrew M. Pitts
+Andrew W. Appel
+Ankush Das
+Anton Podkopaev
+Arjun Radhakrishna
+Assia Mahboubi
+Aws Albarghouthi
+Aymeric Fromherz
+Ben L. Titzer
+Bernd Finkbeiner
+Cameron Freer
+Carla Ferreira
+Carlo Angiuli
+Casper Bach
+Cătălin Hriţcu
+Christine Rizkallah
+Colin Gordon
+Dariusz Biernacki
+Denis Merigoux
+Dominique Devriese
+Emanuele D’Osualdo
+Francesco Gavazzo
+Fraser Brown
+Fritz Henglein
+Gagandeep Singh
+Georg Zetzsche
+Gregory Malecha
+Guilhem Jaber
+Hila Peleg
+Hiroshi Unno
+James Riely
+Jean Pichon-Pharabod
+Jeehoon Kang
+Jennifer Paykin
+Jeremy G. Siek
+Jonathan Immanuel Brachthäuser
+Jonathan Protzenko
+Jules Villard
+Kathrin Stark
+KC Sivaramakrishnan
+Kristina Sojakova
+Kuen-Bang Hou (Favonia)
+Limin Jia
+Mae Milano
+Max S. New
+Max Willsey
+Michael Hicks
+Neil Julien Ross
+Nick Benton
+Nikos Tzevelekos
+Peter Müller
+Peter Sewell
+Pierre-Marie Pédrot
+Roberto Giacobazzi
+Rodolphe Lepigre
+Ronald Garcia
+Satnam Singh
+Simon Peyton Jones
+Soham Chakraborty
+Sophia Drossopoulou
+Sriram Rajamani
+Stefan K. Muller
+Stephen Dolan
+Steven Ramsay
+Suguman Bansal
+Sukyoung Ryu
+Susmit Sarkar
+Talia Ringer
+Thomas Reps
+Thomas Wies
+Tiark Rompf
+Ulf Norell
+William Mansky
+Xiaodi Wu
+Xiaokang Qiu
+Xinyu Feng
+Yannick Zakowski
+Yizhou Zhang
+Zachary Kincaid
+
