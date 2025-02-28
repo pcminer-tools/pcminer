@@ -10,8 +10,8 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.HashSet;
 import java.util.LinkedHashMap;
+import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -52,7 +52,7 @@ public class PCMiner {
   private String thePageNums = null;
   private List<Author> theAuthors = new ArrayList<Author>();
 
-  private Set<Publication> publications = new HashSet<Publication>();
+  private Set<Publication> publications = new LinkedHashSet<>();
 
   public static void main(String[] args) throws IOException {
     if (args.length != 0) {
@@ -139,7 +139,7 @@ public class PCMiner {
 
   private void ensureConfYear(String confName, String year) {
     if (!confYears.containsKey(confName)) {
-      confYears.put(confName, new HashSet<String>());
+      confYears.put(confName, new LinkedHashSet<>());
     }
     confYears.get(confName).add(year);
   }
