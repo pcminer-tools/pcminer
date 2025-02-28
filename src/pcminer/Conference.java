@@ -1,6 +1,6 @@
 package pcminer;
 
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class Conference {
@@ -56,7 +56,7 @@ public class Conference {
     return name;
   }
 
-  private static Map<Conference, Conference> conferences = new HashMap<Conference, Conference>();
+  private static Map<Conference, Conference> conferences = new LinkedHashMap<>();
 
   private final String name;
 }

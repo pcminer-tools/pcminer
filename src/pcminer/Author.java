@@ -1,7 +1,7 @@
 package pcminer;
 
-import java.util.HashMap;
-import java.util.HashSet;
+import java.util.LinkedHashMap;
+import java.util.LinkedHashSet;
 import java.util.Map;
 import java.util.Set;
 
@@ -25,8 +25,8 @@ public final class Author implements Comparable<Author> {
         (name.indexOf(" ") != -1) ? name.substring(0, name.lastIndexOf(" ")).trim() : "";
     this.lastName =
         (name.indexOf(" ") != -1) ? name.substring(name.lastIndexOf(" ") + 1).trim() : name;
-    this.publications = new HashSet<Publication>();
-    this.committees = new HashSet<CommitteeRole>();
+    this.publications = new LinkedHashSet<>();
+    this.committees = new LinkedHashSet<>();
   }
 
   public void addPublication(Publication pub) {
@@ -145,15 +145,15 @@ public final class Author implements Comparable<Author> {
   private final Set<Publication> publications;
   private final Set<CommitteeRole> committees;
 
-  private static Map<String, String> nameMappings = new HashMap<String, String>();
-  private static Map<Author, Author> authors = new HashMap<Author, Author>();
+  private static Map<String, String> nameMappings = new LinkedHashMap<>();
+  private static Map<Author, Author> authors = new LinkedHashMap<>();
 
   public static void addNameMapping(String from, String to) {
     nameMappings.put(from, to);
   }
 
   public static Set<Author> getAuthors() {
-    return new HashSet<Author>(authors.keySet());
+    return new LinkedHashSet<>(authors.keySet());
   }
 
   public static int nrAuthors() {

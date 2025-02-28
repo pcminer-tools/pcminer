@@ -1,6 +1,6 @@
 package pcminer;
 
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class ConferenceInstance {
@@ -80,7 +80,7 @@ public class ConferenceInstance {
   }
 
   private static final Map<ConferenceInstance, ConferenceInstance> conferenceInstances =
-      new HashMap<ConferenceInstance, ConferenceInstance>();
+      new LinkedHashMap<>();
 
   private final Conference conference;
   private final String year;
