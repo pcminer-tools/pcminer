@@ -47,7 +47,7 @@ E:Cyrus Omar
 E:Dominic Orchard
 E:Ivan Perez
 E:Brigitte Pientka
-E:Juan Pedro Bolívar Puente
+E:Juan Pedro Bol&iacute;var Puente
 E:Norman Ramsey
 E:Christine Rizkallah
 E:Tiark Rompf

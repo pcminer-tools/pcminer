@@ -2,7 +2,7 @@ C:Simon Marlow
 Martin Avanzini
 Shrutarshi Basu
 Jost Berthold
-Aleš Bizjak
+Ale&scaron; Bizjak
 Guido Chari
 Vikraman Choudhury
 Robert Clifton-Everest
@@ -12,11 +12,11 @@ Gian Pietro Farina
 Michael Gale
 Francesco Gavazzo
 Mark Grebe
-Armaël Guéneau
+Arma&euml;l Gu&eacute;neau
 Kristoffer Just Arndal Andersen
 Gowtham Kaki
-David Kaloper-Meršinjak
-Hsiang-Shang ‘Josh’ Ko
+David Kaloper-Mer&scaron;injak
+Hsiang-Shang &lsquo;Josh&rsquo; Ko
 Wen Kokke
 Chaitanya Koparkar
 Victor Lanvin

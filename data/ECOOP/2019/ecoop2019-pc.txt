@@ -14,15 +14,15 @@ Akash Lal
 Doug Lea
 Heather Miller
 Bruno C. d. S. Oliveira
-Corina S Pasareanu
+Corina S. Pasareanu
 David Pearce
-Luís Pina
+Lu&iacute;s Pina
 Alex Potanin
 Azalea Raad
 Ajitha Rajan
 Ilya Sergey
 Manu Sridharan
-Emma Söderberg
+Emma S&ouml;derberg
 Tijs van der Storm
 E:Suparna Bhattacharya
 E:Viviana Bono

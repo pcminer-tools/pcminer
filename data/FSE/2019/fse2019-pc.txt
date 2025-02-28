@@ -29,10 +29,10 @@ Mark Harman
 Jeff Huang
 Valerie Issarny
 Brittany Johnson
-René Just
+Ren&eacute; Just
 Gerti Kappel
 Sunghun Kim
-Christian Kästner
+Christian K&auml;stner
 Wei Le
 Yang Liu
 David Lo
@@ -44,7 +44,7 @@ Tim Menzies
 Audris Mockus
 Henry Muccini
 Emerson Murphy-Hill
-Patrick Mäder
+Patrick M&auml;der
 Shiva Nejati
 Thanhvu Nguyen
 Nan Niu

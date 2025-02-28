@@ -15,7 +15,7 @@ Chao Wang
 Charith Mendis
 Christos Dimoulas
 Chung-Kil Hur
-Cindy Rubio-González
+Cindy Rubio-Gonz&aacute;lez
 Cyrus Omar
 Dana Drachsler Cohen
 Daniel W. Barowy
@@ -46,7 +46,7 @@ Jeremy Yallop
 Jeremy G. Siek
 John Regehr
 Jonathan Ragan-Kelley
-Jorge A. Pérez
+Jorge A. P&eacute;rez
 Joseph Tassarotti
 Josiah Hester
 KC Sivaramakrishnan
@@ -98,7 +98,7 @@ Thomas Shull
 Toby Murray
 Umut Acar
 Veselin Raychev
-Viktor Kunčak
+Viktor Kuncak
 Vinod Grover
 Walter Binder
 Xinyu Feng

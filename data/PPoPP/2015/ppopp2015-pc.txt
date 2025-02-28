@@ -2,7 +2,7 @@ G:Albert Cohen
 P:David Grove
 Rajesh Bordawekar
 Barbara M. Chapman
-Daniel G. Chavarría
+Daniel G. Chavarr&iacute;a
 Yifeng Chen
 Brian Demsky 
 Alastair F. Donaldson

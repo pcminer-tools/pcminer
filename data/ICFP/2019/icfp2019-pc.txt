@@ -39,7 +39,7 @@ E:Ranjit Jhala
 E:Ralf Jung
 E:Ohad Kammar
 E:Oleg Kiselyov
-E:Hsiang-Shang ‘Josh’ Ko
+E:Hsiang-Shang 'Josh' Ko
 E:Ondrej Lhot&aacute;k
 E:Dan Licata
 E:Geoffrey Mainland

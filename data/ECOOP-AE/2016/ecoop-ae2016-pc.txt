@@ -1,6 +1,6 @@
 C:Matthew Flatt 
 C:Tijs van der Storm 
-Felipe Bañados Schwerter
+Felipe Ba&ntilde;ados Schwerter
 Aggelos Biboudis
 Fernando Chirigati
 Jesper Cockx
@@ -10,8 +10,8 @@ Paolo G. Giarrusso
 Michael Homer
 Timothy Jones
 Matthias Keil
-Flávio Medeiros
-Phúc C. Nguyễn
+Fl&aacute;vio Medeiros
+Phuc C. Nguyen
 Changhee Park
 Henrique Rebelo
 Jan Oliver Ringert

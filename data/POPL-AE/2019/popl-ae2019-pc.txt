@@ -1,9 +1,9 @@
 C:Benjamin Delaware 
-C:Cătălin Hriţcu 
+C:Catalin Hritcu
 Sara Achour
 Arthur Azevedo de Amorim
 Casper Bach Poulsen
-Aleš Bizjak
+Ale&scaron; Bizjak
 Martin Bodin
 Jesper Cockx
 Ankush Das

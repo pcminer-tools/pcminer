@@ -21,7 +21,7 @@ Gerti Kappel
 Rudolf K. Keller
 Axel van Lamsweerde
 Nenad Medvidovic
-Walc�lio L. Melo
+Walc&eacute;lio L. Melo
 Carlo Montangero
 David Notkin
 Bashar Nuseibeh

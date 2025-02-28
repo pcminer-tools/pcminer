@@ -1,6 +1,6 @@
 C:Tim Menzies 
 C:Leandro Minku
-Silvia Abrahão 
+Silvia Abrah&atilde;o 
 Hamid Bagheri 
 Marcio Barros 
 Tanmay Bhowmik 

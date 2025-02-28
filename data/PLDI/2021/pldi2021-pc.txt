@@ -17,7 +17,7 @@ Bor-Yuh Evan Chang
 Brandon Lucia
 Camil Demetrescu
 Charlie Curtsinger
-Cindy Rubio-González
+Cindy Rubio-Gonz&aacute;lez
 Cormac Flanagan
 Cristian Cadar
 Danfeng Zhang
@@ -32,8 +32,8 @@ Fredrik Kjolstad
 Gagandeep Singh
 Gail Kaiser
 Gerwin Klein
-Görel Hedin
-Grigore Roşu
+G&ouml;rel Hedin
+Grigore Rosu
 Gustavo Petri
 He Zhu
 Heather Miller
@@ -41,7 +41,7 @@ Hila Peleg
 Hongseok Yang
 Jan Hoffmann
 John Sarracino
-José Fragoso Santos
+Jos&eacute; Fragoso Santos
 Joseph Devietti
 Joxan Jaffar
 Julian Dolby
@@ -51,13 +51,13 @@ Ke Wang
 Kwangkeun Yi
 Lindsey Kuper
 Loris D'Antoni
-Louis-Noël Pouchet
+Louis-No&euml;l Pouchet
 Madan Musuvathi
 Magnus Madsen
 Magnus O. Myreen
 Mahmut Taylan Kandemir
 Marc Brockschmidt
-Markus Püschel
+Markus P&uuml;schel
 Matthew Flatt
 Michael D. Bond
 Michael Hicks

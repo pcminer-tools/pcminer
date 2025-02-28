@@ -8,7 +8,7 @@ Theo D'Hondt
 Wolfgang De Meuter
 Sebastian Erdweg
 Tim Felgentreff
-Olivier Flückiger
+Olivier Fl&uuml;ckiger
 Lidia Fuentes
 Richard P. Gabriel
 Anitha Gollamudi
@@ -28,7 +28,7 @@ Guido Salvaneschi
 Manuel Serrano
 Jeremy G. Siek
 Friedrich Steimann
-Emma Söderberg
+Emma S&ouml;derberg
 Peter Thiemann
 Eli Tilevich
 Frank Tip
