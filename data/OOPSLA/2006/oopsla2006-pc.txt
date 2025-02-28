@@ -14,7 +14,7 @@ Richard P. Gabriel
 William G. Griswold
 Rachid Guerraoui
 Manish Gupta
-Ralf LŠmmel
+Ralf L&ouml;mmel
 Doug Lea
 Gary T. Leavens
 David H. Lorenz
