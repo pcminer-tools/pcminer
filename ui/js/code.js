@@ -536,15 +536,6 @@ var pcminer = function(){
 	 * update the displayed publications and committees to reflect the
 	 * specified authors and current filter settings
 	 */
-function encodeForUrl(input) {
-    // Decode HTML entities first
-    const doc = new DOMParser().parseFromString(input, "text/html");
-    const decoded = doc.documentElement.textContent;
-
-    // Encode for URL
-    return encodeURIComponent(decoded);
-}
-
 	function selectionChanged(authorName){ 
 	  if (authorName != undefined){	 
 		  currentAuthor = authorName; 
@@ -609,7 +600,16 @@ function encodeForUrl(input) {
 		  }
 	  }
 	};
-	
+
+	function encodeForUrl(input) {
+        // Decode HTML entities first
+        const doc = new DOMParser().parseFromString(input, "text/html");
+        const decoded = doc.documentElement.textContent;
+
+        // Encode for URL
+        return encodeURIComponent(decoded);
+    }
+
 	/**
 	 * produce HTML for publication in the appropriate color
 	 */
