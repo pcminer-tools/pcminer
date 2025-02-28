@@ -24,13 +24,13 @@ Cameron Freer
 Carla Ferreira
 Carlo Angiuli
 Casper Bach
-Cătălin Hriţcu
+C&#259;t&#259;lin Hri&#355;cu
 Christine Rizkallah
 Colin Gordon
 Dariusz Biernacki
 Denis Merigoux
 Dominique Devriese
-Emanuele D’Osualdo
+Emanuele D&rsquo;Osualdo
 Francesco Gavazzo
 Fraser Brown
 Fritz Henglein
@@ -45,7 +45,7 @@ Jean Pichon-Pharabod
 Jeehoon Kang
 Jennifer Paykin
 Jeremy G. Siek
-Jonathan Immanuel Brachthäuser
+Jonathan Immanuel Brachth&auml;user
 Jonathan Protzenko
 Jules Villard
 Kathrin Stark
@@ -60,9 +60,9 @@ Michael Hicks
 Neil Julien Ross
 Nick Benton
 Nikos Tzevelekos
-Peter Müller
+Peter M&uuml;ller
 Peter Sewell
-Pierre-Marie Pédrot
+Pierre-Marie P&eacute;drot
 Roberto Giacobazzi
 Rodolphe Lepigre
 Ronald Garcia

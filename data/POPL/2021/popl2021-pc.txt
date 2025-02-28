@@ -48,6 +48,6 @@ Matthieu Sozeau
 Viktor Vafeiadis
 David Van Horn
 Nobuko Yoshida
-Santiago Zanella-Béguelin
+Santiago Zanella-B&eacute;guelin
 Damien Zufferey
 

@@ -9,7 +9,7 @@ Arthur Azevedo de Amorim
 Sorav Bansal
 Ryan Beckett
 Filippo Bonchi
-Oliver Bračevac
+Oliver Bra&#269;evac
 Satish Chandra
 Sarah E. Chasins
 Sheng Chen
@@ -35,7 +35,7 @@ Gowtham Kaki
 Benjamin Lucien Kaminski
 Artem Khyzha
 Fredrik Kjolstad
-Hsiang-Shang ‘Josh’ Ko
+Hsiang-Shang &lsquo;Josh&rsquo; Ko
 Naoki Kobayashi
 Eric Koskinen
 Leonidas Lampropoulos
@@ -54,21 +54,21 @@ Pavel Panchekha
 Matthew J. Parkinson
 Frank Pfenning
 Lauren Pick
-Clément Pit-Claudel
+Cl&eacute;ment Pit-Claudel
 Shaz Qadeer
 Mukund Raghothaman
 Tahina Ramananandro
 Xavier Rival
-Grigore Roşu
+Grigore Ro&#351;u
 Feras Saad
-José Fragoso Santos
+Jos&eacute; Fragoso Santos
 Chung-chieh Shan
 Zhong Shao
 Tachio Terauchi
 Aditya V. Thakur
 Caterina Urban
 Viktor Vafeiadis
-Matthijs Vákár
+Matthijs V&aacute;k&aacute;r
 Gabriele Vanoni
 Vasco T. Vasconcelos
 Margus Veanes

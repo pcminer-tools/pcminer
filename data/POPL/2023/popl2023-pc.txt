@@ -1,7 +1,7 @@
 P:Amal Ahmed
 Robert Bruce Findler
 Deepak Garg
-François Pottier
+Fran&ccedil;ois Pottier
 Andreas Abel
 Nada Amin
 Stephanie Balzer
@@ -9,7 +9,7 @@ Josh Berdine
 Karthikeyan Bhargavan
 Giuseppe Castagna
 Tej Chajed
-Arthur Charguéraud
+Arthur Chargu&eacute;raud
 Koen Claessen
 Loris D'Antoni
 Ugo Dal Lago
@@ -55,12 +55,12 @@ Marco Patrignani
 David Pichardie
 Brigitte Pientka
 Benjamin C. Pierce
-Clément Pit-Claudel
+Cl&eacute;ment Pit-Claudel
 Andreas Podelski
 Nadia Polikarpova
 Damien Pous
 Christopher Pulte
-Corina S. Păsăreanu
+Corina S. P&#259;s&#259;reanu
 Azalea Raad
 Robert Rand
 Noam Rinetzky
@@ -71,14 +71,14 @@ Jonathan Sterling
 Aaron Stump
 Eijiro Sumii
 Nicolas Tabareau
-Éric Tanter
+&Eacute;ric Tanter
 Joseph Tassarotti
 Sam Tobin-Hochstadt
 Andrew Tolmach
 Marco Vassena
 David Walker
 Conrad Watt
-Théo Winterhalter
+Th&eacute;o Winterhalter
 Ningning Xie
 Francesco Zappa Nardelli
 Elena Zucca
