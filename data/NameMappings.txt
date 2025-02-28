@@ -195,7 +195,6 @@ Christos Kozyrakis->Christoforos E. Kozyrakis
 Ingolf Kr&uuml;ger->Ingolf H. Kr&uuml;ger
 Aditya Kulkarni->Aditya Rajeev Kulkarni
 Naveen Kulkarni->Naveen N. Kulkarni
-Viktor Kunčak->Viktor Kuncak
 Shuvendu Lahiri->Shuvendu K. Lahiri
 Albert Lai->Albert Y. C. Lai
 Erica Lan->Erica S.-C. Lan

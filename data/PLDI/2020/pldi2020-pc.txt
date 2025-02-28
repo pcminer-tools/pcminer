@@ -76,7 +76,7 @@ E:Mike Dodds
 E:Azadeh Farzan
 E:Yu Feng
 E:Matthew Flatt
-E:José Fragoso Santos
+E:Jos&eacute; Fragoso Santos
 E:Ronald Garcia
 E:Timon Gehr
 E:Pritam Gharat

@@ -1,10 +1,10 @@
 P:Mira Mezini
 Crista Lopes
-Cindy Rubio-González
+Cindy Rubio-Gonz&aacute;lez
 Nadia  Polikarpova
 Mangpo  Phothilimthana
 Dana Drachsler Cohen
-Görel  Hedin
+G&ouml;rel  Hedin
 Philipp  Haller
 Neel  Krishnaswami
 Pascal Weisenburger

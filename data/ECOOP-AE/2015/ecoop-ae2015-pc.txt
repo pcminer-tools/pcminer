@@ -2,8 +2,8 @@ C:Camil Demetrescu
 C:Matthew Flatt
 Karim Ali 
 Stefan Blom 
-Lubomír Bulej 
-Nicolás Cardozo 
+Lubom&iacute;r Bulej 
+Nicol&aacute;s Cardozo 
 Fernando Chirigati 
 Emilio Coppa 
 Paolo G. Giarrusso 

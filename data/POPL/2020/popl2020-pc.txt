@@ -8,11 +8,11 @@ Andrzej Murawski
 Arjun Guha
 Armando Solar-Lezama
 Arthur Azevedo de Amorim
-Arthur Charguéraud
+Arthur Chargu&eacute;raud
 Azalea Raad
 Beta Ziliani
 Bor-Yuh Evan Chang
-Cédric Fournet
+C&eacute;dric Fournet
 Cezara Dragoi
 Christine Tasson
 Chung-Kil Hur

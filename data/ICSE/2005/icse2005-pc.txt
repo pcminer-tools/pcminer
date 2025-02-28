@@ -35,7 +35,7 @@ John Mylopoulos
 Harold Ossher
 Leon J. Osterweil
 Jens Palsberg
-Juan Fern�ndez-Ramil
+Juan Fern&aacute;ndez-Ramil
 David S. Rosenblum
 Mary Lou Soffa
 Kevin J. Sullivan

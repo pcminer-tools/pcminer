@@ -1,7 +1,7 @@
-C:Cătălin Hriţcu 
+C:Catalin Hritcu
 C:Jean Yang 
 Sara Achour
-Aleš Bizjak
+Ale&scaron; Bizjak
 Joachim Breitner
 Stefan Ciobaca
 Michael Coblenz
@@ -18,7 +18,7 @@ Jedidiah McClurg
 Sergio Mover
 Daejun Park
 Jennifer Paykin
-Clément Pit-Claudel
+Cl&eacute;ment Pit-Claudel
 Giselle Reis
 Talia Ringer
 Taro Sekiyama

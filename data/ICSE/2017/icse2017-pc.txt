@@ -1,4 +1,4 @@
-G:Sebastián Uchitel
+G:Sebasti&aacute;n Uchitel
 P:Alessandro Orso
 P:Martin P. Robillard
 B:Sven Apel

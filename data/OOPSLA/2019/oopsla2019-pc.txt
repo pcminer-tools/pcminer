@@ -2,7 +2,7 @@ P:Eelco Visser
 Sara Achour
 Nada Amin
 Bor-Yuh Evan Chang
-Arthur Charguéraud
+Arthur Chargu&eacute;raud
 Yufei Ding
 Alastair Donaldson
 Sebastian Erdweg
@@ -22,7 +22,7 @@ Alex Potanin
 Tiark Rompf
 Manu Sridharan
 Friedrich Steimann
-Éric Tanter
+&Eacute;ric Tanter
 Ross Tate
 Emina Torlak
 David Van Horn
@@ -47,7 +47,7 @@ E:Jeff Huang
 E:Ranjit Jhala
 E:Stephen Kell
 E:Viktor Kuncak
-E:Christian Kästner
+E:Christian K&auml;stner
 E:Crista Lopes
 E:Sasa Misailovic
 E:Andrew Myers

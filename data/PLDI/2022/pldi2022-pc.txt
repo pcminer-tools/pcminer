@@ -64,7 +64,7 @@ Ana Milanova
 Anders Miltner
 Eliot Moss
 Vijayaraghavan Murali
-Peter Müller
+Peter M&uuml;ller
 Vijay Nagarajan
 Santosh Nagarakatte
 Chandrakana Nandi
@@ -77,10 +77,10 @@ Jens Palsberg
 Erez Petrank
 Phitchaya Mangpo Phothilimthana
 Ruzica Piskac
-Clément Pit-Claudel
+Cl&eacute;ment Pit-Claudel
 Nadia Polikarpova
 Raghu Prabhakar
-Corina S. Păsăreanu
+Corina S. Pasareanu
 Shaz Qadeer
 Xiaokang Qiu
 Arjun Radhakrishna
@@ -88,7 +88,7 @@ Mukund Raghothaman
 Robert Rand
 John Regehr
 Talia Ringer
-Gabriel Rodríguez
+Gabriel Rodr&iacute;guez
 Sukyoung Ryu
 Leonid Ryzhyk
 Malavika Samak

@@ -2,7 +2,7 @@ C:Jean Yang
 C:Stephen Chong 
 Arthur Azevedo de Amorim
 Thibaut Balabonski
-Aleš Bizjak
+Ale&scaron; Bizjak
 David Thrane Christiansen
 Ezgi &#199;i&#231;ek
 Pantazis Deligiannis

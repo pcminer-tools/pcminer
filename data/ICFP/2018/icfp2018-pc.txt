@@ -12,7 +12,7 @@ Alejandro Russo
 Ilya Sergey
 Michael Sperber
 Wouter Swierstra
-Éric Tanter
+&Eacute;ric Tanter
 Katsuhiro Ueno
 Niki Vazou
 Jeremy Yallop

@@ -7,7 +7,7 @@ Steven Arzt
 Vitalii Avdiienko 
 Mauro Baluda 
 Bernhard Berger 
-Marcel Böhme 
+Marcel B&ouml;hme 
 Milos Gligoric 
 Alberto Goffi 
 Jahangirova Gunel 
@@ -19,6 +19,6 @@ Paul Marinescu
 Srdjan Matic 
 Andrea Mattavelli 
 Nikolas Havrikov 
-José Miguel Rojas 
+Jos&eacute; Miguel Rojas 
 Stefan Winter 
 Wei Yang 
