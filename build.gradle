@@ -33,6 +33,10 @@ spotless {
     java {
         googleJavaFormat("1.25.2")
     }
+    javascript {
+        target("ui/js/code.js")
+        prettier()
+    }
 }
 
 mainClassName = "pcminer.PCMiner"
