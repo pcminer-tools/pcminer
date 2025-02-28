@@ -14,7 +14,7 @@ Naoki Kobayashi
 Julia L. Lawall
 Andrew C. Myers
 Gordon D. Plotkin
-Fran&#231;ois Pottier
+Fran&ccedil;ois Pottier
 Sriram K. Rajamani
 John H. Reppy
 Zhong Shao

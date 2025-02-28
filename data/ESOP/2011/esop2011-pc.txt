@@ -12,7 +12,7 @@ Julia L. Lawall
 Sorin Lerner
 Arnd Poetzsch-Heffter
 Frank Piessens
-Fran&#231;ois Pottier
+Fran&ccedil;ois Pottier
 Shaz Qadeer
 Andrey Rybalchenko
 Andrei Sabelfeld
