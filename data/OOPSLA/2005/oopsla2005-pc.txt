@@ -1,6 +1,6 @@
 C:Ralph E. Johnson
 P:Richard P. Gabriel
-Alan OÕCallaghan
+Alan O'Callaghan
 Andrew P. Black
 Christa Schwanninger
 Christoph M. Kirsch
@@ -20,7 +20,7 @@ Kent Beck
 Linda G. DeMichiel
 Martin C. Rinard
 Matthias Felleisen
-Michael Kšlling
+Michael K&ouml;lling
 Peter Sommerlad
 Robert Biddle
 Robert J. Walker

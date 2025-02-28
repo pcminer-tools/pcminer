@@ -4,13 +4,13 @@ Lionel C. Briand
 Shing-Chi Cheung
 Ivica Crnkovic
 Jacky Estublier
-Istv·n Forg·cs
+Istv&aacute;n Forg&aacute;cs
 David Garlan
 Carlo Ghezzi
 Klaus Havelund
 George T. Heineman
 Constance L. Heitmeyer
-Valérie Issarny
+Val&eacute;rie Issarny
 Jens H. Weber-Jahnke
 Mehdi Jazayeri
 Kai Koskimies

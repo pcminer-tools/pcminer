@@ -8,7 +8,7 @@ Manuel V. Hermenegildo
 Simon L. Peyton Jones
 Paul Klint
 J. Gregory Morrisett
-Bengt Nordstršm
+Bengt Nordstr&ouml;m
 Christian Queinnec
 Mooly Sagiv
 Bernhard Steffen

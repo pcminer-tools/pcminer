@@ -24,7 +24,7 @@ Roland T. Mittermeir
 Harold Ossher
 Alessandro Orso
 David S. Rosenblum
-Juan Fernández-Ramil
+Juan Fern&aacute;ndez-Ramil
 Sebasti&aacute;n Uchitel
 Wilhelm Sch&auml;fer
 Claes Wohlin
