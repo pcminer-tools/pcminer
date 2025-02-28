@@ -68,7 +68,7 @@ Michelle Strout
 Mihai Budiu
 Mohsen Lesani
 Mukund Raghothaman
-C:Nate Foster
+P:Nate Foster
 Niki Vazou
 Ningning Xie
 Noam Rinetzky
