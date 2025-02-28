@@ -1,0 +1,85 @@
+P:Amal Ahmed
+Robert Bruce Findler
+Deepak Garg
+Fran&ccedil;ois Pottier
+Andreas Abel
+Nada Amin
+Stephanie Balzer
+Josh Berdine
+Karthikeyan Bhargavan
+Giuseppe Castagna
+Tej Chajed
+Arthur Chargu&eacute;raud
+Koen Claessen
+Loris D'Antoni
+Ugo Dal Lago
+Mila Dalla Preda
+Ornela Dardha
+Benjamin Delaware
+Alastair F. Donaldson
+Richard A. Eisenberg
+Constantin Enea
+Michael Greenberg
+Ichiro Hasuo
+Hugo Herbelin
+Zhenjiang Hu
+Suresh Jagannathan
+Alan Jeffrey
+Patricia Johann
+Jacques-Henri Jourdan
+Ralf Jung
+Ohad Kammar
+Joost-Pieter Katoen
+Ekaterina Komendantskaya
+Laura Kovacs
+Robbert Krebbers
+Lindsey Kuper
+Akash Lal
+Xavier Leroy
+Mohsen Lesani
+Daniel R. Licata
+Matteo Maffei
+Isabella Mastroeni
+Christoph Matheja
+Umang Mathur
+Todd Millstein
+Andrzej Murawski
+Santosh Nagarakatte
+Aleksandar Nanevski
+David Naumann
+Dominic Orchard
+Klaus Ostermann
+Oded Padon
+Michele Pagani
+Marco Patrignani
+David Pichardie
+Brigitte Pientka
+Benjamin C. Pierce
+Cl&eacute;ment Pit-Claudel
+Andreas Podelski
+Nadia Polikarpova
+Damien Pous
+Christopher Pulte
+Corina S. P&#259;s&#259;reanu
+Azalea Raad
+Robert Rand
+Noam Rinetzky
+Amr Sabry
+Malavika Samak
+Taro Sekiyama
+Jonathan Sterling
+Aaron Stump
+Eijiro Sumii
+Nicolas Tabareau
+&Eacute;ric Tanter
+Joseph Tassarotti
+Sam Tobin-Hochstadt
+Andrew Tolmach
+Marco Vassena
+David Walker
+Conrad Watt
+Th&eacute;o Winterhalter
+Ningning Xie
+Francesco Zappa Nardelli
+Elena Zucca
+

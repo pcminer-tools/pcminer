@@ -1,0 +1,83 @@
+P:Armando Solar-Lezama
+Zachary Kincaid
+Xavier Leroy
+Ruzica Piskac
+Nadia Polikarpova
+Sharon Shoham
+Robert Atkey
+Arthur Azevedo de Amorim
+Sorav Bansal
+Ryan Beckett
+Filippo Bonchi
+Oliver Bra&#269;evac
+Satish Chandra
+Sarah E. Chasins
+Sheng Chen
+James Cheney
+Pierre Clairambault
+Adam Chlipala
+Albert Cohen
+David Darais
+Christos Dimoulas
+Michael Emmi
+Mohamed Faouzi Atig
+Azadeh Farzan
+Cormac Flanagan
+Jeffrey S. Foster
+Timon Gehr
+Roberta Gori
+Neville Grech
+Philipp Haller
+Jan Hoffmann
+Steven Holtzen
+Justin Hsu
+Gowtham Kaki
+Benjamin Lucien Kaminski
+Artem Khyzha
+Fredrik Kjolstad
+Hsiang-Shang &lsquo;Josh&rsquo; Ko
+Naoki Kobayashi
+Eric Koskinen
+Leonidas Lampropoulos
+Woosuk Lee
+Yao Li
+P. Madhusudan
+Darko Marinov
+Roland Meyer
+David Monniaux
+J. Garrett Morris
+Magnus O. Myreen
+Hakjoo Oh
+Cyrus Omar
+Jens Palsberg
+Pavel Panchekha
+Matthew J. Parkinson
+Frank Pfenning
+Lauren Pick
+Cl&eacute;ment Pit-Claudel
+Shaz Qadeer
+Mukund Raghothaman
+Tahina Ramananandro
+Xavier Rival
+Grigore Ro&#351;u
+Feras Saad
+Jos&eacute; Fragoso Santos
+Chung-chieh Shan
+Zhong Shao
+Tachio Terauchi
+Aditya V. Thakur
+Caterina Urban
+Viktor Vafeiadis
+Matthijs V&aacute;k&aacute;r
+Gabriele Vanoni
+Vasco T. Vasconcelos
+Margus Veanes
+Dimitrios Vytiniotis
+Philip Wadler
+Xinyu Wang
+Peisen Yao
+Mingsheng Ying
+Vladimir Zamdzhiev
+Danfeng Zhang
+Damien Zufferey
+
