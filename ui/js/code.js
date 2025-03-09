@@ -400,49 +400,49 @@ var pcminer = (function () {
       '<span float="left">' + nrC + " committee records selected</span>";
   }
 
-// Updated decodeHtml function using DOMParser
-function decodeHtml(html) {
-  const parser = new DOMParser();
-  const doc = parser.parseFromString(html, "text/html");
-  return doc.documentElement.textContent;
-}
-
-// Updated normalization function with a fallback for browsers that lack normalize support
-function normalizeString(str) {
-  // Convert to lowercase first so that explicit replacements catch both cases.
-  str = str.toLowerCase();
-  // If normalization is available, use NFKD to break down characters.
-  if (typeof str.normalize === "function") {
-    str = str.normalize("NFKD");
+  // Updated decodeHtml function using DOMParser
+  function decodeHtml(html) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, "text/html");
+    return doc.documentElement.textContent;
   }
-  // Remove diacritical marks and explicitly replace the 'ø' character.
-  return str.replace(/[\u0300-\u036f]/g, "").replace(/ø/g, "o");
-}
 
-function nameStartsWith(fullName, prefix) {
-  // Decode HTML entities (e.g. converting "&oslash;" into "ø").
-  fullName = fullName.replace("&oslash;", "o");
-  const decodedFullName = decodeHtml(fullName);
+  // Updated normalization function with a fallback for browsers that lack normalize support
+  function normalizeString(str) {
+    // Convert to lowercase first so that explicit replacements catch both cases.
+    str = str.toLowerCase();
+    // If normalization is available, use NFKD to break down characters.
+    if (typeof str.normalize === "function") {
+      str = str.normalize("NFKD");
+    }
+    // Remove diacritical marks and explicitly replace the 'ø' character.
+    return str.replace(/[\u0300-\u036f]/g, "").replace(/ø/g, "o");
+  }
 
-  // Split the decoded name into words and filter out any empty strings.
-  const names = decodedFullName.split(" ").filter(Boolean);
-  if (names.length === 0) return false;
+  function nameStartsWith(fullName, prefix) {
+    // Decode HTML entities (e.g. converting "&oslash;" into "ø").
+    fullName = fullName.replace("&oslash;", "o");
+    const decodedFullName = decodeHtml(fullName);
 
-  // Assume the first and last words are the first and last names.
-  const firstName = names[0];
-  const lastName = names[names.length - 1];
+    // Split the decoded name into words and filter out any empty strings.
+    const names = decodedFullName.split(" ").filter(Boolean);
+    if (names.length === 0) return false;
 
-  // Normalize the first name, last name, and the prefix.
-  const normalizedPrefix = normalizeString(prefix);
-  const normalizedFirstName = normalizeString(firstName);
-  const normalizedLastName = normalizeString(lastName);
+    // Assume the first and last words are the first and last names.
+    const firstName = names[0];
+    const lastName = names[names.length - 1];
 
-  // Check if either the first or last name starts with the normalized prefix.
-  return (
-    normalizedFirstName.startsWith(normalizedPrefix) ||
-    normalizedLastName.startsWith(normalizedPrefix)
-  );
-}
+    // Normalize the first name, last name, and the prefix.
+    const normalizedPrefix = normalizeString(prefix);
+    const normalizedFirstName = normalizeString(firstName);
+    const normalizedLastName = normalizeString(lastName);
+
+    // Check if either the first or last name starts with the normalized prefix.
+    return (
+      normalizedFirstName.startsWith(normalizedPrefix) ||
+      normalizedLastName.startsWith(normalizedPrefix)
+    );
+  }
 
   /**
    * resets the selector to reflect the current filter settings
