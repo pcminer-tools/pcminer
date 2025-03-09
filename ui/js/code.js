@@ -300,6 +300,12 @@ var pcminer = (function () {
     resetSelector();
   }
 
+  var surnameSearch = true;
+  function surnameSearchChanged(val) {
+    surnameSearch = val;
+    resetSelector();
+  }
+
   /**
    * invoked when the conditionFilter has changed.
    */
@@ -440,7 +446,7 @@ var pcminer = (function () {
     // Check if either the first or last name starts with the normalized prefix.
     return (
       normalizedFirstName.startsWith(normalizedPrefix) ||
-      normalizedLastName.startsWith(normalizedPrefix)
+      (surnameSearch && normalizedLastName.startsWith(normalizedPrefix))
     );
   }
 
@@ -918,6 +924,7 @@ var pcminer = (function () {
     nameFilterChanged: nameFilterChanged,
     dateFilterChanged: dateFilterChanged,
     conditionFilterChanged: conditionFilterChanged,
+    surnameSearchChanged: surnameSearchChanged,
     confSelected: confSelected,
     confsSelected: confsSelected,
     copyToClipboard: copyToClipboard,
