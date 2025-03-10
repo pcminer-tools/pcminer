@@ -300,6 +300,12 @@ var pcminer = (function () {
     resetSelector();
   }
 
+  var surnameSearch = true;
+  function surnameSearchChanged(val) {
+    surnameSearch = val;
+    resetSelector();
+  }
+
   /**
    * invoked when the conditionFilter has changed.
    */
@@ -400,6 +406,50 @@ var pcminer = (function () {
       '<span float="left">' + nrC + " committee records selected</span>";
   }
 
+  // Updated decodeHtml function using DOMParser
+  function decodeHtml(html) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, "text/html");
+    return doc.documentElement.textContent;
+  }
+
+  // Updated normalization function with a fallback for browsers that lack normalize support
+  function normalizeString(str) {
+    // Convert to lowercase first so that explicit replacements catch both cases.
+    str = str.toLowerCase();
+    // If normalization is available, use NFKD to break down characters.
+    if (typeof str.normalize === "function") {
+      str = str.normalize("NFKD");
+    }
+    // Remove diacritical marks and explicitly replace the 'ø' character.
+    return str.replace(/[\u0300-\u036f]/g, "").replace(/ø/g, "o");
+  }
+
+  function nameStartsWith(fullName, prefix) {
+    // Decode HTML entities (e.g. converting "&oslash;" into "ø").
+    fullName = fullName.replace("&oslash;", "o");
+    const decodedFullName = decodeHtml(fullName);
+
+    // Split the decoded name into words and filter out any empty strings.
+    const names = decodedFullName.split(" ").filter(Boolean);
+    if (names.length === 0) return false;
+
+    // Assume the first and last words are the first and last names.
+    const firstName = names[0];
+    const lastName = names[names.length - 1];
+
+    // Normalize the first name, last name, and the prefix.
+    const normalizedPrefix = normalizeString(prefix);
+    const normalizedFirstName = normalizeString(firstName);
+    const normalizedLastName = normalizeString(lastName);
+
+    // Check if either the first or last name starts with the normalized prefix.
+    return (
+      normalizedFirstName.startsWith(normalizedPrefix) ||
+      (surnameSearch && normalizedLastName.startsWith(normalizedPrefix))
+    );
+  }
+
   /**
    * resets the selector to reflect the current filter settings
    */
@@ -411,7 +461,7 @@ var pcminer = (function () {
     clip.append("<p>");
     for (var i = 0; i < list.length; i++) {
       var x = list[i];
-      if (nameFilter == "" || x.author.indexOf(nameFilter) == 0) {
+      if (nameFilter == "" || nameStartsWith(x.author, nameFilter)) {
         if (nrPublicationsAndCommittees(x) > 0 && eval(conditionFilter)) {
           // evil call to eval()
           selector.append("<option>" + x.author + "</option>");
@@ -874,6 +924,7 @@ var pcminer = (function () {
     nameFilterChanged: nameFilterChanged,
     dateFilterChanged: dateFilterChanged,
     conditionFilterChanged: conditionFilterChanged,
+    surnameSearchChanged: surnameSearchChanged,
     confSelected: confSelected,
     confsSelected: confsSelected,
     copyToClipboard: copyToClipboard,
