@@ -9,6 +9,6 @@ Xavier Leroy
 Rainer Leupers
 Borivoj Melichar
 Mikael Petersson
-Tom Reps
+Thomas W. Reps
 Martin Rinard
 P:Reinhard Wilhelm
