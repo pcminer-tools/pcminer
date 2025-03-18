@@ -54,12 +54,32 @@ public class PCMiner {
 
   private final Set<Publication> publications = new LinkedHashSet<>();
 
+  private final boolean generateJSON;
+
+  /**
+   * Constructor
+   *
+   * @param generateJSON true if JSON file should be generated, false otherwise
+   */
+  public PCMiner(boolean generateJSON) {
+    this.generateJSON = generateJSON;
+  }
+
   public static void main(String[] args) throws IOException {
-    if (args.length != 0) {
-      System.err.println("usage: PCMiner");
+    if (args.length > 1) {
+      System.err.println("usage: PCMiner [--generate-json]");
       System.exit(1);
     }
-    (new PCMiner()).process();
+    boolean generateJSON = false;
+    if (args.length == 1) {
+      if (args[0].equals("--generate-json")) {
+        generateJSON = true;
+      } else {
+        System.err.println("usage: PCMiner [--generate-json]");
+        System.exit(1);
+      }
+    }
+    (new PCMiner(generateJSON)).process();
   }
 
   void process() throws IOException {
@@ -70,10 +90,17 @@ public class PCMiner {
 
     scan(inputDirectory);
 
-    String jsonFileName = outputDirectory + File.separator + "data.js";
-    FileOutputStream jsonFos = new FileOutputStream(jsonFileName);
-    PrintStream jsonStream = new PrintStream(jsonFos);
-    printJson(jsonStream);
+    String dataJSFileName = outputDirectory + File.separator + "data.js";
+    FileOutputStream dataJSFileOutputStream = new FileOutputStream(dataJSFileName);
+    PrintStream dataJSPrintStream = new PrintStream(dataJSFileOutputStream);
+    generateDataJs(dataJSPrintStream);
+    if (generateJSON) {
+      String jsonFileName = outputDirectory + File.separator + "data.json";
+      try (FileOutputStream fos = new FileOutputStream(jsonFileName);
+          PrintStream stream = new PrintStream(fos)) {
+        dumpAuthorsJson(stream, 0);
+      }
+    }
   }
 
   /**
@@ -380,16 +407,18 @@ public class PCMiner {
   }
 
   /** generate data.js file */
-  private void printJson(PrintStream stream) {
+  private void generateDataJs(PrintStream stream) {
     dumpStatistics(stream);
     initializeConferences(stream);
+    // In the JS file we need to assign to the list variable
+    stream.print("list = ");
     dumpAuthorsJson(stream, 0);
   }
 
   /** generate author data in JSON format */
   private void dumpAuthorsJson(PrintStream stream, int indent) {
 
-    stream.println("list = [\n");
+    stream.println("[\n");
     SortedSet<Author> sortedAuthors = new TreeSet<>(Author.getAuthors());
     int count = 0;
     for (Author author : sortedAuthors) {
