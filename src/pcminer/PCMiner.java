@@ -42,17 +42,17 @@ import org.htmlparser.visitors.NodeVisitor;
  */
 public class PCMiner {
 
-  private List<String> conferences = new ArrayList<String>();
-  private Map<String, Set<String>> confYears = new LinkedHashMap<>();
-  private Map<String, String> confColors = new LinkedHashMap<>();
+  private final List<String> conferences = new ArrayList<>();
+  private final Map<String, Set<String>> confYears = new LinkedHashMap<>();
+  private final Map<String, String> confColors = new LinkedHashMap<>();
   private String theConference = null;
   private String theYear = null;
   private String theSession = null;
   private String theTitle = null;
   private String thePageNums = null;
-  private List<Author> theAuthors = new ArrayList<Author>();
+  private List<Author> theAuthors = new ArrayList<>();
 
-  private Set<Publication> publications = new LinkedHashSet<>();
+  private final Set<Publication> publications = new LinkedHashSet<>();
 
   public static void main(String[] args) throws IOException {
     if (args.length != 0) {
@@ -92,20 +92,17 @@ public class PCMiner {
     if (directory.exists() && directory.isDirectory()) {
       int count = 1;
       File[] files = directory.listFiles();
-      for (int i = 0; i < files.length; i++) {
-        File subDir = files[i];
+      for (File subDir : files) {
         if (subDir.isDirectory()) { // one subdirectory for each conference
           theConference = subDir.getName();
           conferences.add(theConference);
           File[] subDirFiles = subDir.listFiles();
-          for (int j = 0; j < subDirFiles.length; j++) {
-            File file = subDirFiles[j];
+          for (File file : subDirFiles) {
             if (file.isDirectory()) { // one subdirectory for each year
               theYear = file.getName();
               ensureConfYear(theConference, theYear);
               File[] subsubDirFiles = file.listFiles();
-              for (int k = 0; k < subsubDirFiles.length; k++) {
-                File file2 = subsubDirFiles[k];
+              for (File file2 : subsubDirFiles) {
                 String fileName = file2.getName();
                 if (fileName.endsWith(".html")) { // the file from DBLP
                   System.err.print(theConference + theYear + " ");
@@ -119,15 +116,11 @@ public class PCMiner {
               }
             } else if (file.getName().equals("color")) { // the file containing the color code
               FileReader fr = new FileReader(file);
-              BufferedReader br = null;
-              try {
-                br = new BufferedReader(fr);
+              try (BufferedReader br = new BufferedReader(fr)) {
                 if (br.ready()) { // only read first line
                   String colorName = br.readLine().trim();
                   confColors.put(theConference, colorName);
                 }
-              } finally {
-                br.close();
               }
             }
           }
@@ -157,23 +150,21 @@ public class PCMiner {
 
               @Override
               public void visitTag(Tag tag) {
-                if (tag instanceof BulletList) {
-                  BulletList bl = (BulletList) tag;
+                if (tag instanceof BulletList bl) {
                   if (bl.getChildren() == null) return;
                   for (int i = 0; i < bl.getChildren().size(); i++) {
                     Node child = bl.childAt(i);
                     if (child instanceof TagNode) {
                       String classAtt = ((TagNode) child).getAttribute("class");
                       if (classAtt != null && classAtt.startsWith("entry ")) {
-                        theAuthors = new ArrayList<Author>();
+                        theAuthors = new ArrayList<>();
                         findTitle(child);
                         findAuthors(child);
                         findPageNums(child);
                       }
                     }
                   }
-                } else if (tag instanceof HeadingTag) {
-                  HeadingTag ht = (HeadingTag) tag;
+                } else if (tag instanceof HeadingTag ht) {
                   if (ish2(ht)
                       && ht.getAttribute("id") != null
                       && ht.getAttribute("id").startsWith("nr")) {
@@ -188,9 +179,8 @@ public class PCMiner {
 
                     for (SimpleNodeIterator it = ht.elements(); it.hasMoreNodes(); ) {
                       Node node = it.nextNode();
-                      if (node instanceof TextNode) {
+                      if (node instanceof TextNode tn) {
 
-                        TextNode tn = (TextNode) node;
                         String sessionName = tn.getText();
                         sessionName =
                             sessionName
@@ -250,21 +240,19 @@ public class PCMiner {
             if (tagName.equals("A")) {
               Node child = tag.getChildren().elementAt(0);
               if (child instanceof Text) {
-                String authorName = ((Text) child).getText();
+                String authorName = child.getText();
                 // hack!
                 if (!authorName.contains("dblp.org")) {
                   Author author = Author.findOrCreate(authorName);
                   theAuthors.add(author);
                 }
               }
-            } else if (tag instanceof Span) {
-              Span span = (Span) tag;
+            } else if (tag instanceof Span span) {
               String prop = span.getAttribute("itemprop");
               if (prop != null && prop.equals("author")) {
                 NodeList children = span.getChildren();
                 Node firstChild = children.elementAt(0);
-                if (firstChild instanceof LinkTag) {
-                  LinkTag linkTag = (LinkTag) firstChild;
+                if (firstChild instanceof LinkTag linkTag) {
                   String authorName = linkTag.getLinkText();
                   Author author = Author.findOrCreate(authorName);
                   theAuthors.add(author);
@@ -289,8 +277,7 @@ public class PCMiner {
               if (tag.getAttribute("class") != null && tag.getAttribute("class").equals("data")) {
                 NodeList nodeList = tag.getChildren();
                 Node lastNode = nodeList.elementAt(nodeList.size() - 1);
-                if (lastNode instanceof Span) {
-                  Span span = (Span) lastNode;
+                if (lastNode instanceof Span span) {
                   NodeList spanChildren = span.getChildren();
                   Node firstChild = spanChildren.elementAt(0);
                   thePageNums = firstChild.getText();
@@ -298,8 +285,7 @@ public class PCMiner {
                   thePageNums = lastNode.getText();
                 }
               }
-            } else if (tag instanceof Span) {
-              Span span = (Span) tag;
+            } else if (tag instanceof Span span) {
               String prop = span.getAttribute("itemprop");
               if (prop != null && prop.equals("pagination")) {
                 NodeList children = span.getChildren();
@@ -330,19 +316,15 @@ public class PCMiner {
    * @throws IOException
    */
   private void readNameMappings(String fileName) throws IOException {
-    BufferedReader br = null;
-    try {
-      File file = new File(fileName);
-      FileReader fr = new FileReader(file);
-      br = new BufferedReader(fr);
+    File file = new File(fileName);
+    try (FileReader fr = new FileReader(file);
+        BufferedReader br = new BufferedReader(fr)) {
       while (br.ready()) {
         String line = br.readLine().trim();
         String from = line.substring(0, line.indexOf("->")).trim();
         String to = line.substring(line.indexOf("->") + 2).trim();
         Author.addNameMapping(from, to);
       }
-    } finally {
-      br.close();
     }
   }
 
@@ -360,13 +342,11 @@ public class PCMiner {
    * </dl>
    */
   private void scanCommitteeFile(File file, ConferenceInstance ci) throws IOException {
-    BufferedReader br = null;
-    try {
-      FileReader fr = new FileReader(file);
-      br = new BufferedReader(fr);
+    try (FileReader fr = new FileReader(file);
+        BufferedReader br = new BufferedReader(fr)) {
       while (br.ready()) {
         String authorName = br.readLine().trim();
-        if (authorName.equals("")) continue; // skip blank lines
+        if (authorName.isEmpty()) continue; // skip blank lines
         if (authorName.startsWith("G:")) {
           authorName = authorName.substring(2);
           Author author = Author.findOrCreate(authorName);
@@ -396,8 +376,6 @@ public class PCMiner {
           author.addPCMembership(ci);
         }
       }
-    } finally {
-      br.close();
     }
   }
 
@@ -412,7 +390,7 @@ public class PCMiner {
   private void dumpAuthorsJson(PrintStream stream, int indent) {
 
     stream.println("list = [\n");
-    SortedSet<Author> sortedAuthors = new TreeSet<Author>(Author.getAuthors());
+    SortedSet<Author> sortedAuthors = new TreeSet<>(Author.getAuthors());
     int count = 0;
     for (Author author : sortedAuthors) {
       count++;
@@ -459,7 +437,7 @@ public class PCMiner {
    * @param stream
    */
   private void initializeConferences(PrintStream stream) {
-    stream.println("");
+    stream.println();
     stream.println("/* INITIALIZE SUPPORTED CONFERENCES: */");
 
     // initialize conferences
@@ -478,6 +456,6 @@ public class PCMiner {
       }
     }
 
-    stream.println("");
+    stream.println();
   }
 }
