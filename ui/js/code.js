@@ -624,7 +624,7 @@ var pcminer = (function () {
             encodeForUrl(list[i].author) +
             '\' target="_blank">Google</a><br>';
           text +=
-            "<a href='https://scholar.google.com/scholar?q=author%3A\"" +
+            "<a href='https://scholar.google.com/scholar?q=author%3A" +
             encodeForUrl(list[i].author) +
             '\' target="_blank">Google Scholar</a><br>';
           text +=
