@@ -481,6 +481,12 @@ var pcminer = (function () {
     clip.append("</p>");
     selector.attr("size", Math.min(10, list.length));
     updateNrEntries();
+    var options = selector.find("option");
+    if (options.length === 1) {
+      // automatically select if there is only one option
+      selector.prop("selectedIndex", 0);
+      selectionChanged(options[0].value);
+    }
   }
 
   /**
