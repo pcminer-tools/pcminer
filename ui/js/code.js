@@ -500,6 +500,48 @@ var pcminer = (function () {
     $("#basic-modal-content").modal();
   }
 
+  function copySelectedName() {
+    // Get the select element
+    var selector = document.getElementById("selector");
+    if (!selector) {
+      console.error("Selector element not found.");
+      return;
+    }
+
+    // Get the currently selected option
+    var selectedOption = selector.options[selector.selectedIndex];
+    if (!selectedOption) {
+      console.error("No option is selected.");
+      return;
+    }
+
+    var text = selectedOption.text;
+
+    // Use the Clipboard API if available
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard
+        .writeText(text)
+        .then(function () {
+          console.log("Copied selected name: " + text);
+        })
+        .catch(function (err) {
+          console.error("Failed to copy text: ", err);
+        });
+    } else {
+      // Fallback method for older browsers
+      var textarea = document.createElement("textarea");
+      textarea.value = text;
+      document.body.appendChild(textarea);
+      textarea.select();
+      try {
+        document.execCommand("copy");
+        console.log("Copied selected name: " + text);
+      } catch (err) {
+        console.error("Fallback: Unable to copy text", err);
+      }
+      document.body.removeChild(textarea);
+    }
+  }
   /**
    * counts the number of publications and committees for an author in the current date range
    */
@@ -945,6 +987,7 @@ var pcminer = (function () {
     confSelected: confSelected,
     confsSelected: confsSelected,
     copyToClipboard: copyToClipboard,
+    copySelectedName: copySelectedName,
     updateExcluded: updateExcluded,
     main: main,
   };
