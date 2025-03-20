@@ -37,6 +37,10 @@ spotless {
         target("ui/js/code.js")
         prettier()
     }
+    format("html") {
+        target("ui/**/*.html")
+        prettier()
+    }
 }
 
 mainClassName = "pcminer.PCMiner"
