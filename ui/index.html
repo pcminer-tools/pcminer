@@ -1,33 +1,62 @@
-<!DOCTYPE>
+<!DOCTYPE >
 <html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-  <meta charset="utf-8" />
-  <link rel="stylesheet" href="css/iThing.css" type="text/css" />
-  <link rel="stylesheet" href="css/jquery-ui-1.10.3.css" type="text/css" />
-  <link rel="stylesheet" href="css/jqcloud.css" type="text/css" />
-  
-  	<!-- REJ added SimpleModal-->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="css/iThing.css" type="text/css" />
+    <link rel="stylesheet" href="css/jquery-ui-1.10.3.css" type="text/css" />
+    <link rel="stylesheet" href="css/jqcloud.css" type="text/css" />
+
+    <!-- REJ added SimpleModal-->
     <!-- Page styles -->
-    <link type='text/css' href='css/simplemodal/demo.css' rel='stylesheet' media='screen' />
+    <link
+      type="text/css"
+      href="css/simplemodal/demo.css"
+      rel="stylesheet"
+      media="screen"
+    />
     <!-- Contact Form CSS files -->
-    <link type='text/css' href='css/simplemodal/basic.css' rel='stylesheet' media='screen' />
+    <link
+      type="text/css"
+      href="css/simplemodal/basic.css"
+      rel="stylesheet"
+      media="screen"
+    />
     <!-- IE6 "fix" for the close png image -->
     <!--[if lt IE 7]>
-    <link type='text/css' href='css/simplemodal/basic_ie.css' rel='stylesheet' media='screen' />
+      <link
+        type="text/css"
+        href="css/simplemodal/basic_ie.css"
+        rel="stylesheet"
+        media="screen"
+      />
     <![endif]-->
-		
-	<style>
-	  #dblpNotice {font-size:14px;}
-	  #nrpubs {font-size:14px;}
-	  #nrcommittees {font-size:14px;}
-	  #examplequery1 {font-size:14px;}
-	  #examplequery2 {font-size:14px;}
-	  #examplequery3 {font-size:14px;}
-	  .conf {font-size:14px;}
-	</style>
-	
-<!--  
+
+    <style>
+      #dblpNotice {
+        font-size: 14px;
+      }
+      #nrpubs {
+        font-size: 14px;
+      }
+      #nrcommittees {
+        font-size: 14px;
+      }
+      #examplequery1 {
+        font-size: 14px;
+      }
+      #examplequery2 {
+        font-size: 14px;
+      }
+      #examplequery3 {
+        font-size: 14px;
+      }
+      .conf {
+        font-size: 14px;
+      }
+    </style>
+
+    <!--  
 	<style>
 	  .ASE { color: #ff0000; }
 	  .ECOOP { color: #ff0000; }
@@ -40,126 +69,235 @@
 	  .PLDI { color: #ff0000; }
 	  .POPL { color: #ff0000; }
 	</style>
--->	
-		
-	<style type="text/css">
-		/*demo page css*/
-		body{ font: 14px "Trebuchet MS", sans-serif; margin: 50px;}
-		.demoHeaders { margin-top: 2em; }
-		#dialog_link {padding: .4em 1em .4em 20px;text-decoration: none;position: relative;}
-		#dialog_link span.ui-icon {margin: 0 5px 0 0;position: relative;left: .2em;top: 50%;margin-top: -8px;}
-		ul#icons {margin: 0; padding: 0;}
-		ul#icons li {margin: 2px; position: relative; padding: 4px 0; cursor: pointer; float: left;  list-style: none;}
-		ul#icons span.ui-icon {float: left; margin: 0 4px;}
-	</style>	
+-->
 
-		
-	<style type="text/css" media="screen">
-	  body { background: #EEF0F7; }
-	 .layout { padding: 6px; font-family: Georgia, serif; }
-	 .layout-slider { margin-bottom: 0px; width: 50%; }
-	 .layout-slider-settings { font-size: 12px; padding-bottom: 2px; }
-	 .layout-slider-settings pre { font-family: Courier; }
-	</style>
-  
-  <script type="text/javascript" src="js/jquery-1.9.1.js"></script> 
-  <script type="text/javascript" src="js/jquery-ui-1.10.3.js"></script>
-  <script type="text/javascript" src="js/jQDateRangeSlider-withRuler-min.js"></script>
-  <script type="text/javascript" src="js/code.js"></script>	
-  <script type="text/javascript" src="js/data.js"></script>
-  <script type='text/javascript' src='js/jquery.simplemodal-1.4.4.js'></script>
-  <script type='text/javascript' src='js/jqcloud-1.0.4.js'></script>	
-</head>
-<body>
-	<h1 id="title">PC-Miner</h1>
-	
-	<table>
-	<!--  acknowledge license -->
-	<tr><td><div id="dblpNotice">This tool contains information from the <a href="http://www.informatik.uni-trier.de/~ley/db/index.html">DBLP Bibliography Server</a>  which is made available
-    under the ODC Attribution License.</div></td></tr>
-	<tr>&nbsp;</tr> 
-	<!--  row 1 -->
-	<tr>
-    <td>
-    <div id=checkboxes></div>
-    <div id = "nrpubs"><span>stub</span></div>   <div id = "nrcommittees"><span>stub</span></div>  
-    </td>
-    </tr>
-	
-	<!--  row 2 -->
-	<tr><td>
-	<div id="slider"></div>
-	</td></tr>
-	</table>
-	<br></br>
-	
-  <table>
-  <tr>	
-  <td>
-  <form>
-  <select id="selector" onchange='pcminer.selectionChanged(this.options[this.selectedIndex].value)'>
-  </select>
-  </form>
-  </td>
-  <td>
-  <div id="wordCloud" style="width: 400px; height: 175px; margin-left: 10%;"></div>
-  </td>
-      <td>
-          <div style="margin-left: 120px;">
-              <label for="excludeTextBox">Exclude list:</label><br>
-              <textarea id="excludeTextBox" rows="10" cols="40" style="font-family: Arial;"></textarea><br>
-              <button onclick="pcminer.updateExcluded(document.getElementById('excludeTextBox').value)">Update</button>
+    <style type="text/css">
+      /*demo page css*/
+      body {
+        font: 14px "Trebuchet MS", sans-serif;
+        margin: 50px;
+      }
+      .demoHeaders {
+        margin-top: 2em;
+      }
+      #dialog_link {
+        padding: 0.4em 1em 0.4em 20px;
+        text-decoration: none;
+        position: relative;
+      }
+      #dialog_link span.ui-icon {
+        margin: 0 5px 0 0;
+        position: relative;
+        left: 0.2em;
+        top: 50%;
+        margin-top: -8px;
+      }
+      ul#icons {
+        margin: 0;
+        padding: 0;
+      }
+      ul#icons li {
+        margin: 2px;
+        position: relative;
+        padding: 4px 0;
+        cursor: pointer;
+        float: left;
+        list-style: none;
+      }
+      ul#icons span.ui-icon {
+        float: left;
+        margin: 0 4px;
+      }
+    </style>
+
+    <style type="text/css" media="screen">
+      body {
+        background: #eef0f7;
+      }
+      .layout {
+        padding: 6px;
+        font-family: Georgia, serif;
+      }
+      .layout-slider {
+        margin-bottom: 0px;
+        width: 50%;
+      }
+      .layout-slider-settings {
+        font-size: 12px;
+        padding-bottom: 2px;
+      }
+      .layout-slider-settings pre {
+        font-family: Courier;
+      }
+    </style>
+
+    <script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="js/jquery-ui-1.10.3.js"></script>
+    <script
+      type="text/javascript"
+      src="js/jQDateRangeSlider-withRuler-min.js"
+    ></script>
+    <script type="text/javascript" src="js/code.js"></script>
+    <script type="text/javascript" src="js/data.js"></script>
+    <script
+      type="text/javascript"
+      src="js/jquery.simplemodal-1.4.4.js"
+    ></script>
+    <script type="text/javascript" src="js/jqcloud-1.0.4.js"></script>
+  </head>
+  <body>
+    <h1 id="title">PC-Miner</h1>
+
+    <table>
+      <!--  acknowledge license -->
+      <tr>
+        <td>
+          <div id="dblpNotice">
+            This tool contains information from the
+            <a href="http://www.informatik.uni-trier.de/~ley/db/index.html"
+              >DBLP Bibliography Server</a
+            >
+            which is made available under the ODC Attribution License.
           </div>
-      </td>
-  </tr>
-  </table>
+        </td>
+      </tr>
+      <tr>
+        &nbsp;
+      </tr>
+      <!--  row 1 -->
+      <tr>
+        <td>
+          <div id="checkboxes"></div>
+          <div id="nrpubs"><span>stub</span></div>
+          <div id="nrcommittees"><span>stub</span></div>
+        </td>
+      </tr>
 
-   <!-- form for "search for" and "conditions" -->
-   <form id="searchFor" onSubmit="return false;">
-   <table>
-     <tr>
-     <td>Search for:</td> 
-     <td><input id = "formField" type="text" name="firstname" onchange='pcminer.nameFilterChanged(this.value)'>
-     <label>
-         <input type="checkbox" name="search_surname" id="search_surname" checked onclick="pcminer.surnameSearchChanged(this.checked)">
-         Search surname
-     </label></td>
-    </tr>
-    <tr>  
-    <td>Filter:</td>  
-    <td><input id = "filterField" size=80 type="text" name="filter" onchange='pcminer.conditionFilterChanged(this.value)'></td>
-    </tr>
-    <tr>
-    <td></td><td><div id="examplequery1">e.g., publications("PLDI") > 3 && committees("PLDI")==0</div></td>
-    </tr>
-    <tr>
-    <td></td><td><div id="examplequery2">e.g., publications("PLDI") > 2 && pc("PLDI")==0</div></td>
-    </tr>
-    <tr>
-    <td></td><td><div id="examplequery3">e.g., keywords("slicing", "synthesis")</div></td>
-    </tr>
+      <!--  row 2 -->
+      <tr>
+        <td>
+          <div id="slider"></div>
+        </td>
+      </tr>
     </table>
-   </form>
+    <br />
 
-	<!-- REJ added SimpleModal -->
-	<div id = 'content'>
-	  <div id='basic-modal'>
-	      <!--<input type='button' name='basic' value='Demo' class='basic'/> -->
-	      <button onClick="pcminer.copyToClipboard()">Display selected names</button>
-	  </div>
-	  <!-- modal content -->
-	  <div id="basic-modal-content">
-	    <!-- content appended to this element -->
-	  </div>
-	  <!-- preload the images -->
-	  <div style='display:none'>
-	    <img src='images/basic/x.png' alt='' />
-	  </div>
-	 </div>    
+    <table>
+      <tr>
+        <td>
+          <form>
+            <select
+              id="selector"
+              onchange="pcminer.selectionChanged(this.options[this.selectedIndex].value)"
+            ></select>
+          </form>
+        </td>
+        <td>
+          <div
+            id="wordCloud"
+            style="width: 400px; height: 175px; margin-left: 10%"
+          ></div>
+        </td>
+        <td>
+          <div style="margin-left: 120px">
+            <label for="excludeTextBox">Exclude list:</label><br />
+            <textarea
+              id="excludeTextBox"
+              rows="10"
+              cols="40"
+              style="font-family: Arial"
+            ></textarea
+            ><br />
+            <button
+              onclick="pcminer.updateExcluded(document.getElementById('excludeTextBox').value)"
+            >
+              Update
+            </button>
+          </div>
+        </td>
+      </tr>
+    </table>
 
+    <!-- form for "search for" and "conditions" -->
+    <form id="searchFor" onSubmit="return false;">
+      <table>
+        <tr>
+          <td>Search for:</td>
+          <td>
+            <input
+              id="formField"
+              type="text"
+              name="firstname"
+              onchange="pcminer.nameFilterChanged(this.value)"
+            />
+            <label>
+              <input
+                type="checkbox"
+                name="search_surname"
+                id="search_surname"
+                checked
+                onclick="pcminer.surnameSearchChanged(this.checked)"
+              />
+              Search surname
+            </label>
+          </td>
+        </tr>
+        <tr>
+          <td>Filter:</td>
+          <td>
+            <input
+              id="filterField"
+              size="80"
+              type="text"
+              name="filter"
+              onchange="pcminer.conditionFilterChanged(this.value)"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <div id="examplequery1">
+              e.g., publications("PLDI") > 3 && committees("PLDI")==0
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <div id="examplequery2">
+              e.g., publications("PLDI") > 2 && pc("PLDI")==0
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <div id="examplequery3">e.g., keywords("slicing", "synthesis")</div>
+          </td>
+        </tr>
+      </table>
+    </form>
 
-  <!-- this is where the author's list of publications and committees will be displayed -->
-  <div id="authorinfo" rows="9" cols="40"></div>	
-	
-</body>
+    <!-- REJ added SimpleModal -->
+    <div id="content">
+      <div id="basic-modal">
+        <!--<input type='button' name='basic' value='Demo' class='basic'/> -->
+        <button onClick="pcminer.copyToClipboard()">
+          Display selected names
+        </button>
+      </div>
+      <!-- modal content -->
+      <div id="basic-modal-content">
+        <!-- content appended to this element -->
+      </div>
+      <!-- preload the images -->
+      <div style="display: none">
+        <img src="images/basic/x.png" alt="" />
+      </div>
+    </div>
+
+    <!-- this is where the author's list of publications and committees will be displayed -->
+    <div id="authorinfo" rows="9" cols="40"></div>
+  </body>
 </html>
