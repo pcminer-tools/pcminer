@@ -406,8 +406,8 @@ var pcminer = (function () {
       '<span float="left">' + nrC + " committee records selected</span>";
   }
 
-  // Updated decodeHtml function using DOMParser
   function decodeHtml(html) {
+    html = html.replace("&oslash;", "o");
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, "text/html");
     return doc.documentElement.textContent;
@@ -427,7 +427,6 @@ var pcminer = (function () {
 
   function nameStartsWith(fullName, prefix) {
     // Decode HTML entities (e.g. converting "&oslash;" into "ø").
-    fullName = fullName.replace("&oslash;", "o");
     const decodedFullName = decodeHtml(fullName);
 
     // Split the decoded name into words and filter out any empty strings.
@@ -461,11 +460,15 @@ var pcminer = (function () {
     clip.append("<p>");
     for (var i = 0; i < list.length; i++) {
       var x = list[i];
-      if (nameFilter == "" || nameStartsWith(x.author, nameFilter)) {
+      const author = x.author;
+      if (
+        (nameFilter == "" || nameStartsWith(author, nameFilter)) &&
+        !excluded.has(normalizeString(decodeHtml(author)))
+      ) {
         if (nrPublicationsAndCommittees(x) > 0 && eval(conditionFilter)) {
           // evil call to eval()
-          selector.append("<option>" + x.author + "</option>");
-          clip.append(x.author + ","); //REJ
+          selector.append("<option>" + author + "</option>");
+          clip.append(author + ","); //REJ
           for (var j = 0; j < x.committees.length; j++) {
             clip.append(
               x.committees[j].conference.series +
@@ -692,6 +695,14 @@ var pcminer = (function () {
         }
       }
     }
+  }
+
+  var excluded = new Set();
+
+  function updateExcluded(input) {
+    const excludedList = input.split("\n").map(normalizeString);
+    excluded = new Set(excludedList);
+    resetSelector();
   }
 
   function encodeForUrl(input) {
@@ -934,6 +945,7 @@ var pcminer = (function () {
     confSelected: confSelected,
     confsSelected: confsSelected,
     copyToClipboard: copyToClipboard,
+    updateExcluded: updateExcluded,
     main: main,
   };
 })();
