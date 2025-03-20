@@ -104,6 +104,13 @@
   <td>
   <div id="wordCloud" style="width: 400px; height: 175px; margin-left: 10%;"></div>
   </td>
+      <td>
+          <div style="margin-left: 120px;">
+              <label for="excludeTextBox">Exclude list:</label><br>
+              <textarea id="excludeTextBox" rows="10" cols="40" style="font-family: Arial;"></textarea><br>
+              <button onclick="pcminer.updateExcluded(document.getElementById('excludeTextBox').value)">Update</button>
+          </div>
+      </td>
   </tr>
   </table>
 
