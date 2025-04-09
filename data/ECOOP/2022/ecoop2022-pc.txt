@@ -1,0 +1,53 @@
+P: Karim Ali
+P: Jan Vitek
+Alastair F. Donaldson
+Ben Hermann
+Manu Sridharan
+Saba Alimadadi
+Annette Bieniusa
+Steve Blackburn
+Sandrine Blazy
+Edwin Brady
+Lubomír Bulej
+Shigeru Chiba
+Albert Cohen
+Eva Darulova
+Wolfgang De Meuter
+Derek Dreyer
+Sophia Drossopoulou
+Stéphane Ducasse
+Sebastian Erdweg
+Simon Fowler
+Juliana Franco
+Deepak Garg
+Simon J. Gay
+Jeremy Gibbons
+Elisa Gonzalez Boix
+Philipp Haller
+Robert Hirschfeld
+Tony Hosking
+Doug Lea
+Mikel Luján
+Magnus Madsen
+Anders Møller
+James Noble
+Martin Odersky
+Bruno C. d. S. Oliveira
+Klaus Ostermann
+Tomas Petricek
+Alex Potanin
+Marianna Rapoport
+Manuel Rigger
+Guido Salvaneschi
+Tom Schrijvers
+Manuel Serrano
+Alexandra Silva
+Emma Tosch
+Laurence Tratt
+Vasco T. Vasconcelos
+Eelco Visser
+Tobias Wrigstad
+Tao Xie
+Jingling Xue
+Elena Zucca
+
