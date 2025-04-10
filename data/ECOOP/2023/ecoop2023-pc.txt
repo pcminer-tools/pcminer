@@ -1,0 +1,32 @@
+P: Karim Ali
+P: Guido Salvaneschi
+Ben Hermann
+Cyrus Omar
+Emma Söderberg
+Gul Agha
+Riyadh Baghdadi
+Shigeru Chiba
+Andrew Craik
+Wolfgang De Meuter
+Alastair F. Donaldson
+Simon J. Gay
+Jeremy Gibbons
+Tony Hosking
+Atsushi Igarashi
+Mikel Luján
+Ana Milanova
+Anders Møller
+Klaus Ostermann
+Tomas Petricek
+Alex Potanin
+Tom Schrijvers
+Manuel Serrano
+Thodoris Sotiropoulos
+Peter Thiemann
+Emma Tosch
+Vasco T. Vasconcelos
+Yuepeng Wang
+Stefan Wehr
+Tobias Wrigstad
+Chengyu Zhang
+
