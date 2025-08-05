@@ -1,0 +1,124 @@
+P:Anders M&oslash;ller
+P:Isil Dillig
+Willow Ahrens
+Greg Anderson
+Martin Avanzini
+Thomas Ball
+Yuyan Bao
+Osbert Bastani
+Jonathan Bell
+Aaron Bembenek
+David Binder
+Jonathan Immanuel Brachth&auml;user
+Oliver Bra&#269;evac
+Jos&eacute; Pablo Cambronero
+Eric Campbell
+Michael Carbin
+Ethan Cecchetti
+Satish Chandra
+Sarah E. Chasins
+Jocelyn (Qiaochu) Chen
+Mingshuai Chen
+Maria Christakis
+Andreea Costea
+Will Crichton
+Mila Dalla Preda
+Jenna DiVincenzo (Wise)
+Elizabeth Dinellla
+Brijesh Dongol
+Dana Drachsler Cohen
+Emanuele D&rsquo;Osualdo
+Mehmet Emre
+Hongfei Fu
+Deepak Garg
+Paola Giannini
+Milos Gligoric
+Satyajit Gokhale
+Harrison Goldstein
+Kiran Gopinathan
+Dan Grossman
+Roberto Guanciale
+Troels Henriksen
+Yann Herklotz
+Michael Hicks
+Daniel Hillerstr&ouml;m
+Jon Howell
+Chiao Hsieh
+Jeff Huang
+Anastasia Isychev
+Abhinav Jangda
+Yu Jiang
+Piyus Kedia
+Jieung Kim
+Fredrik Kjolstad
+Michalis Kokologiannakis
+Burcu Kulahcioglu Ozkan
+Julien Lange
+Andrea Lattuada
+Jacob Laurel
+Mohsen Lesani
+Alexander K. Lew
+Ondrej Lhot&aacute;k
+Shaohua Li
+Yue Li
+Sam Lindley
+Konstantinos Mamouras
+Ravi Mangal
+Charith Mendis
+Kristopher Micinski
+Mae Milano
+Anders Miltner
+Sasa Misailovic
+Dimitris Mitropoulos
+David Monniaux
+Peter M&uuml;ller
+Chandrakana Nandi
+Rohan Padhye
+Shankara Pailoor
+Hila Peleg
+Fernando Magno Quint&atilde;o Pereira
+Gustavo Petri
+Lauren Pick
+Ruzica Piskac
+Elizabeth Polgreen
+Nadia Polikarpova
+Hern&aacute;n Ponce de Le&oacute;n
+Michael Pradel
+Matija Pretnar
+Mukund Raghothaman
+Kia Rahmani
+John Regehr
+Tom Schrijvers
+Amir Shaikhha
+Elena Sherman
+Qingkai Shi
+Ji-Yong Shin
+Thodoris Sotiropoulos
+Michel Steuwer
+Yulei Sui
+Chengnian Sun
+Jun Sun
+Kirshanthan Sundararajah
+Aalok Thakkar
+Peter Thiemann
+Ashish Tiwari
+Alexi Turcotte
+Caterina Urban
+Gust Verbruggen
+Chao Wang
+Chenglong Wang
+Di Wang
+Jingbo Wang
+Ke Wang
+Shuai Wang
+Max Willsey
+Yingfei Xiong
+Jinqiu Yang
+Qianchuan Ye
+Nengkun Yu
+Tingting Yu
+Steve Zdancewic
+Charles Zhang
+Danfeng Zhang
+Klaus von Gleissenthall
+
