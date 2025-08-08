@@ -32,6 +32,10 @@ import org.htmlparser.util.NodeList;
 import org.htmlparser.util.ParserException;
 import org.htmlparser.util.SimpleNodeIterator;
 import org.htmlparser.visitors.NodeVisitor;
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+import java.lang.reflect.Type;
+
 
 /**
  * This program is a simple utility for doing some analysis on publication and program committee
@@ -135,6 +139,10 @@ public class PCMiner {
                   System.err.print(theConference + theYear + " ");
                   if (count++ % 10 == 0) System.err.println();
                   scanConference(file2);
+                } else if (fileName.endsWith(".json")) { // the file from DBLP
+                  System.err.print(theConference + theYear + " ");
+                  if (count++ % 10 == 0) System.err.println();
+                  scanConferenceJson(file2);
                 } else if (fileName.endsWith("-pc.txt")) { // the file containing PC members
                   Conference conf = Conference.findOrCreate(theConference);
                   ConferenceInstance ci = ConferenceInstance.findOrCreate(conf, theYear);
@@ -209,7 +217,7 @@ public class PCMiner {
                       if (node instanceof TextNode tn) {
 
                         String sessionName = tn.getText();
-                        sessionName =
+                        sessionName = 
                             sessionName
                                 .replace("\n", " ")
                                 .replace("\r", " "); // some session names contain line breaks
@@ -231,6 +239,34 @@ public class PCMiner {
       e.printStackTrace();
     }
   }
+
+  private void scanConferenceJson(File file) {
+    Gson gson = new Gson();
+    try (FileReader reader = new FileReader(file)) {
+      Type collectionType = new TypeToken<ArrayList<Paper>>(){}.getType();
+      List<Paper> papers = gson.fromJson(reader, collectionType);
+      for (Paper paper : papers) {
+        theTitle = paper.title();
+        theAuthors = new ArrayList<>();
+        for (String authorName : paper.authors()) {
+          Author author = Author.findOrCreate(authorName);
+          theAuthors.add(author);
+        }
+        thePageNums = "";
+        Conference conf = Conference.findOrCreate(theConference);
+        ConferenceInstance ci = ConferenceInstance.findOrCreate(conf, theYear);
+        Publication pub = new Publication(theTitle, ci, thePageNums, theAuthors, theSession);
+        for (Author author : theAuthors) {
+          author.addPublication(pub);
+        }
+        publications.add(pub);
+      }
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+  }
+
+  private static record Paper(String title, List<String> authors) {}
 
   private static String fixPACMPLConfName(String confName) {
     if (confName.equals("OOPSLA1") || confName.equals("OOPSLA2")) {

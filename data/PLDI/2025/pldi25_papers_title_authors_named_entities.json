@@ -1,0 +1,821 @@
+[
+  {
+    "title": "A Concurrent Approach to String Transformation Synthesis",
+    "authors": [
+      "Yuantian Ding",
+      "Xiaokang Qiu"
+    ]
+  },
+  {
+    "title": "Active Learning of Symbolic NetKAT Automata",
+    "authors": [
+      "Mark Moeller",
+      "Tiago Ferreira",
+      "Thomas Lu",
+      "Nate Foster",
+      "Alexandra Silva"
+    ]
+  },
+  {
+    "title": "A Hybrid Approach to Semi-automated Rust Verification",
+    "authors": [
+      "Sacha-&Eacute;lie Ayoun",
+      "Xavier Denis",
+      "Petar Maksimovi&cacute;",
+      "Philippa Gardner"
+    ]
+  },
+  {
+    "title": "An Interactive Debugger for Rust Trait Errors",
+    "authors": [
+      "Gavin Gray",
+      "Will Crichton",
+      "Shriram Krishnamurthi"
+    ]
+  },
+  {
+    "title": "A Uniform Framework for Handling Position Constraints in String Solving",
+    "authors": [
+      "Yu-Fang Chen",
+      "Vojt&ecaron;ch Havlena",
+      "Michal He&ccaron;ko",
+      "Luk&aacute;&scaron; Hol&iacute;k",
+      "Ond&rcaron;ej Leng&aacute;l"
+    ]
+  },
+  {
+    "title": "Automated Exploit Generation for Node.js Packages",
+    "authors": [
+      "Filipe Marques",
+      "Mafalda Ferreira",
+      "Andr&eacute; Nascimento",
+      "Miguel E. Coimbra",
+      "Nuno Santos",
+      "Limin Jia",
+      "Jos&eacute; Fragoso Santos"
+    ]
+  },
+  {
+    "title": "AWDIT: An Optimal Weak Database Isolation Tester",
+    "authors": [
+      "Lasse M&oslash;ldrup",
+      "Andreas Pavlogiannis"
+    ]
+  },
+  {
+    "title": "Bean: A Language for Backward Error Analysis",
+    "authors": [
+      "Ariel E. Kellison",
+      "Laura Zielinski",
+      "David Bindel",
+      "Justin Hsu"
+    ]
+  },
+  {
+    "title": "Certified Compilers &agrave; la Carte",
+    "authors": [
+      "Oghenevwogaga Ebresafe",
+      "Ian Zhao",
+      "Ende Jin",
+      "Arthur Bright",
+      "Charles Jian",
+      "Yizhou Zhang"
+    ]
+  },
+  {
+    "title": "Circuit Optimization using Arithmetic Table Lookups",
+    "authors": [
+      "Raghav Malik",
+      "Vedant Paranjape",
+      "Milind Kulkarni"
+    ]
+  },
+  {
+    "title": "CompCertOC: Verified Compositional Compilation of Multi-threaded Programs with Shared Stacks",
+    "authors": [
+      "Ling Zhang",
+      "Yuting Wang",
+      "Yalun Liang",
+      "Zhong Shao"
+    ]
+  },
+  {
+    "title": "Correctly Rounded Math Libraries without Worrying about the Application&rsquo;s Rounding Mode",
+    "authors": [
+      "Sehyeok Park",
+      "Justin Kim",
+      "Santosh Nagarakatte"
+    ]
+  },
+  {
+    "title": "CRGC: Fault-Recovering Actor Garbage Collection in Pekko",
+    "authors": [
+      "Dan Plyukhin",
+      "Gul Agha",
+      "Fabrizio Montesi"
+    ]
+  },
+  {
+    "title": "Destabilizing Iris",
+    "authors": [
+      "Simon Spies",
+      "Niklas M&uuml;ck",
+      "Haoyi Zeng",
+      "Michael Sammler",
+      "Andrea Lattuada",
+      "Peter M&uuml;ller",
+      "Derek Dreyer"
+    ]
+  },
+  {
+    "title": "Divergence-Aware Testing of Graphics Shader Compiler Back-Ends",
+    "authors": [
+      "Dongwei Xiao",
+      "Shuai Wang",
+      "Zhibo Liu",
+      "Yiteng Peng",
+      "Daoyuan Wu",
+      "Zhendong Su"
+    ]
+  },
+  {
+    "title": "DR.FIX: Automatically Fixing Data Races at Industry Scale",
+    "authors": [
+      "Farnaz Behrang",
+      "Zhizhou (Chris) Zhang",
+      "Georgian-Vlad Saioc",
+      "Peng Liu",
+      "Milind Chabbi"
+    ]
+  },
+  {
+    "title": "Dynamic Region Ownership for Concurrency Safety",
+    "authors": [
+      "Fridtjof Stoldt",
+      "Brandt Bucher",
+      "Sylvan Clebsch",
+      "Matthew A. Johnson",
+      "Matthew J. Parkinson",
+      "Guido van Rossum",
+      "Eric Snow",
+      "Tobias Wrigstad"
+    ]
+  },
+  {
+    "title": "Dynamic Robustness Verification against Weak MemoryRemote",
+    "authors": [
+      "Roy Margalit",
+      "Michalis Kokologiannakis",
+      "Shachar Itzhaky",
+      "Ori Lahav"
+    ]
+  },
+  {
+    "title": "Efficient Formal Verification of Quantum Error Correcting Programs",
+    "authors": [
+      "Qifan Huang",
+      "Li Zhou",
+      "Wang Fang",
+      "Mengyu Zhao",
+      "Mingsheng Ying"
+    ]
+  },
+  {
+    "title": "Efficient Linearizability Monitoring",
+    "authors": [
+      "Parosh Aziz Abdulla",
+      "Samuel Grahn",
+      "Bengt Jonsson",
+      "Shankaranarayanan Krishna",
+      "Om Swostik Mishra"
+    ]
+  },
+  {
+    "title": "Efficient, Portable, Census-Polymorphic Choreographic Programming",
+    "authors": [
+      "Mako P. Bates",
+      "Shun Kashiwa",
+      "Syed Jafri",
+      "Gan Shen",
+      "Lindsey Kuper",
+      "Joseph P. Near"
+    ]
+  },
+  {
+    "title": "Efficient Timestamping for Sampling-Based Race Detection",
+    "authors": [
+      "Minjian Zhang",
+      "Daniel Wee Soong Lim",
+      "Mosaad Al Thokair",
+      "Umang Mathur",
+      "Mahesh Viswanathan"
+    ]
+  },
+  {
+    "title": "Exact Loop Bound Analysis",
+    "authors": [
+      "Daniel Riley",
+      "Grigory Fedyukovich"
+    ]
+  },
+  {
+    "title": "Exploiting Undefined Behavior in C/C++ Programs for Optimization: A Study on the Performance Impact",
+    "authors": [
+      "Lucian Popescu",
+      "Nuno P. Lopes"
+    ]
+  },
+  {
+    "title": "Fast Direct Manipulation Programming with Patch-Reconciliation Correspondence",
+    "authors": [
+      "Parker Ziegler",
+      "Justin Lubin",
+      "Sarah E. Chasins"
+    ]
+  },
+  {
+    "title": "First-Class Verification Dialects for MLIR",
+    "authors": [
+      "Mathieu Fehr",
+      "Yuyou Fan",
+      "Hugo Pompougnac",
+      "John Regehr",
+      "Tobias Grosser"
+    ]
+  },
+  {
+    "title": "Functional Meaning for Parallel Streaming",
+    "authors": [
+      "Nick Rioux",
+      "Steve Zdancewic"
+    ]
+  },
+  {
+    "title": "Graphiti: Bridging Graph and Relational Database Queries",
+    "authors": [
+      "Yang He",
+      "Ruijie Fang",
+      "I&scedil;&imath;l Dillig",
+      "Yuepeng Wang"
+    ]
+  },
+  {
+    "title": "Guided Tensor Lifting",
+    "authors": [
+      "Yixuan Li",
+      "Jos&eacute; Wesley De Souza Magalh&atilde;es",
+      "Alexander Brauckmann",
+      "Michael F. P. O'Boyle",
+      "Elizabeth Polgreen"
+    ]
+  },
+  {
+    "title": "Handling the Selection Monad",
+    "authors": [
+      "Gordon Plotkin",
+      "Ningning Xie"
+    ]
+  },
+  {
+    "title": "Intrinsic Verification of Parsers and Formal Grammar Theory in Dependent Lambek Calculus",
+    "authors": [
+      "Steven Schaefer",
+      "Nathan Varner",
+      "Pedro Henrique Azevedo de Amorim",
+      "Max S. New"
+    ]
+  },
+  {
+    "title": "Iso: Request-Private Garbage Collection",
+    "authors": [
+      "Tianle Qiu",
+      "Stephen M. Blackburn"
+    ]
+  },
+  {
+    "title": "Leveraging Immutability to Validate Hazard Pointers for Optimistic Traversals",
+    "authors": [
+      "Janggun Lee",
+      "Jeonghyeon Kim",
+      "Jeehoon Kang"
+    ]
+  },
+  {
+    "title": "LiDO-DAG: A Framework for Verifying Safety and Liveness of DAG-Based Consensus Protocols",
+    "authors": [
+      "Longfei Qiu",
+      "Jingqi Xiao",
+      "Ji-Yong Shin",
+      "Zhong Shao"
+    ]
+  },
+  {
+    "title": "Lightweight and Locality-Aware Composition of Black-Box Subroutines",
+    "authors": [
+      "Manya Bansal",
+      "Dillon Sharlet",
+      "Jonathan Ragan-Kelley",
+      "Saman Amarasinghe"
+    ]
+  },
+  {
+    "title": "Link-Time Optimization of Dynamic Casts in C++ Programs",
+    "authors": [
+      "Xufan Lu",
+      "Nuno P. Lopes"
+    ]
+  },
+  {
+    "title": "Making Concurrent Hardware Verification Sequential",
+    "authors": [
+      "Thomas Bourgeat",
+      "Jiazheng Liu",
+      "Adam Chlipala",
+      "Arvind"
+    ]
+  },
+  {
+    "title": "MarQSim: Reconciling Determinism and Randomness in Compiler Optimization for Quantum SimulationRemote",
+    "authors": [
+      "Xiuqi Cao",
+      "Junyu Zhou",
+      "Yuhao Liu",
+      "Yunong Shi",
+      "Gushu Li"
+    ]
+  },
+  {
+    "title": "Membership Testing for Semantic Regular Expressions",
+    "authors": [
+      "Yifei Huang",
+      "Matin Amini",
+      "Alexis Le Glaunec",
+      "Konstantinos Mamouras",
+      "Mukund Raghothaman"
+    ]
+  },
+  {
+    "title": "MISAAL: Synthesis-Based Automatic Generation of Efficient and Retargetable Semantics-Driven OptimizationsRemote",
+    "authors": [
+      "Abdul Rafae Noor",
+      "Dhruv Baronia",
+      "Akash Kothari",
+      "Muchen Xu",
+      "Charith Mendis",
+      "Vikram S. Adve"
+    ]
+  },
+  {
+    "title": "Modular Construction and Optimization of the UZP Sparse Format for SpMV on CPUs",
+    "authors": [
+      "Alonso Rodr&iacute;guez-Iglesias",
+      "Santoshkumar T. Tongli",
+      "Emily Tucker",
+      "Louis-No&euml;l Pouchet",
+      "Gabriel Rodr&iacute;guez",
+      "Juan Tourino"
+    ]
+  },
+  {
+    "title": "Morello-Cerise: A Proof of Strong Encapsulation for the Arm Morello Capability Hardware ArchitectureRemote",
+    "authors": [
+      "Angus Hammond",
+      "Ricardo Almeida",
+      "Thomas Bauereiss",
+      "Brian Campbell",
+      "Ian Stark",
+      "Peter Sewell"
+    ]
+  },
+  {
+    "title": "Multi-stage Relational Programming",
+    "authors": [
+      "Michael Ballantyne",
+      "Rafaello Sanna",
+      "Jason Hemann",
+      "William E. Byrd",
+      "Nada Amin"
+    ]
+  },
+  {
+    "title": "Nola: Later-Free Ghost State for Verifying Termination in Iris",
+    "authors": [
+      "Yusuke Matsushita",
+      "Takeshi Tsukada"
+    ]
+  },
+  {
+    "title": "Optimization-Directed Compiler Fuzzing for Continuous Translation Validation",
+    "authors": [
+      "Jaeseong Kwon",
+      "Bongjun Jang",
+      "Juneyoung Lee",
+      "Kihong Heo"
+    ]
+  },
+  {
+    "title": "Optimizing Ancilla-Based Quantum Circuits with SPARE",
+    "authors": [
+      "Ritvik Sharma",
+      "Sara Achour"
+    ]
+  },
+  {
+    "title": "Partial Evaluation, Whole-Program Compilation",
+    "authors": [
+      "Chris Fallin",
+      "Maxwell Bernstein"
+    ]
+  },
+  {
+    "title": "Pointer Analysis for Database-Backed Applications",
+    "authors": [
+      "Yufei Liang",
+      "Teng Zhang",
+      "Ganlin Li",
+      "Tian Tan",
+      "Chang Xu",
+      "Chun Cao",
+      "Xiaoxing Ma",
+      "Yue Li"
+    ]
+  },
+  {
+    "title": "Polygon: Symbolic Reasoning for SQL using Conflict-Driven Under-Approximation Search",
+    "authors": [
+      "Pinhan Zhao",
+      "Yuepeng Wang",
+      "Xinyu Wang"
+    ]
+  },
+  {
+    "title": "Practical Type Inference with Levels",
+    "authors": [
+      "Andong Fan",
+      "Han Xu",
+      "Ningning Xie"
+    ]
+  },
+  {
+    "title": "Principal Type Inference under a Prefix: A Fresh Look at Static Overloading",
+    "authors": [
+      "Daan Leijen",
+      "Wenjia Ye"
+    ]
+  },
+  {
+    "title": "Probabilistic Kleene Algebra with Angelic Nondeterminism",
+    "authors": [
+      "Shawn Ong",
+      "Stephanie Ma",
+      "Dexter Kozen"
+    ]
+  },
+  {
+    "title": "Probabilistic Refinement Session TypesRemote",
+    "authors": [
+      "Qiancheng Fu",
+      "Ankush Das",
+      "Marco Gaboardi"
+    ]
+  },
+  {
+    "title": "Programming by Navigation",
+    "authors": [
+      "Justin Lubin",
+      "Parker Ziegler",
+      "Sarah E. Chasins"
+    ]
+  },
+  {
+    "title": "Program Skeletons for Automated Program Translation",
+    "authors": [
+      "Bo Wang",
+      "Tianyu Li",
+      "Ruishi Li",
+      "Umang Mathur",
+      "Prateek Saxena"
+    ]
+  },
+  {
+    "title": "Program Synthesis From Partial Traces",
+    "authors": [
+      "Margarida Ferreira",
+      "Victor Nicolet",
+      "Joey Dodds",
+      "Daniel Kroening"
+    ]
+  },
+  {
+    "title": "PulseCore: An Impredicative Concurrent Separation Logic for Dependently Typed Programs",
+    "authors": [
+      "Gabriel Ebner",
+      "Guido Mart&iacute;nez",
+      "Aseem Rastogi",
+      "Thibault Dardinier",
+      "Megan Frisella",
+      "Tahina Ramananandro",
+      "Nikhil Swamy"
+    ]
+  },
+  {
+    "title": "Quantum Register Machine: Efficient Implementation of Quantum Recursive Programs",
+    "authors": [
+      "Zhicheng Zhang",
+      "Mingsheng Ying"
+    ]
+  },
+  {
+    "title": "QVM: Quantum Gate Virtualization Machine",
+    "authors": [
+      "Nathaniel Tornow",
+      "Emmanouil Giortamis",
+      "Pramod Bhatotia"
+    ]
+  },
+  {
+    "title": "Random Variate Generation with Formal Guarantees",
+    "authors": [
+      "Feras Saad",
+      "Wonyeol Lee"
+    ]
+  },
+  {
+    "title": "Reductive Analysis with Compiler-Guided Large Language Models for Input-Centric Code OptimizationsRecorded",
+    "authors": [
+      "Xiangwei Wang",
+      "Xinning Hui",
+      "Chunhua Liao",
+      "Xipeng Shen"
+    ]
+  },
+  {
+    "title": "RefinedProsa: Connecting Response-Time Analysis with C Verification for Interrupt-Free Schedulers",
+    "authors": [
+      "Kimaya Bedarkar",
+      "Laila Elbeheiry",
+      "Michael Sammler",
+      "Lennard G&auml;her",
+      "Bj&ouml;rn Brandenburg",
+      "Derek Dreyer",
+      "Deepak Garg"
+    ]
+  },
+  {
+    "title": "Relational Abstractions Based on Labeled Union-Find",
+    "authors": [
+      "Dorian Lesbre",
+      "Matthieu Lemerre",
+      "Hichem Rami Ait-El-Hara",
+      "Fran&ccedil;ois Bobot"
+    ]
+  },
+  {
+    "title": "Relaxing Alias Analysis: Exploring the Unexplored Space",
+    "authors": [
+      "Michel Weber",
+      "Theodoros Theodoridis",
+      "Zhendong Su"
+    ]
+  },
+  {
+    "title": "Ripple: Asynchronous Programming for Spatial Dataflow Architectures",
+    "authors": [
+      "Souradip Ghosh",
+      "Yufei Shi",
+      "Brandon Lucia",
+      "Nathan Beckmann"
+    ]
+  },
+  {
+    "title": "Robust Constant-Time Cryptography",
+    "authors": [
+      "Matthew Kolosick",
+      "Basavesh Ammanaghatta Shivakumar",
+      "Sunjay Cauligi",
+      "Marco Patrignani",
+      "Marco Vassena",
+      "Ranjit Jhala",
+      "Deian Stefan"
+    ]
+  },
+  {
+    "title": "Robustifying Debug Information Updates in LLVM via Control-Flow Conformance Analysis",
+    "authors": [
+      "Shan Huang",
+      "Jingjing Liang",
+      "Ting Su",
+      "Qirun Zhang"
+    ]
+  },
+  {
+    "title": "Roulette: A Language for Expressive, Exact, and Efficient Discrete Probabilistic Programming",
+    "authors": [
+      "Cameron Moy",
+      "Jack Czenszak",
+      "John Li",
+      "Brianna Marshall",
+      "Steven Holtzen"
+    ]
+  },
+  {
+    "title": "RRR-SMR: Reduce, Reuse, Recycle: Better Methods for Practical Lock-Free Data Structures",
+    "authors": [
+      "Md Amit Hasan Arovi",
+      "Ruslan Nikolaev"
+    ]
+  },
+  {
+    "title": "Scalable, Validated Code Translation of Entire Projects using Large Language Models",
+    "authors": [
+      "Hanliang Zhang",
+      "Cristina David",
+      "Meng Wang",
+      "Brandon Paulsen",
+      "Daniel Kroening"
+    ]
+  },
+  {
+    "title": "Semantics of Integrating and Differentiating Singularities",
+    "authors": [
+      "Jesse Michel",
+      "Wonyeol Lee",
+      "Hongseok Yang"
+    ]
+  },
+  {
+    "title": "Slotted E-Graphs: First-Class Support for (Bound) Variables in E-Graphs",
+    "authors": [
+      "Rudi Schneider",
+      "Marcus Rossel",
+      "Amir Shaikhha",
+      "Andr&eacute;s Goens",
+      "Thomas Koehler",
+      "Michel Steuwer"
+    ]
+  },
+  {
+    "title": "Smooth, Integrated Proofs of Cryptographic Constant Time for Nondeterministic Programs and Compilers",
+    "authors": [
+      "Owen Conoly",
+      "Andres Erbsen",
+      "Adam Chlipala"
+    ]
+  },
+  {
+    "title": "Solving Floating-Point Constraints with Continuous Optimization",
+    "authors": [
+      "Qian Chen",
+      "Chenqi Cui",
+      "Fengjuan Gao",
+      "Yu Wang",
+      "Ke Wang",
+      "Linzhang Wang"
+    ]
+  },
+  {
+    "title": "Spineless Traversal for Layout Invalidation",
+    "authors": [
+      "Marisa Kirisame",
+      "Tiezhi Wang",
+      "Pavel Panchekha"
+    ]
+  },
+  {
+    "title": "StacKAT: Infinite State Network Verification",
+    "authors": [
+      "Jules Jacobs",
+      "Nate Foster",
+      "Tobias Kapp&eacute;",
+      "Dexter Kozen",
+      "Lily Saada",
+      "Alexandra Silva",
+      "Jana Wagemaker"
+    ]
+  },
+  {
+    "title": "Stochastic Lazy Knowledge Compilation for Inference in Discrete Probabilistic Programs",
+    "authors": [
+      "Maddy Bowers",
+      "Alexander K. Lew",
+      "Joshua B. Tenenbaum",
+      "Armando Solar-Lezama",
+      "Vikash K. Mansinghka"
+    ]
+  },
+  {
+    "title": "Support Triangle Machine",
+    "authors": [
+      "Jiaying Li",
+      "Chunxue Hao"
+    ]
+  },
+  {
+    "title": "Taking out the Toxic Trash: Recovering Precision in Mixed Flow-Sensitive Static Analyses",
+    "authors": [
+      "Fabian Stemmler",
+      "Michael Schwarz",
+      "Julian Erhard",
+      "Sarah Tilscher",
+      "Helmut Seidl"
+    ]
+  },
+  {
+    "title": "Task-Based Tensor Computations on Modern GPUs",
+    "authors": [
+      "Rohan Yadav",
+      "Michael Garland",
+      "Alex Aiken",
+      "Michael Bauer"
+    ]
+  },
+  {
+    "title": "Thrust: A Prophecy-Based Refinement Type System for Rust",
+    "authors": [
+      "Hiromi Ogawa",
+      "Taro Sekiyama",
+      "Hiroshi Unno"
+    ]
+  },
+  {
+    "title": "Tree Borrows",
+    "authors": [
+      "Neven Villani",
+      "Johannes Hostert",
+      "Derek Dreyer",
+      "Ralf Jung"
+    ]
+  },
+  {
+    "title": "Type-Constrained Code Generation with Language Models",
+    "authors": [
+      "Niels M&uuml;ndler",
+      "Jingxuan He",
+      "Hao Wang",
+      "Koushik Sen",
+      "Dawn Song",
+      "Martin Vechev"
+    ]
+  },
+  {
+    "title": "Usability Barriers for Liquid Types",
+    "authors": [
+      "Catarina Gamboa",
+      "Abigail Elena Reese",
+      "Alcides Fonseca",
+      "Jonathan Aldrich"
+    ]
+  },
+  {
+    "title": "Verified Foundations for Differential Privacy",
+    "authors": [
+      "Markus de Medeiros",
+      "Muhammad Naveed",
+      "Tancr&egrave;de Lepoint",
+      "Temesghen Kahsai",
+      "Tristan Ravitch",
+      "Stefan Zetzsche",
+      "Anjali Joshi",
+      "Joseph Tassarotti",
+      "Aws Albarghouthi",
+      "Jean-Baptiste Tristan"
+    ]
+  },
+  {
+    "title": "Verifying General-Purpose RCU for Reclamation in Relaxed Memory Separation Logic",
+    "authors": [
+      "Jaehwang Jung",
+      "Sunho Park",
+      "Janggun Lee",
+      "Jeho Yeon",
+      "Jeehoon Kang"
+    ]
+  },
+  {
+    "title": "Verifying Lock-Free Traversals in Relaxed Memory Separation Logic",
+    "authors": [
+      "Sunho Park",
+      "Jaehwang Jung",
+      "Janggun Lee",
+      "Jeehoon Kang"
+    ]
+  },
+  {
+    "title": "Verifying Solutions to Semantics-Guided Synthesis Problems",
+    "authors": [
+      "Charlie Murphy",
+      "Keith J.C. Johnson",
+      "Thomas Reps",
+      "Loris D'Antoni"
+    ]
+  },
+  {
+    "title": "Webs and Flow-Directed Well-Typedness Preserving Program Transformations",
+    "authors": [
+      "Benjamin Quiring",
+      "David Van Horn",
+      "John Reppy",
+      "Olin Shivers"
+    ]
+  }
+]
