@@ -350,3 +350,4 @@ Ale&scaron; Bizjak->Ales Bizjak
 Thomas Reps->Thomas W. Reps
 Oliver Bra&ccaron;evac->Oliver Bracevac
 Loris D'Antoni->Loris D&apos;Antoni
+V Krishna Nandivada->V. Krishna Nandivada
