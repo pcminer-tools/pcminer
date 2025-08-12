@@ -1,11 +1,14 @@
 package pcminer;
 
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintStream;
+import java.lang.reflect.Type;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -32,10 +35,6 @@ import org.htmlparser.util.NodeList;
 import org.htmlparser.util.ParserException;
 import org.htmlparser.util.SimpleNodeIterator;
 import org.htmlparser.visitors.NodeVisitor;
-import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
-import java.lang.reflect.Type;
-
 
 /**
  * This program is a simple utility for doing some analysis on publication and program committee
@@ -217,7 +216,7 @@ public class PCMiner {
                       if (node instanceof TextNode tn) {
 
                         String sessionName = tn.getText();
-                        sessionName = 
+                        sessionName =
                             sessionName
                                 .replace("\n", " ")
                                 .replace("\r", " "); // some session names contain line breaks
@@ -243,7 +242,7 @@ public class PCMiner {
   private void scanConferenceJson(File file) {
     Gson gson = new Gson();
     try (FileReader reader = new FileReader(file)) {
-      Type collectionType = new TypeToken<ArrayList<Paper>>(){}.getType();
+      Type collectionType = new TypeToken<ArrayList<Paper>>() {}.getType();
       List<Paper> papers = gson.fromJson(reader, collectionType);
       for (Paper paper : papers) {
         theTitle = paper.title();
