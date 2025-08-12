@@ -352,3 +352,4 @@ Oliver Bra&ccaron;evac->Oliver Bracevac
 Loris D'Antoni->Loris D&apos;Antoni
 V Krishna Nandivada->V. Krishna Nandivada
 Sarah Chasins->Sarah E. Chasins
+Liam O'Connor->Liam O&apos;Connor
