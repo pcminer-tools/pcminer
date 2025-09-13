@@ -11,7 +11,7 @@ Michael Greenberg
 David Grove
 Murali Krishna Ramanathan
 Burcu Kulahcioglu Ozkan
-Viktor Kunčak
+Viktor Kun&#269;ak
 Julia Lawall
 Mira Mezini
 Todd Mytkowicz
@@ -19,7 +19,7 @@ Robert O'Callahan
 Hakjoo Oh
 Uday P. Khedker
 Hila Peleg
-Fernando Magno Quintão Pereira
+Fernando Magno Quint&atilde;o Pereira
 Michael Pradel
 Sukyoung Ryu
 Alexandra Silva

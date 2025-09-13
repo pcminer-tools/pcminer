@@ -2,7 +2,7 @@ P: Karim Ali
 P: Guido Salvaneschi
 Ben Hermann
 Cyrus Omar
-Emma Söderberg
+Emma S&ouml;derberg
 Gul Agha
 Riyadh Baghdadi
 Shigeru Chiba
@@ -13,9 +13,9 @@ Simon J. Gay
 Jeremy Gibbons
 Tony Hosking
 Atsushi Igarashi
-Mikel Luján
+Mikel Luj&aacute;n
 Ana Milanova
-Anders Møller
+Anders M&oslash;ller
 Klaus Ostermann
 Tomas Petricek
 Alex Potanin
